@@ -1,0 +1,21 @@
+package cz.webarchiv.wah
+
+class Resource {
+
+    String title
+    String url
+    Boolean important
+    String comments
+    Date date
+
+    static constraints = {
+        url(url:true)
+    }
+
+    static mapping = {
+        table 'resources'
+    }
+
+    static belongsTo = [creator: Curator]
+    static hasMany = [seeds: Seed]
+}
