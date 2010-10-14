@@ -7,9 +7,10 @@ class Resource {
     Boolean important
     String comments
     Date date
+    Publisher publisher
 
     static constraints = {
-        url(url:true)
+        url(url: true)
     }
 
     static mapping = {
@@ -18,4 +19,5 @@ class Resource {
 
     static belongsTo = [creator: Curator]
     static hasMany = [seeds: Seed]
+
 }

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots>
+          <root url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/codenarc-0.7/web-app" relative="/" />
+          <root url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/code-coverage-1.1.8/web-app" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/code-coverage-1.1.8" />
+    <content url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/codenarc-0.7" />
+    <content url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/datasources-0.5">
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/datasources-0.5/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/datasources-0.5/src/groovy" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/hibernate-1.3.5" />
+    <content url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/tomcat-1.3.5">
+      <sourceFolder url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/tomcat-1.3.5/src/groovy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library">
+        <CLASSES>
+          <root url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/tomcat-1.3.5/lib" />
+          <root url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/codenarc-0.7/lib" />
+          <root url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/code-coverage-1.1.8/lib" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/org.codehaus.groovy/http-builder/jars/http-builder-0.4.1.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/org.apache/httpclient/jars/httpclient-4.0-beta2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/code-coverage-1.1.8/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/codenarc-0.7/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME_GRAILS$/1.3.5/projects/WAHarvester/plugins/tomcat-1.3.5/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="grails-1.3.5" level="application" />
+  </component>
+</module>
+

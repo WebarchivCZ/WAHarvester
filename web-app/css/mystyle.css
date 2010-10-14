@@ -1,0 +1,5 @@
+#application-status ul li, #plugin-status ul li {
+    display: block;
+    margin-left: 1.3em;
+    color: #666666;
+}

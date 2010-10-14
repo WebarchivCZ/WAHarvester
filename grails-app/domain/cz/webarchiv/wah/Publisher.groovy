@@ -8,8 +8,10 @@ class Publisher {
         name(blank: false)
         comments(nullable: true)
     }
-    
+
     static mapping = {
         table 'publishers'
     }
+
+    static hasMany = [resources: Resource]
 }
