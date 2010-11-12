@@ -17,12 +17,11 @@
  *
  * 2010
  */
-
-package cz.webarchiv.wah
+package cz.webarchiv.wadmin
 
 import grails.test.*
 
-class SeedTests extends GrailsUnitTestCase {
+class CuratorTests extends GrailsUnitTestCase {
     protected void setUp() {
         super.setUp()
     }

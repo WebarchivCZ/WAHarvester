@@ -17,11 +17,11 @@
  *
  * 2010
  */
-package cz.webarchiv.wah
+package cz.webarchiv.wadmin
 
 import grails.test.*
 
-class SeedControllerTests extends ControllerUnitTestCase {
+class SeedStatusControllerTests extends ControllerUnitTestCase {
     protected void setUp() {
         super.setUp()
     }

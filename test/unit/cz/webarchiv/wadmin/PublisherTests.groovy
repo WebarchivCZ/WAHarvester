@@ -18,7 +18,7 @@
  * 2010
  */
 
-package cz.webarchiv.wah
+package cz.webarchiv.wadmin
 
 import grails.test.*
 import cz.webarchiv.wadmin.Publisher
