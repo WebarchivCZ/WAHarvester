@@ -1,4 +1,9 @@
 package cz.webarchiv.wah
+/**
+ * CrawlJob class, every crawling job has one record in database
+ * Based on Heritrix class CrawlJob
+ * @author nanux
+ */
 
 class CrawlJob {
     String name
@@ -25,12 +30,17 @@ class CrawlJob {
 
     static hasMany = [seedlists: Seedlist]
 
+    // TODO: decide if this function is needed
+
     static List<CrawlJob> getRunning() {
         return CrawlJob.findAllByStatus(CrawlStatus.ACTIVE)
     }
 
 }
-
+/**
+ * Enum with values assignable to CrawlJob.status
+ * Based on Heritrix CrawlJob.getJobStatusDescription()
+ */
 enum CrawlStatus {
     UNBUILD('Unbuild'),
     ACTIVE('Active'),
@@ -40,10 +50,18 @@ enum CrawlStatus {
 
     String status
 
+    /**
+     *
+     * @param status name of status
+     * @return new CrawlStatus instance
+     */
     CrawlStatus(String status) {
         this.status = status
     }
 
+    /**
+     * @return lis of available CrawlJob statuses
+     */
     static list() {
         [UNBUILD, ACTIVE, READY, FINISHED, UNKNOWN]
     }
