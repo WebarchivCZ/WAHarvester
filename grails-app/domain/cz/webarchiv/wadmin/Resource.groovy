@@ -1,7 +1,6 @@
 package cz.webarchiv.wadmin
 
 class Resource {
-
     String title
     String url
     Boolean important

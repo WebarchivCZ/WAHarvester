@@ -1,7 +1,6 @@
 package cz.webarchiv.wadmin
 
 class Seed {
-
     String url
     Boolean redirect
     Boolean robots

@@ -2,86 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="f9587e60-2eb5-4d50-b202-8af51f9931f1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/MonitorController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlConfig.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/jquery/jquery.toggle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedStatusController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\builder.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/1col.css" afterPath="$PROJECT_DIR$/web-app/css/1col.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/style.css" afterPath="$PROJECT_DIR$/web-app/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Seed.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Seed.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/DashboardControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/DashboardControllerTests.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iml" afterPath="$PROJECT_DIR$/WAHarvester.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/QualityAssuranceController.groovy" />
-      <change type="MOVED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\switcher.js" afterPath="$PROJECT_DIR$/web-app/js/jquery/jquery.switcher.js" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\animation.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Seedlist.groovy" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\ui.core.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlType.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/StatisticsControllerTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/config.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedlistTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jobs/Serials/seeds.txt" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\PublisherController.groovy" afterPath="" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ScheduleTests.groovy" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\unittest.js" afterPath="" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/headers.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlJobTests.groovy" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\controls.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Curator.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Curator.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/SeedStatus.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/SeedStatus.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlConfig.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/jobs/Serials/heritrix3-default-profile.cxml" afterPath="$PROJECT_DIR$/resources/jobs/Serials/heritrix3-default-profile.cxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/2col.css" afterPath="$PROJECT_DIR$/web-app/css/2col.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Publisher.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Publisher.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/PublisherControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/PublisherControllerTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Schedule.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Schedule.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/debugtoolbar/versions.gsp" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/versions.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/mystyle.css" afterPath="$PROJECT_DIR$/web-app/css/mystyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java" afterPath="$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/MonitorControllerTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_cs.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/qualityAssurance/extractLinks.gsp" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\dragdrop.js" afterPath="" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jobs/Serials/heritrix3-default-profile.cxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlTypeTests.groovy" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\rico.js" afterPath="" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/StatisticsController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/DomainSheet.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlConfigTests.groovy" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\toggle.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/dashboard/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/dashboard/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlProfileTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedStatusController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedStatusController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main_full.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main_full.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedStatusTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedStatusTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CuratorTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CuratorTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CuratorControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CuratorControllerTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedStatusControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedStatusControllerTests.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/DashboardController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/DashboardController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Schedule.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/versions.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlJobControllerTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/heritrix/HeritrixRestManagerTest.groovy" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\CuratorController.groovy" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/main-ie6.css" afterPath="$PROJECT_DIR$/web-app/css/main-ie6.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlJobController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlJobController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlProfileController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlProfileController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlType.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlType.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/main.css" afterPath="$PROJECT_DIR$/web-app/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedControllerTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iws" afterPath="$PROJECT_DIR$/WAHarvester.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/PublisherTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/PublisherTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENCE.txt" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\effects.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" afterPath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/MonitorController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/MonitorController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/debugtoolbar/headers.gsp" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/headers.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/js/application.js" afterPath="$PROJECT_DIR$/web-app/js/application.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/request_vars.gsp" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\jquery.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/QualityAssuranceController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/QualityAssuranceController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/qualityAssurance/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlProfileController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlJobController.groovy" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\scriptaculous.js" afterPath="" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/qualityAssurance/showLinks.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\prototype.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\slider.js" afterPath="" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/truststore.jks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ResourceTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ResourceTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/debugtoolbar/config.gsp" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/config.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" afterPath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/DomainSheet.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/DomainSheet.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.ipr" afterPath="$PROJECT_DIR$/WAHarvester.ipr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SheetTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\ResourceController.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\sound.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\SeedController.groovy" afterPath="" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlProfileControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester-grailsPlugins.iml" afterPath="$PROJECT_DIR$/WAHarvester-grailsPlugins.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/QualityAssuranceControllerTests.groovy" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\SeedStatusController.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\ui.tabs.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/reset.css" afterPath="$PROJECT_DIR$/web-app/css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Seedlist.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Seedlist.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ResourceControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ResourceControllerTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Resource.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Resource.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/StatisticsController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/StatisticsController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/error.gsp" afterPath="$PROJECT_DIR$/grails-app/views/error.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" />
     </list>
     <ignored path="$USER_HOME_GRIFFON$/" />
     <ignored path="$USER_HOME_GRAILS$/" />
@@ -141,31 +127,28 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CrawlProfile.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy">
+      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="15" selection-start="831" selection-end="831" vertical-scroll-proportion="-1.4782609">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="19" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.switcher.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/js/jquery/jquery.switcher.js">
+      <file leaf-file-name="PublisherController.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="21" selection-start="1658" selection-end="1658" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceController.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="-3.2692308">
               <folding />
             </state>
           </provider>
@@ -174,79 +157,61 @@
       <file leaf-file-name="LinkExtractor.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="37" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.0">
+            <state line="16" column="17" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="$SHOW_CHANGES$/f9587e60-2eb5-4d50-b202-8af51f9931f1/Default" pinned="false" current="true" current-in-tab="true">
-        <entry file="uml://$SHOW_CHANGES$/f9587e60-2eb5-4d50-b202-8af51f9931f1/Default">
-          <provider selected="true" editor-type-id="UmlClassDiagramEditorProvider">
-            <state>
-              <classes>
-                <class fqn="cz.webarchiv.wah.CrawlJob" x="199.0" y="0.0" />
-                <class fqn="cz.webarchiv.wah.StatisticsController" x="198.0" y="827.0" />
-                <class fqn="cz.webarchiv.wah.QualityAssuranceController" x="583.0" y="191.0" />
-                <class fqn="cz.webarchiv.wah.SheetTests" x="245.0" y="323.0" />
-                <class fqn="cz.webarchiv.wah.Seedlist" x="606.0" y="716.0" />
-                <class fqn="cz.webarchiv.wah.MonitorController" x="398.0" y="827.0" />
-                <class fqn="cz.webarchiv.linkextractor.LinkExtractor" x="0.0" y="191.0" />
-                <class fqn="cz.webarchiv.wah.DashboardController" x="0.0" y="716.0" />
-                <class fqn="cz.webarchiv.wah.CrawlProfileController" x="0.0" y="938.0" />
-                <class fqn="cz.webarchiv.wah.MonitorControllerTests" x="466.0" y="585.0" />
-                <class fqn="cz.webarchiv.wah.heritrix.HeritrixRestManagerTest" x="597.0" y="0.0" />
-                <class fqn="cz.webarchiv.wah.CrawlJobController" x="0.0" y="827.0" />
-                <class fqn="cz.webarchiv.wadmin.SeedController" x="589.0" y="827.0" />
-                <class fqn="cz.webarchiv.wah.CrawlJobControllerTests" x="466.0" y="454.0" />
-                <class fqn="cz.webarchiv.wah.ScheduleTests" x="0.0" y="585.0" />
-                <class fqn="cz.webarchiv.wah.CrawlProfile" x="398.0" y="0.0" />
-                <class fqn="cz.webarchiv.wah.CrawlProfileTests" x="233.0" y="454.0" />
-                <class fqn="cz.webarchiv.wah.Schedule" x="407.0" y="716.0" />
-                <class fqn="cz.webarchiv.wah.CrawlProfileControllerTests" x="0.0" y="323.0" />
-                <class fqn="cz.webarchiv.wah.SeedlistTests" x="711.0" y="323.0" />
-                <class fqn="cz.webarchiv.wah.QualityAssuranceControllerTests" x="306.0" y="191.0" />
-                <class fqn="cz.webarchiv.wah.StatisticsControllerTests" x="0.0" y="454.0" />
-                <class fqn="cz.webarchiv.wah.DomainSheet" x="208.0" y="716.0" />
-                <class fqn="cz.webarchiv.wah.CrawlTypeTests" x="699.0" y="454.0" />
-                <class fqn="cz.webarchiv.wah.CrawlConfig" x="699.0" y="585.0" />
-                <class fqn="cz.webarchiv.wah.CrawlConfigTests" x="233.0" y="585.0" />
-                <class fqn="cz.webarchiv.wah.CrawlType" x="0.0" y="0.0" />
-                <class fqn="cz.webarchiv.wah.CrawlJobTests" x="478.0" y="323.0" />
-              </classes>
-              <packages />
-              <edges />
-              <settings isCamel="false" isColorManagerEnabled="true" isFieldsVisible="true" isConstructorsVisible="true" isMethodsVisible="true" isShowDependencies="false" isShowInnerClasses="true" isVcsFilterEnabled="true" defaultVisibility="all" layout="Hierarchic Group" isPropertiesVisible="false" zoom="0.5792682926829268" x="449.5" y="484.5894736842106" />
-              <SelectedNodes />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LICENCE.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LICENCE.txt">
+      <file leaf-file-name="SeedController.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="180" column="48" selection-start="10283" selection-end="10283" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CrawlConfig.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlConfig.groovy">
+      <file leaf-file-name="CuratorController.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="12" selection-start="28" selection-end="28" vertical-scroll-proportion="0.030852994">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Datasources.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/Datasources.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="DataSource.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CrawlJob.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy">
+      <file leaf-file-name="Config.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DomainSheet.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/DomainSheet.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.73913044">
               <folding />
             </state>
           </provider>
@@ -274,22 +239,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/views/dashboard/index.gsp" />
-        <option value="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/PublisherTests.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Seedlist.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Sheet.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/DomainSheet.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlJobController.groovy" />
+        <option value="$PROJECT_DIR$/resources/jobs/Serials/heritrix3-default-profile.cxml" />
+        <option value="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/i18n/messages.properties" />
         <option value="$PROJECT_DIR$/grails-app/i18n/messages_cs.properties" />
-        <option value="$PROJECT_DIR$/resources/jobs/Serials/seeds.txt" />
-        <option value="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlType.groovy" />
-        <option value="$PROJECT_DIR$/LICENCE.txt" />
-        <option value="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlConfig.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy" />
-        <option value="$PROJECT_DIR$/src/groovy/cz/webarchiv/wah/heritrix/HeritrixRestManager.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy" />
-        <option value="$PROJECT_DIR$/README.txt" />
-        <option value="$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java" />
+        <option value="$PROJECT_DIR$/grails-app/i18n/messages_da.properties" />
+        <option value="$PROJECT_DIR$/grails-app/i18n/messages_ja.properties" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy" />
       </list>
     </option>
   </component>
@@ -331,7 +296,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -421,6 +386,186 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Serials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="i18n" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resource Bundle 'messages'" />
+              <option name="myItemType" value="com.intellij.lang.properties.projectView.ResourceBundleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webarchiv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wah" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webarchiv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webarchiv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webarchiv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WAHarvester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -434,8 +579,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Favorites" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,16 +590,16 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="RESOURCE_BUNDLE_SPLITTER_PROPORTION" value="0.5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="copyright.profiles" />
+    <property name="options.lastSelected" value="copyright" />
     <property name="recentsLimit" value="5" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -727,6 +872,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="user defined" text="/*******************************************************************************&#10; * This file is part of the WA Harvester.&#10; *&#10; * Licensed to the WebArchiv (WA) by Adam Brokes&#10; *&#10; * The IA licenses this file to You under the Apache License, Version 2.0&#10; * (the &quot;License&quot;); you may not use this file except in compliance with&#10; * the License.  You may obtain a copy of the License at&#10; *&#10; *        http://www.apache.org/licenses/LICENSE-2.0&#10; *&#10; * Unless required by applicable law or agreed to in writing, software&#10; * distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10; * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10; * See the License for the specific language governing permissions and&#10; * limitations under the License.&#10; *&#10; * 2010&#10; ******************************************************************************/" recursive="false" caseInsensitive="true" reformatAccordingToStyle="true" shortenFQN="true" replacement="" history="1" />
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -774,13 +922,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1634" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3251073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3251073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24968234" sideWeight="0.6630077" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39914164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22780749" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2274678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2544643" sideWeight="0.667382" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -789,13 +938,12 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2429847" sideWeight="0.17918456" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2429847" sideWeight="0.6684492" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2429847" sideWeight="0.667382" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4055794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="87" y="373" width="1568" height="304" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973316" sideWeight="0.6630077" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Dynamic properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297194" sideWeight="0.666309" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -845,21 +993,61 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Schedule.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.9565217">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlJobController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages_cs.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="80" selection-end="80" vertical-scroll-proportion="-2.6153846">
+        <state line="20" column="0" selection-start="679" selection-end="679" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages_da.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages_ja.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages_pt_PT.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/DomainSheet.groovy">
@@ -872,137 +1060,66 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/jobs/Serials/seeds.txt">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Datasources.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="17" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlType.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="41" selection-start="209" selection-end="209" vertical-scroll-proportion="-4.4347825">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/debugtoolbar/versions.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="21" selection-start="26" selection-end="26" vertical-scroll-proportion="0.032136105">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/jobs/Serials/heritrix3-default-profile.cxml">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="14" selection-start="456" selection-end="456" vertical-scroll-proportion="0.3224138">
+        <state line="5" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="63" selection-start="260" selection-end="260" vertical-scroll-proportion="0.11371238">
+        <state line="3" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/js/jquery/jquery.switcher.js">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="21" selection-start="1658" selection-end="1658" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENCE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="48" selection-start="10283" selection-end="10283" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlConfig.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="15" selection-start="831" selection-end="831" vertical-scroll-proportion="-1.4782609">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="-3.2692308">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="37" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.0">
+        <state line="16" column="17" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://$SHOW_CHANGES$/f9587e60-2eb5-4d50-b202-8af51f9931f1/Default">
-      <provider selected="true" editor-type-id="UmlClassDiagramEditorProvider">
-        <state>
-          <classes>
-            <class fqn="cz.webarchiv.wah.CrawlJob" x="199.0" y="0.0" />
-            <class fqn="cz.webarchiv.wah.StatisticsController" x="198.0" y="827.0" />
-            <class fqn="cz.webarchiv.wah.QualityAssuranceController" x="583.0" y="191.0" />
-            <class fqn="cz.webarchiv.wah.SheetTests" x="245.0" y="323.0" />
-            <class fqn="cz.webarchiv.wah.Seedlist" x="606.0" y="716.0" />
-            <class fqn="cz.webarchiv.wah.MonitorController" x="398.0" y="827.0" />
-            <class fqn="cz.webarchiv.linkextractor.LinkExtractor" x="0.0" y="191.0" />
-            <class fqn="cz.webarchiv.wah.DashboardController" x="0.0" y="716.0" />
-            <class fqn="cz.webarchiv.wah.CrawlProfileController" x="0.0" y="938.0" />
-            <class fqn="cz.webarchiv.wah.MonitorControllerTests" x="466.0" y="585.0" />
-            <class fqn="cz.webarchiv.wah.heritrix.HeritrixRestManagerTest" x="597.0" y="0.0" />
-            <class fqn="cz.webarchiv.wah.CrawlJobController" x="0.0" y="827.0" />
-            <class fqn="cz.webarchiv.wadmin.SeedController" x="589.0" y="827.0" />
-            <class fqn="cz.webarchiv.wah.CrawlJobControllerTests" x="466.0" y="454.0" />
-            <class fqn="cz.webarchiv.wah.ScheduleTests" x="0.0" y="585.0" />
-            <class fqn="cz.webarchiv.wah.CrawlProfile" x="398.0" y="0.0" />
-            <class fqn="cz.webarchiv.wah.CrawlProfileTests" x="233.0" y="454.0" />
-            <class fqn="cz.webarchiv.wah.Schedule" x="407.0" y="716.0" />
-            <class fqn="cz.webarchiv.wah.CrawlProfileControllerTests" x="0.0" y="323.0" />
-            <class fqn="cz.webarchiv.wah.SeedlistTests" x="711.0" y="323.0" />
-            <class fqn="cz.webarchiv.wah.QualityAssuranceControllerTests" x="306.0" y="191.0" />
-            <class fqn="cz.webarchiv.wah.StatisticsControllerTests" x="0.0" y="454.0" />
-            <class fqn="cz.webarchiv.wah.DomainSheet" x="208.0" y="716.0" />
-            <class fqn="cz.webarchiv.wah.CrawlTypeTests" x="699.0" y="454.0" />
-            <class fqn="cz.webarchiv.wah.CrawlConfig" x="699.0" y="585.0" />
-            <class fqn="cz.webarchiv.wah.CrawlConfigTests" x="233.0" y="585.0" />
-            <class fqn="cz.webarchiv.wah.CrawlType" x="0.0" y="0.0" />
-            <class fqn="cz.webarchiv.wah.CrawlJobTests" x="478.0" y="323.0" />
-          </classes>
-          <packages />
-          <edges />
-          <settings isCamel="false" isColorManagerEnabled="true" isFieldsVisible="true" isConstructorsVisible="true" isMethodsVisible="true" isShowDependencies="false" isShowInnerClasses="true" isVcsFilterEnabled="true" defaultVisibility="all" layout="Hierarchic Group" isPropertiesVisible="false" zoom="0.5792682926829268" x="449.5" y="484.5894736842106" />
-          <SelectedNodes />
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12" selection-start="28" selection-end="28" vertical-scroll-proportion="0.030852994">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,7 +1130,7 @@
         <entry key="WAHarvester">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="450053058" />
+              <option name="buildConfigCrc" value="-1377431827" />
               <option name="pluginDependenciesCrc" value="-437791697" />
               <option name="properties">
                 <map>
@@ -1080,9 +1197,20 @@
       <state key="ScopeChooserConfigurable.UI">
         <UIState>
           <splitter-proportions>
-            <SplitterProportionsDataImpl />
+            <SplitterProportionsDataImpl>
+              <option name="proportions">
+                <list>
+                  <option value="0.2" />
+                </list>
+              </option>
+            </SplitterProportionsDataImpl>
           </splitter-proportions>
-          <settings />
+          <last-edited>copyright</last-edited>
+          <settings>
+            <order>
+              <scope name="copyright" />
+            </order>
+          </settings>
         </UIState>
       </state>
     </states>

@@ -1,7 +1,6 @@
 package cz.webarchiv.wadmin
 
 class SeedStatus {
-
     String status
     String comments
 

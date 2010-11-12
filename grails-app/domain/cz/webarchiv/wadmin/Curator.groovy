@@ -1,7 +1,6 @@
 package cz.webarchiv.wadmin
 
 class Curator {
-
     String username
     String password
     String vocative

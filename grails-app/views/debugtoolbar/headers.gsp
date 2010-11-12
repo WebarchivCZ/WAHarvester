@@ -27,7 +27,7 @@
   - 2010
   --}%
 
-<g:each status="i" in="${headers}" var="item">
+    <g:each status="i" in="${headers}" var="item">
         <tr class="${(i % 2) == 0 ? 'djDebugOdd' : 'djDebugEven'}">
             <td>${item.key?.encodeAsHTML()}</td>
             <td>${item.value?.encodeAsHTML()}</td>

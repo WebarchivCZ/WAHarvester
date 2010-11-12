@@ -25,7 +25,7 @@
   - 2010
   --}%
 
-${resource(dir: 'css', file: 'reset.css')}"/> <!-- RESET -->
+    ${resource(dir: 'css', file: 'reset.css')}"/> <!-- RESET -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'main.css')}"/> <!-- MAIN STYLE SHEET -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: '2col.css')}" title="2col"/> <!-- DEFAULT: 2 COLUMNS -->
     <link rel="alternate stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: '1col.css')}" title="1col"/> <!-- ALTERNATE: 1 COLUMN -->
