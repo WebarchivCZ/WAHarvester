@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="f9587e60-2eb5-4d50-b202-8af51f9931f1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iws" afterPath="$PROJECT_DIR$/WAHarvester.iws" />
-    </list>
+    <list default="true" readonly="true" id="f9587e60-2eb5-4d50-b202-8af51f9931f1" name="Default" comment="" />
     <ignored path="$USER_HOME_GRIFFON$/" />
     <ignored path="$USER_HOME_GRAILS$/" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,7 +81,7 @@
       <file leaf-file-name="ResourceController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.061705988">
+            <state line="3" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="0.09255898">
               <folding />
             </state>
           </provider>
@@ -859,9 +856,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1634" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3251073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3251073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24968234" sideWeight="0.6630077" order="1" side_tool="false" content_ui="tabs" />
@@ -899,7 +896,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic WA Harvester domain classes&#10;Debug toolbar&#10;New Controllers&#10;Resources (heritrix settings, seeds file)&#10;Tests&#10;Removed Prototype&#10;Added Jquery&#10;Add Licence and Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added second data source" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -918,6 +915,7 @@
     <MESSAGE value="basic WA Harvester domain classes" />
     <MESSAGE value="basic domain models/controllers" />
     <MESSAGE value="Basic WA Harvester domain classes&#10;Debug toolbar&#10;New Controllers&#10;Resources (heritrix settings, seeds file)&#10;Tests&#10;Removed Prototype&#10;Added Jquery&#10;Add Licence and Readme" />
+    <MESSAGE value="Added second data source" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1052,7 +1050,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.061705988">
+        <state line="3" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="0.09255898">
           <folding />
         </state>
       </provider>
