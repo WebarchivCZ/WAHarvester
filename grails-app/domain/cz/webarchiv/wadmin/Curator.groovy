@@ -1,4 +1,4 @@
-package cz.webarchiv.wah
+package cz.webarchiv.wadmin
 
 class Curator {
 
@@ -18,8 +18,8 @@ class Curator {
     }
     static mapping = {
         table 'curators'
-        username(size:3..20)
-        email(email:true)
+        username(size: 3..20)
+        email(email: true)
     }
 
     static hasMany = [resources: Resource]

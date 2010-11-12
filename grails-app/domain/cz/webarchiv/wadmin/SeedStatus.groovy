@@ -1,10 +1,10 @@
-package cz.webarchiv.wah
+package cz.webarchiv.wadmin
 
 class SeedStatus {
 
     String status
     String comments
-    
+
     static constraints = {
     }
 

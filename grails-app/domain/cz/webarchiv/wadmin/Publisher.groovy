@@ -1,4 +1,4 @@
-package cz.webarchiv.wah
+package cz.webarchiv.wadmin
 
 class Publisher {
 
