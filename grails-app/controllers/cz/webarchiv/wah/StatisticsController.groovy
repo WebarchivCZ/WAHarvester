@@ -20,9 +20,7 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+class StatisticsController {
 
-    def index = {
-
-    }
+    def index = { }
 }

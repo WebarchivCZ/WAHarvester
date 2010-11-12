@@ -20,9 +20,9 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+class CrawlJobController {
 
-    def index = {
+    static scaffold = true
 
-    }
+    def index = { }
 }

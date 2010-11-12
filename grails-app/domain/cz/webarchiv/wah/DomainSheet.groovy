@@ -20,9 +20,10 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+class DomainSheet {
 
-    def index = {
-
+    static constraints = {
     }
+
+    static belongsTo = CrawlProfile
 }

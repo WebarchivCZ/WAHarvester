@@ -19,10 +19,23 @@
  */
 
 package cz.webarchiv.wah
+/**
+ * Class representing crawl profile, which could be used for crawl job
+ * @author nanux
+ * @date $today.year
+ */
+class CrawlProfile {
 
-class DashboardController {
+    String name
+    String orderXml
+    String comments
 
-    def index = {
-
+    static constraints = {
+        name(blank: false)
     }
+    static mapping = {
+        orderXml type: 'text'
+    }
+
+    static hasMany = [domainSheets: DomainSheet, crawlJobs: CrawlJob]
 }

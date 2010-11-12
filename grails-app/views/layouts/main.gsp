@@ -5,29 +5,57 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="en"/>
     <meta name="robots" content="noindex,nofollow"/>
-    <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'reset.css')}"/> <!-- RESET -->
+    <link rel="stylesheet" media="screen,projection" type="text/css" href="%{--
+  - This file is part of the WA Harvester.
+  -
+  - Licensed to the WebArchiv (WA) by Adam Brokes
+  -
+  - The IA licenses this file to You under the Apache License, Version 2.0
+  - (the "License"); you may not use this file except in compliance with
+  - the License.  You may obtain a copy of the License at
+  -
+  -        http://www.apache.org/licenses/LICENSE-2.0
+  -
+  - Unless required by applicable law or agreed to in writing, software
+  - distributed under the License is distributed on an "AS IS" BASIS,
+  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  - See the License for the specific language governing permissions and
+  - limitations under the License.
+  -
+  - 2010
+  --}%
+
+${resource(dir: 'css', file: 'reset.css')}"/> <!-- RESET -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'main.css')}"/> <!-- MAIN STYLE SHEET -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: '2col.css')}" title="2col"/> <!-- DEFAULT: 2 COLUMNS -->
     <link rel="alternate stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: '1col.css')}" title="1col"/> <!-- ALTERNATE: 1 COLUMN -->
 <!--[if lte IE 6]><link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'main-ie6.css')}" /><![endif]--> <!-- MSIE6 -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'style.css')}"/> <!-- GRAPHIC THEME -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'mystyle.css')}"/> <!-- WRITE YOUR CSS CODE HERE -->
-    <script type="text/javascript" src="${resource(dir: 'js', file: 'jquery.js')}"></script>
-    <script type="text/javascript" src="${resource(dir: 'js', file: 'switcher.js')}"></script>
-    <script type="text/javascript" src="${resource(dir: 'js', file: 'toggle.js')}"></script>
-    <script type="text/javascript" src="${resource(dir: 'js', file: 'ui.core.js')}"></script>
-    <script type="text/javascript" src="${resource(dir: 'js', file: 'ui.tabs.js')}"></script>
+<g:javascript library="jquery" plugin="jquery"/>
+<jqui:resources/>
+<jq:plugin name="toggle"/>
+<jq:plugin name="switcher"/>
     <script type="text/javascript">
         $(document).ready(function() {
             $(".tabs > ul").tabs();
+
+            $("#debugOpen").click(function() {
+                $("#debugInfo").dialog({
+                    title: 'Debug',
+                    width: 800,
+                    position: 'right'
+                }).removeClass('hidden');
+            });
+
+            $('input[type=submit]').button();
         });
     </script>
-    <title><g:layoutTitle default="An example decorator"/></title>
+    <title><g:layoutTitle default="WA Harvester - správce sklizní"/></title>
     <link rel="shortcut icon" href="${resource(dir: 'images', file: 'favicon.ico')}" type="image/x-icon"/>
 </head>
 
 <body>
-
 <div id="main">
 
     <!-- Tray -->
@@ -55,17 +83,17 @@
     <div id="menu" class="box">
 
         <ul class="box f-right">
-            <li><a href="#"><span><strong>&laquo; do NSuite</strong></span></a> <a href="#"><span><strong>do WAdminu &raquo;</strong></span></a></li>
+            <li><a href="#"><span><strong>&laquo; do Tracu</strong></span></a> <a href="#"><span><strong>do WAdminu &raquo;</strong></span></a></li>
         </ul>
 
         <ul class="box">
-            <li><a href="#"><span>Dashboard</span></a></li> <!-- Active -->
-            <li id="menu-active"><a href="#"><span>Sklizně</span></a></li>
-            <li><a href="#"><span>Statistiky</span></a></li>
-            <li><a href="#"><span>Kontrola Kvality</span></a></li>
-            <li><a href="#"><span>Statistiky</span></a></li>
-            <li><a href="#"><span>Profily</span></a></li>
-            <li><a href="#"><span>Zdroje</span></a></li>
+            <li id="menu-active"><g:link controller="dashboard"><span>Dashboard</span></g:link></li>
+            <li><g:link controller="monitor"><span>Monitor</span></g:link></li>
+            <li><g:link controller="crawlJob"><span>Sklizně</span></g:link></li>
+            <li><g:link controller="statistics"><span>Statistiky</span></g:link></li>
+            <li><g:link controller="qualityAssurance"><span>Kontrola Kvality</span></g:link></li>
+            <li><g:link controller="crawlProfile"><span>Profily</span></g:link></li>
+            <li><g:link controller="resource"><span>Zdroje</span></g:link></li>
         </ul>
 
     </div> <!-- /header -->
@@ -174,10 +202,13 @@
         <p class="f-left">&copy; 2010 <a href="http://www.webarchiv.cz">WebArchiv</a>, All Rights Reserved &reg;</p>
 
         <p class="f-right">Templates by <a href="http://www.adminizio.com/">Adminizio</a></p>
+        <p><a href="#" id="debugOpen">Debug</a></p>
 
     </div> <!-- /footer -->
 
 </div> <!-- /main -->
+
+<div id="debugInfo" class="hidden" style="width: 800px;"><debug:info/></div>
 
 </body>
 </html>

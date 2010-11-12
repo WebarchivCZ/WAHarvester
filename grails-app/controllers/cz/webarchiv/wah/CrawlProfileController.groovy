@@ -20,9 +20,8 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+import grails.converters.XML
 
-    def index = {
+class CrawlProfileController {
 
-    }
 }

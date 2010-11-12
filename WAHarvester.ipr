@@ -102,12 +102,25 @@
     <annotationProcessing enabled="false" useClasspath="true" />
   </component>
   <component name="CopyrightManager" default="">
-    <module2copyright />
+    <copyright>
+      <option name="notice" value="This file is part of the WA Harvester.&#10;&#10;Licensed to the WebArchiv (WA) by Adam Brokes&#10;&#10;The IA licenses this file to You under the Apache License, Version 2.0&#10;(the &quot;License&quot;); you may not use this file except in compliance with&#10;the License.  You may obtain a copy of the License at&#10;&#10;       http://www.apache.org/licenses/LICENSE-2.0&#10;&#10;Unless required by applicable law or agreed to in writing, software&#10;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;See the License for the specific language governing permissions and&#10;limitations under the License.&#10;&#10;&amp;#36;today.year" />
+      <option name="keyword" value="Copyright" />
+      <option name="allowReplaceKeyword" value="" />
+      <option name="myName" value="copyright" />
+      <option name="myLocal" value="true" />
+    </copyright>
+    <module2copyright>
+      <element module="Production" copyright="copyright" />
+    </module2copyright>
   </component>
   <component name="DependencyValidationManager">
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/css/1col.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/css/main.css" charset="UTF-8" />
+  </component>
   <component name="JavadocGenerationManager">
     <option name="OUTPUT_DIRECTORY" />
     <option name="OPTION_SCOPE" value="protected" />

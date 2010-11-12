@@ -20,9 +20,7 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+class MonitorController {
 
-    def index = {
-
-    }
+    def index = { }
 }

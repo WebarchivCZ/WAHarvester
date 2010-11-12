@@ -20,9 +20,15 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+class CrawlType {
 
-    def index = {
+    String type
+    String description
+    String comments
 
+    static constraints = {
     }
+
+    static hasOne = Schedule
+    static hasMany = [crawlJobs: CrawlJob]
 }

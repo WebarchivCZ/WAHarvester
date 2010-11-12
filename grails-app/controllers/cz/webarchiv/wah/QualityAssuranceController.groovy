@@ -20,9 +20,19 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+import cz.webarchiv.linkextractor.LinkExtractor
 
-    def index = {
+class QualityAssuranceController {
 
+    def index = { }
+
+    def extractLinks = {
+
+    }
+
+    def showLinks = {
+        def le = new LinkExtractor()
+
+        [links: le.extractLinks(params.url)]
     }
 }

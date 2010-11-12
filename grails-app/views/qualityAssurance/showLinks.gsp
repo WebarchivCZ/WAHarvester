@@ -18,17 +18,24 @@
   - 2010
   --}%
 
+<%--
+  Created by IntelliJ IDEA.
+  User: Adam Brokes
+  Date: 26.10.2010
+  Time: 15:53:19
+  To change this template use File | Settings | File Templates.
+--%>
+
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
-    <title>Dashboard</title>
+    <title>Simple GSP page</title>
     <meta name="layout" content="main"/>
 </head>
 <body>
-<h1>Dashboard</h1>
-<h2>Sklizně</h2>
-<h3>Probihajici</h3>
-<h3>Dokoncene</h3>
-<h3>Pripravene</h3>
+xxx
+<g:each var="link" in="${links}">
+    <p>${link}</p>
+</g:each>
 </body>
 </html>

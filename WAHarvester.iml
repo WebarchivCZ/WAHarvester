@@ -5,6 +5,7 @@
       <configuration>
         <webroots>
           <root url="file://$MODULE_DIR$/web-app" relative="/" />
+          <root url="file://$MODULE_DIR$/web-app" relative="/" />
         </webroots>
         <sourceRoots />
       </configuration>
@@ -21,9 +22,9 @@
       <sourceFolder url="file://$MODULE_DIR$/grails-app/domain" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grails-app/services" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grails-app/taglib" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test/integration" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test/unit" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grails-app/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/integration" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -34,8 +35,22 @@
       <library name="Grails User Library">
         <CLASSES>
           <root url="file://$MODULE_DIR$/lib" />
-          <root url="jar://C:/Users/adam/.ivy2/cache/org.codehaus.groovy/http-builder/jars/http-builder-0.4.1.jar!/" />
-          <root url="jar://C:/Users/adam/.ivy2/cache/org.apache/httpclient/jars/httpclient-4.0-beta2.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.4.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/commons-io/commons-io/jars/commons-io-1.4.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/org.w3c.css/sac/jars/sac-1.3.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/net.sourceforge.cssparser/cssparser/jars/cssparser-0.9.5.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/net.sourceforge.nekohtml/nekohtml/jars/nekohtml-1.9.14.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.9.1.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/net.sourceforge.htmlunit/htmlunit-core-js/jars/htmlunit-core-js-2.8.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.4.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/org.apache.james/apache-mime4j/jars/apache-mime4j-0.6.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/org.apache.httpcomponents/httpmime/jars/httpmime-4.0.1.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.0.1.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.0.1.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/xalan/xalan/jars/xalan-2.7.1.jar!/" />
+          <root url="jar://C:/Users/adam/.ivy2/cache/net.sourceforge.htmlunit/htmlunit/jars/htmlunit-2.8.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

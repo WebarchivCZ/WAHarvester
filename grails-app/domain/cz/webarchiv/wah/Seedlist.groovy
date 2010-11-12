@@ -20,9 +20,10 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+class Seedlist {
 
-    def index = {
-
+    static constraints = {
     }
+
+    static belongsTo = Seedlist
 }

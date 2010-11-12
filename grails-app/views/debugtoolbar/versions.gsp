@@ -1,4 +1,5 @@
-%{--
+<ul>
+    <li>App version: %{--
   - This file is part of the WA Harvester.
   -
   - Licensed to the WebArchiv (WA) by Adam Brokes
@@ -18,17 +19,29 @@
   - 2010
   --}%
 
-<%@ page contentType="text/html;charset=UTF-8" %>
-<html>
-<head>
-    <title>Dashboard</title>
-    <meta name="layout" content="main"/>
-</head>
-<body>
-<h1>Dashboard</h1>
-<h2>Sklizně</h2>
-<h3>Probihajici</h3>
-<h3>Dokoncene</h3>
-<h3>Pripravene</h3>
-</body>
-</html>
+<g:meta name="app.version"></g:meta></li>
+    <li>Grails version: <g:meta name="app.grails.version"></g:meta></li>
+    <li>JVM version: ${System.getProperty('java.version')}</li>
+</ul>
+
+<table>
+    <thead>
+    <tr>
+        <th>Plugin</th>
+        <th>Version</th>
+    </tr>
+    </thead>
+    <tbody>
+
+    <g:set var="pluginManager"
+            value="${applicationContext.getBean('pluginManager')}"></g:set>
+
+    <g:each var="plugin" status="i" in="${pluginManager.allPlugins}">
+        <tr class="${(i % 2) == 0 ? 'djDebugOdd' : 'djDebugEven'}">
+            <td>${plugin.name}</td>
+            <td>${plugin.version}</td>
+        </tr>
+    </g:each>
+
+    </tbody>
+</table>

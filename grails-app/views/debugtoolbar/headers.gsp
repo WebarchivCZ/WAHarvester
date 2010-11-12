@@ -1,4 +1,13 @@
-%{--
+<table>
+    <thead>
+    <tr>
+        <th>Key</th>
+        <th>Value</th>
+    </tr>
+    </thead>
+    <tbody>
+
+    %{--
   - This file is part of the WA Harvester.
   -
   - Licensed to the WebArchiv (WA) by Adam Brokes
@@ -18,17 +27,12 @@
   - 2010
   --}%
 
-<%@ page contentType="text/html;charset=UTF-8" %>
-<html>
-<head>
-    <title>Dashboard</title>
-    <meta name="layout" content="main"/>
-</head>
-<body>
-<h1>Dashboard</h1>
-<h2>Sklizně</h2>
-<h3>Probihajici</h3>
-<h3>Dokoncene</h3>
-<h3>Pripravene</h3>
-</body>
-</html>
+<g:each status="i" in="${headers}" var="item">
+        <tr class="${(i % 2) == 0 ? 'djDebugOdd' : 'djDebugEven'}">
+            <td>${item.key?.encodeAsHTML()}</td>
+            <td>${item.value?.encodeAsHTML()}</td>
+        </tr>
+    </g:each>
+
+    </tbody>
+</table>

@@ -18,11 +18,8 @@
  * 2010
  */
 
-package cz.webarchiv.wah
+package cz.webarchiv.wadmin
 
-class DashboardController {
-
-    def index = {
-
-    }
+class PublisherController {
+    def scaffold = true;
 }

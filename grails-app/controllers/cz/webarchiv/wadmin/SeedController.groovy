@@ -18,11 +18,9 @@
  * 2010
  */
 
-package cz.webarchiv.wah
+package cz.webarchiv.wadmin
 
-class DashboardController {
+class SeedController {
 
-    def index = {
-
-    }
+    def scaffold = cz.webarchiv.wadmin.Seed
 }

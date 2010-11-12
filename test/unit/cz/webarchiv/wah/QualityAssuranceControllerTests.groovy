@@ -20,9 +20,20 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+import grails.test.*
+import cz.webarchiv.linkextractor.LinkExtractor
 
-    def index = {
+class QualityAssuranceControllerTests extends ControllerUnitTestCase {
+    protected void setUp() {
+        super.setUp()
+    }
 
+    protected void tearDown() {
+        super.tearDown()
+    }
+
+    void testSomething() {
+        LinkExtractor le = new LinkExtractor()
+        le.extractLinks('http://brokes.net').each {log.severe it}
     }
 }

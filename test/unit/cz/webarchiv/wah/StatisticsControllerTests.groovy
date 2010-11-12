@@ -20,9 +20,18 @@
 
 package cz.webarchiv.wah
 
-class DashboardController {
+import grails.test.*
 
-    def index = {
+class StatisticsControllerTests extends ControllerUnitTestCase {
+    protected void setUp() {
+        super.setUp()
+    }
+
+    protected void tearDown() {
+        super.tearDown()
+    }
+
+    void testSomething() {
 
     }
 }

@@ -18,11 +18,31 @@
  * 2010
  */
 
-package cz.webarchiv.wah
+package cz.webarchiv.wah.heritrix
 
-class DashboardController {
+import grails.test.GrailsUnitTestCase
+import groovyx.net.http.HttpResponseDecorator
 
-    def index = {
+class HeritrixRestManagerTest extends GrailsUnitTestCase {
+    def HeritrixRestManager heritrix
 
+    protected void setUp() {
+        super.setUp()
+        heritrix = HeritrixRestManager.getInstance('https://localhost:8443/engine')
+    }
+
+    protected void tearDown() {
+        super.tearDown()
+    }
+
+    void testJobCreation() {
+
+        HttpResponseDecorator resp = heritrix.createJob("pokus5")
+        assert resp.isSuccess(), true
+    }
+
+    void testDirectoryJob() {
+        HttpResponseDecorator resp = heritrix.addJobDirectory('Serials')
+        assert resp.isSuccess(), true
     }
 }
