@@ -25,13 +25,32 @@ import grails.test.*
 class CrawlJobTests extends GrailsUnitTestCase {
     protected void setUp() {
         super.setUp()
+
+        mockDomain(CrawlJob)
+        CrawlJob activeJob = new CrawlJob("active job")
+        activeJob.status = CrawlStatus.ACTIVE
+        activeJob.save()
+        CrawlJob unknownJob = new CrawlJob("unknown job")
+        unknownJob.status = CrawlStatus.UNKNOWN
+        unknownJob.save()
+        def date = unknownJob.dateCreated
     }
 
     protected void tearDown() {
         super.tearDown()
     }
 
-    void testSomething() {
+    void testGetRunning() {
+        def instances = CrawlJob.getRunning();
+        assert 1, instances.size()
+        assert 'active job', instances.get(0).getName()
+    }
+
+    void testFindByStatus() {
+        def instances = CrawlJob.findAllByStatus(CrawlStatus.UNKNOWN);
+        assert 1, instances.size()
+        assert 'unknown job', instances.get(0).getName()
+        assert 'unknown job', instances.get(0).name
 
     }
 }
