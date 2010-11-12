@@ -2,72 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="f9587e60-2eb5-4d50-b202-8af51f9931f1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/1col.css" afterPath="$PROJECT_DIR$/web-app/css/1col.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/style.css" afterPath="$PROJECT_DIR$/web-app/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Seed.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Seed.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/DashboardControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/DashboardControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iml" afterPath="$PROJECT_DIR$/WAHarvester.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Curator.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Curator.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/SeedStatus.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/SeedStatus.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/jobs/Serials/heritrix3-default-profile.cxml" afterPath="$PROJECT_DIR$/resources/jobs/Serials/heritrix3-default-profile.cxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/2col.css" afterPath="$PROJECT_DIR$/web-app/css/2col.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Publisher.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Publisher.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/PublisherControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/PublisherControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Schedule.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Schedule.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/debugtoolbar/versions.gsp" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/versions.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/mystyle.css" afterPath="$PROJECT_DIR$/web-app/css/mystyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java" afterPath="$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedStatusController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedStatusController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main_full.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main_full.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedStatusTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedStatusTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CuratorTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CuratorTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CuratorControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CuratorControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedStatusControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedStatusControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/DashboardController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/DashboardController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/main-ie6.css" afterPath="$PROJECT_DIR$/web-app/css/main-ie6.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlJobController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlJobController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlProfileController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlProfileController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlType.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlType.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/main.css" afterPath="$PROJECT_DIR$/web-app/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iws" afterPath="$PROJECT_DIR$/WAHarvester.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" afterPath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/MonitorController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/MonitorController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/debugtoolbar/headers.gsp" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/headers.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/js/application.js" afterPath="$PROJECT_DIR$/web-app/js/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/QualityAssuranceController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/QualityAssuranceController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ResourceTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ResourceTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/debugtoolbar/config.gsp" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/config.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" afterPath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/DomainSheet.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/DomainSheet.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.ipr" afterPath="$PROJECT_DIR$/WAHarvester.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/reset.css" afterPath="$PROJECT_DIR$/web-app/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Seedlist.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Seedlist.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ResourceControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ResourceControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Resource.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wadmin/Resource.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/StatisticsController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/StatisticsController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/error.gsp" afterPath="$PROJECT_DIR$/grails-app/views/error.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iws" afterPath="$PROJECT_DIR$/WAHarvester.iws" />
     </list>
     <ignored path="$USER_HOME_GRIFFON$/" />
     <ignored path="$USER_HOME_GRAILS$/" />
@@ -139,16 +75,16 @@
       <file leaf-file-name="PublisherController.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResourceController.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ResourceController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="-3.2692308">
+            <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.061705988">
               <folding />
             </state>
           </provider>
@@ -172,10 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CuratorController.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CuratorController.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="28" selection-end="28" vertical-scroll-proportion="0.030852994">
+            <state line="2" column="10" selection-start="39" selection-end="39" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
@@ -235,6 +171,7 @@
       </array>
     </option>
     <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="LINE_SEPARATORS_CONVERSION" value="NONE" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -922,9 +859,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1634" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3251073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3251073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24968234" sideWeight="0.6630077" order="1" side_tool="false" content_ui="tabs" />
@@ -948,9 +885,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="UpdateCopyrightCheckinHandler">
-    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
@@ -1088,23 +1022,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="-3.2692308">
           <folding />
         </state>
       </provider>
@@ -1118,7 +1038,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="28" selection-end="28" vertical-scroll-proportion="0.030852994">
+        <state line="2" column="10" selection-start="39" selection-end="39" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.061705988">
           <folding />
         </state>
       </provider>
