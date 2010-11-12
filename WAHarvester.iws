@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="f9587e60-2eb5-4d50-b202-8af51f9931f1" name="Default" comment="basic domain models/controllers">
+    <list default="true" readonly="true" id="f9587e60-2eb5-4d50-b202-8af51f9931f1" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/MonitorController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlConfig.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/jquery/jquery.toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedStatusController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\builder.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iml" afterPath="$PROJECT_DIR$/WAHarvester.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
@@ -11,7 +14,6 @@
       <change type="MOVED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\switcher.js" afterPath="$PROJECT_DIR$/web-app/js/jquery/jquery.switcher.js" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\animation.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedTests.groovy" />
-      <change type="MOVED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\PublisherController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/Seedlist.groovy" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\ui.core.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
@@ -20,6 +22,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/config.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SeedlistTests.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jobs/Serials/seeds.txt" />
+      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\PublisherController.groovy" afterPath="" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ScheduleTests.groovy" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\unittest.js" afterPath="" />
@@ -29,17 +32,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/MonitorControllerTests.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_cs.properties" />
-      <change type="MOVED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\SeedStatusController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedStatusController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/SeedController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/qualityAssurance/extractLinks.gsp" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\dragdrop.js" afterPath="" />
-      <change type="MOVED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\CuratorController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jobs/Serials/heritrix3-default-profile.cxml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlTypeTests.groovy" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\rico.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/PublisherController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/StatisticsController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/DomainSheet.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlConfigTests.groovy" />
+      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\toggle.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/dashboard/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/dashboard/index.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlProfileTests.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/DashboardController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/DashboardController.groovy" />
@@ -48,13 +51,13 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/versions.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlJobControllerTests.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/heritrix/HeritrixRestManagerTest.groovy" />
+      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\CuratorController.groovy" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iws" afterPath="$PROJECT_DIR$/WAHarvester.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/PublisherTests.groovy" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/PublisherTests.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENCE.txt" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\effects.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/debugtoolbar/request_vars.gsp" />
-      <change type="MOVED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\ResourceController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/ResourceController.groovy" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\jquery.js" afterPath="" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/qualityAssurance/index.gsp" />
@@ -66,15 +69,17 @@
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\prototype.js" afterPath="" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\slider.js" afterPath="" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/truststore.jks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wadmin/CuratorController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.ipr" afterPath="$PROJECT_DIR$/WAHarvester.ipr" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/SheetTests.groovy" />
-      <change type="MOVED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\toggle.js" afterPath="$PROJECT_DIR$/web-app/js/jquery/jquery.toggle.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\ResourceController.groovy" afterPath="" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\prototype\sound.js" afterPath="" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\SeedController.groovy" afterPath="" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlProfileControllerTests.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester-grailsPlugins.iml" afterPath="$PROJECT_DIR$/WAHarvester-grailsPlugins.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/QualityAssuranceControllerTests.groovy" />
+      <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\grails-app\controllers\cz\webarchiv\wah\SeedStatusController.groovy" afterPath="" />
       <change type="DELETED" beforePath="D:\Workspace\spring\WAHarvester\web-app\js\ui.tabs.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
     </list>
@@ -139,7 +144,7 @@
       <file leaf-file-name="CrawlProfile.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="15" selection-start="132" selection-end="132" vertical-scroll-proportion="-1.4782609">
+            <state line="24" column="15" selection-start="831" selection-end="831" vertical-scroll-proportion="-1.4782609">
               <folding />
             </state>
           </provider>
@@ -160,7 +165,7 @@
       <file leaf-file-name="jquery.switcher.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-app/js/jquery/jquery.switcher.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="21" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
+            <state line="49" column="21" selection-start="1658" selection-end="1658" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,7 +174,7 @@
       <file leaf-file-name="LinkExtractor.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="37" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0">
+            <state line="50" column="37" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -211,7 +216,7 @@
               </classes>
               <packages />
               <edges />
-              <settings isCamel="false" isColorManagerEnabled="true" isFieldsVisible="true" isConstructorsVisible="true" isMethodsVisible="true" isShowDependencies="false" isShowInnerClasses="true" isVcsFilterEnabled="true" defaultVisibility="all" layout="Hierarchic Group" isPropertiesVisible="false" zoom="0.5792682926829268" x="449.5" y="482.00000000000006" />
+              <settings isCamel="false" isColorManagerEnabled="true" isFieldsVisible="true" isConstructorsVisible="true" isMethodsVisible="true" isShowDependencies="false" isShowInnerClasses="true" isVcsFilterEnabled="true" defaultVisibility="all" layout="Hierarchic Group" isPropertiesVisible="false" zoom="0.5792682926829268" x="449.5" y="484.5894736842106" />
               <SelectedNodes />
             </state>
           </provider>
@@ -241,7 +246,7 @@
       <file leaf-file-name="CrawlJob.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="1" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
+            <state line="56" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -771,26 +776,26 @@
     <frame x="54" y="-8" width="1634" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3251073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3251073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24968234" sideWeight="0.6630077" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39914164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22854078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
+      <window_info id="Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22780749" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2544643" sideWeight="0.667382" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2429847" sideWeight="0.17918456" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2429847" sideWeight="0.667382" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2429847" sideWeight="0.6684492" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4055794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="87" y="373" width="1568" height="304" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973316" sideWeight="0.6630077" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dynamic properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297194" sideWeight="0.666309" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -801,7 +806,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
     <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
@@ -812,7 +817,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic domain models/controllers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic WA Harvester domain classes&#10;Debug toolbar&#10;New Controllers&#10;Resources (heritrix settings, seeds file)&#10;Tests&#10;Removed Prototype&#10;Added Jquery&#10;Add Licence and Readme" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -830,6 +835,7 @@
     <MESSAGE value="WA Admin basic domain classes" />
     <MESSAGE value="basic WA Harvester domain classes" />
     <MESSAGE value="basic domain models/controllers" />
+    <MESSAGE value="Basic WA Harvester domain classes&#10;Debug toolbar&#10;New Controllers&#10;Resources (heritrix settings, seeds file)&#10;Tests&#10;Removed Prototype&#10;Added Jquery&#10;Add Licence and Readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -904,7 +910,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web-app/js/jquery/jquery.switcher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="21" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
+        <state line="49" column="21" selection-start="1658" selection-end="1658" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -928,7 +934,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="1" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
+        <state line="56" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -938,7 +944,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlProfile.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="15" selection-start="132" selection-end="132" vertical-scroll-proportion="-1.4782609">
+        <state line="24" column="15" selection-start="831" selection-end="831" vertical-scroll-proportion="-1.4782609">
           <folding />
         </state>
       </provider>
@@ -955,7 +961,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/cz/webarchiv/linkextractor/LinkExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="37" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0">
+        <state line="50" column="37" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -995,7 +1001,7 @@
           </classes>
           <packages />
           <edges />
-          <settings isCamel="false" isColorManagerEnabled="true" isFieldsVisible="true" isConstructorsVisible="true" isMethodsVisible="true" isShowDependencies="false" isShowInnerClasses="true" isVcsFilterEnabled="true" defaultVisibility="all" layout="Hierarchic Group" isPropertiesVisible="false" zoom="0.5792682926829268" x="449.5" y="482.00000000000006" />
+          <settings isCamel="false" isColorManagerEnabled="true" isFieldsVisible="true" isConstructorsVisible="true" isMethodsVisible="true" isShowDependencies="false" isShowInnerClasses="true" isVcsFilterEnabled="true" defaultVisibility="all" layout="Hierarchic Group" isPropertiesVisible="false" zoom="0.5792682926829268" x="449.5" y="484.5894736842106" />
           <SelectedNodes />
         </state>
       </provider>
