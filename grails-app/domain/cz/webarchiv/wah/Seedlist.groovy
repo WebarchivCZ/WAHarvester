@@ -4,5 +4,5 @@ class Seedlist {
     static constraints = {
     }
 
-    static belongsTo = Seedlist
+    static belongsTo = CrawlJob
 }
