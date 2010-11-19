@@ -21,7 +21,6 @@
 package cz.webarchiv.wadmin
 
 import grails.test.*
-import cz.webarchiv.wadmin.Publisher
 
 class PublisherTests extends GrailsUnitTestCase {
     protected void setUp() {
