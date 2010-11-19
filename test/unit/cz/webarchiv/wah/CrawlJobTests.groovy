@@ -22,16 +22,19 @@ package cz.webarchiv.wah
 
 import grails.test.*
 
+/**
+ *
+ */
 class CrawlJobTests extends GrailsUnitTestCase {
     protected void setUp() {
         super.setUp()
 
         mockDomain(CrawlJob)
         CrawlJob activeJob = new CrawlJob("active job")
-        activeJob.status = CrawlStatus.ACTIVE
+        activeJob.status = CrawlStatus.RUNNING
         activeJob.save()
-        CrawlJob unknownJob = new CrawlJob("unknown job")
-        unknownJob.status = CrawlStatus.UNKNOWN
+        CrawlJob unknownJob = new CrawlJob("paused job")
+        unknownJob.status = CrawlStatus.PAUSED
         unknownJob.save()
         def date = unknownJob.dateCreated
     }
@@ -41,13 +44,13 @@ class CrawlJobTests extends GrailsUnitTestCase {
     }
 
     void testGetRunning() {
-        def instances = CrawlJob.getRunning();
+        def instances = CrawlJob.findAllByStatus(CrawlStatus.RUNNING);
         assert 1, instances.size()
         assert 'active job', instances.get(0).getName()
     }
 
     void testFindByStatus() {
-        def instances = CrawlJob.findAllByStatus(CrawlStatus.UNKNOWN);
+        def instances = CrawlJob.findAllByStatus(CrawlStatus.PAUSED);
         assert 1, instances.size()
         assert 'unknown job', instances.get(0).getName()
         assert 'unknown job', instances.get(0).name
