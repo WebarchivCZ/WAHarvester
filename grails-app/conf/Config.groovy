@@ -37,7 +37,7 @@ grails.converters.encoding = "UTF-8"
 // enable Sitemesh preprocessing of GSP pages
 grails.views.gsp.sitemesh.preprocess = true
 // define Sitemesh default layout
-grails.sitemesh.default.layout = 'application'
+grails.sitemesh.default.layout = 'main'
 grails.views.javascript.library = "jquery"
 // scaffolding templates configuration
 grails.scaffolding.templates.domainSuffix = 'Instance'
@@ -91,3 +91,9 @@ log4j = {
 
     debug 'cz.webarchiv.wah'
 }
+
+// WA Harvester configuration
+// TODO check if it is possible to move to separate file
+
+app.heritrix.jobDirectory = "/opt/heritrix/jobs/"
+app.heritrix.profileDirectory = "/resources/profiles/"
