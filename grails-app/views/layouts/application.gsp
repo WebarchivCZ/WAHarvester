@@ -5,27 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="en"/>
     <meta name="robots" content="noindex,nofollow"/>
-    <link rel="stylesheet" media="screen,projection" type="text/css" href="%{--
-  - This file is part of the WA Harvester.
-  -
-  - Licensed to the WebArchiv (WA) by Adam Brokes
-  -
-  - The IA licenses this file to You under the Apache License, Version 2.0
-  - (the "License"); you may not use this file except in compliance with
-  - the License.  You may obtain a copy of the License at
-  -
-  -        http://www.apache.org/licenses/LICENSE-2.0
-  -
-  - Unless required by applicable law or agreed to in writing, software
-  - distributed under the License is distributed on an "AS IS" BASIS,
-  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  - See the License for the specific language governing permissions and
-  - limitations under the License.
-  -
-  - 2010
-  --}%
-
-    ${resource(dir: 'css', file: 'reset.css')}"/> <!-- RESET -->
+    <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'reset.css')}"/> <!-- RESET -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'main.css')}"/> <!-- MAIN STYLE SHEET -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: '2col.css')}" title="2col"/> <!-- DEFAULT: 2 COLUMNS -->
     <link rel="alternate stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: '1col.css')}" title="1col"/> <!-- ALTERNATE: 1 COLUMN -->

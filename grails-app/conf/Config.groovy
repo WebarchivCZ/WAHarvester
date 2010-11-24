@@ -36,6 +36,8 @@ grails.views.gsp.encoding = "UTF-8"
 grails.converters.encoding = "UTF-8"
 // enable Sitemesh preprocessing of GSP pages
 grails.views.gsp.sitemesh.preprocess = true
+// define Sitemesh default layout
+grails.sitemesh.default.layout = 'application'
 grails.views.javascript.library = "jquery"
 // scaffolding templates configuration
 grails.scaffolding.templates.domainSuffix = 'Instance'
