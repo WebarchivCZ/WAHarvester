@@ -1,5 +1,6 @@
-<?xml version="1.0"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<%@ page import="grails.converters.JSON" %>
+
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
@@ -12,25 +13,12 @@
 <!--[if lte IE 6]><link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'main-ie6.css')}" /><![endif]--> <!-- MSIE6 -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'style.css')}"/> <!-- GRAPHIC THEME -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'mystyle.css')}"/> <!-- WRITE YOUR CSS CODE HERE -->
+    <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'fullcalendar.css')}"/> <!-- FULLCalendar jquery plugin -->
 <g:javascript library="jquery" plugin="jquery"/>
 <jqui:resources/>
 <jq:plugin name="toggle"/>
 <jq:plugin name="switcher"/>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $(".tabs > ul").tabs();
-
-            $("#debugOpen").click(function() {
-                $("#debugInfo").dialog({
-                    title: 'Debug',
-                    width: 800,
-                    position: 'right'
-                }).removeClass('hidden');
-            });
-
-            $('input[type=submit]').button();
-        });
-    </script>
+<g:javascript src="wahJS.js"/>
     <title><g:layoutTitle default="WA Harvester - správce sklizní"/></title>
     <link rel="shortcut icon" href="${resource(dir: 'images', file: 'favicon.ico')}" type="image/x-icon"/>
 </head>
@@ -49,7 +37,7 @@
                 <a href="#" rel="2col" class="styleswitch ico-col2" title="Display two columns"><img src="${resource(dir: 'design', file: 'switcher-2col.gif')}" alt="2 Columns"/></a>
             </span>
 
-            Stroj: <strong>harvester.webarchiv.cz</strong>
+            Stroj: <strong>${request.getServerName()}</strong>
 
         </p>
 
@@ -66,15 +54,7 @@
             <li><a href="#"><span><strong>&laquo; do Tracu</strong></span></a> <a href="#"><span><strong>do WAdminu &raquo;</strong></span></a></li>
         </ul>
 
-        <ul class="box">
-            <li id="menu-active"><g:link controller="dashboard"><span>Dashboard</span></g:link></li>
-            <li><g:link controller="monitor"><span>Monitor</span></g:link></li>
-            <li><g:link controller="crawlJob"><span>Sklizně</span></g:link></li>
-            <li><g:link controller="statistics"><span>Statistiky</span></g:link></li>
-            <li><g:link controller="qualityAssurance"><span>Kontrola Kvality</span></g:link></li>
-            <li><g:link controller="crawlProfile"><span>Profily</span></g:link></li>
-            <li><g:link controller="resource"><span>Zdroje</span></g:link></li>
-        </ul>
+        <g:applyLayout name="topMenu"/>
 
     </div> <!-- /header -->
 

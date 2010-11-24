@@ -5,6 +5,8 @@
 </head>
 <body>
 <h1>Dashboard</h1>
+<h2>Rozpis pravidelných sklizní</h2>
+
 <h2>Sklizně</h2>
 <h3>Probihajici</h3>
 <h3>Dokoncene</h3>
