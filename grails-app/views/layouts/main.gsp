@@ -6,6 +6,13 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="en"/>
     <meta name="robots" content="noindex,nofollow"/>
+
+    <g:javascript library="jquery" plugin="jquery"/>
+    <jqui:resources/>
+    <jq:plugin name="toggle"/>
+    <jq:plugin name="switcher"/>
+    <g:javascript src="wahJS.js"/>
+
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'reset.css')}"/> <!-- RESET -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'main.css')}"/> <!-- MAIN STYLE SHEET -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: '2col.css')}" title="2col"/> <!-- DEFAULT: 2 COLUMNS -->
@@ -13,12 +20,7 @@
 <!--[if lte IE 6]><link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'main-ie6.css')}" /><![endif]--> <!-- MSIE6 -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'style.css')}"/> <!-- GRAPHIC THEME -->
     <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'mystyle.css')}"/> <!-- WRITE YOUR CSS CODE HERE -->
-    <link rel="stylesheet" media="screen,projection" type="text/css" href="${resource(dir: 'css', file: 'fullcalendar.css')}"/> <!-- FULLCalendar jquery plugin -->
-<g:javascript library="jquery" plugin="jquery"/>
-<jqui:resources/>
-<jq:plugin name="toggle"/>
-<jq:plugin name="switcher"/>
-<g:javascript src="wahJS.js"/>
+
     <title><g:layoutTitle default="WA Harvester - správce sklizní"/></title>
     <link rel="shortcut icon" href="${resource(dir: 'images', file: 'favicon.ico')}" type="image/x-icon"/>
 </head>
