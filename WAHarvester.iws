@@ -6,27 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="f9587e60-2eb5-4d50-b202-8af51f9931f1" name="Default" comment="ADD - translation of topMenu">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/main.css" afterPath="$PROJECT_DIR$/web-app/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlJobController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/CrawlJobController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/services/cz/webarchiv/wah/heritrix/HeritrixService.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/js/wahJS.js" afterPath="$PROJECT_DIR$/web-app/js/wahJS.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/2col.css" afterPath="$PROJECT_DIR$/web-app/css/2col.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/main-ie6.css" afterPath="$PROJECT_DIR$/web-app/css/main-ie6.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/reset.css" afterPath="$PROJECT_DIR$/web-app/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/1col.css" afterPath="$PROJECT_DIR$/web-app/css/1col.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iws" afterPath="$PROJECT_DIR$/WAHarvester.iws" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/groovy/cz/webarchiv/wah/WaHarvesterException.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester-grailsPlugins.iml" afterPath="$PROJECT_DIR$/WAHarvester-grailsPlugins.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/crawlJob/addExisting.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/resources/order-v1.14.4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/error.gsp" afterPath="$PROJECT_DIR$/grails-app/views/error.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/ImportJobServiceTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CodeNarcReport.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/heritrix/HeritrixTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/UserTests.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/Datasources.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/dashboard/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/dashboard/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/style.css" afterPath="$PROJECT_DIR$/web-app/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlJobStatsTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WAHarvester.iws" afterPath="$PROJECT_DIR$/WAHarvester.iws" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/services/cz/webarchiv/wah/ImportJobService.groovy" />
     </list>
     <ignored path="$USER_HOME_GRAILS$/" />
     <ignored path="$USER_HOME_GRIFFON$/" />
@@ -91,12 +78,33 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ImportJobService.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ImportJobService.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/services/cz/webarchiv/wah/ImportJobService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="34" selection-start="580" selection-end="580" vertical-scroll-proportion="0.26714286">
+            <state line="14" column="34" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrawlJobStatsTests.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlJobStatsTests.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrawlJobStats.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJobStats.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="32" selection-end="32" vertical-scroll-proportion="0.061818182">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -112,7 +120,7 @@
       <file leaf-file-name="CrawlJob.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="64" selection-start="1329" selection-end="1329" vertical-scroll-proportion="-13.304348">
+            <state line="68" column="64" selection-start="1325" selection-end="1325" vertical-scroll-proportion="-13.304348">
               <folding />
             </state>
           </provider>
@@ -124,7 +132,7 @@
       <file leaf-file-name="order-v1.14.4.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/unit/resources/order-v1.14.4.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="27" selection-start="4655" selection-end="4655" vertical-scroll-proportion="0.0">
+            <state line="86" column="27" selection-start="4964" selection-end="4964" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -257,10 +265,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="unit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="waharvester" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -976,15 +980,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1634" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32403433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32403433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24936225" sideWeight="0.6630077" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39914164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2251506" sideWeight="0.64450127" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3465473" sideWeight="0.0" order="11" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34549356" sideWeight="0.0" order="11" side_tool="false" content_ui="tabs" x="87" y="372" width="1568" height="306" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286445" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -992,9 +996,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297194" sideWeight="0.33476394" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297194" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39987245" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18558674" sideWeight="0.78004295" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21244635" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="-150" y="398" width="1568" height="304" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18558674" sideWeight="0.66845495" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21244635" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="-150" y="398" width="1568" height="304" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972628" sideWeight="0.6630077" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1016,7 +1020,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD - css classes for th in tables" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD - basic layouts for controllers&#10;ADD - default layout&#10;ADD - fields to CrawlJob&#10;ADD - HeritrixService&#10;ADD - WaHarvesterException" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1029,7 +1033,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Added basic model derivated from wadmin database." />
     <MESSAGE value=" - applied the new template (http://www.adminizio.com/)&#10; - building basic system structure" />
     <MESSAGE value="WA Admin basic domain classes" />
     <MESSAGE value="basic WA Harvester domain classes" />
@@ -1054,6 +1057,7 @@
     <MESSAGE value="ADD - translation of topMenu" />
     <MESSAGE value="FIX - view prototypes" />
     <MESSAGE value="ADD - css classes for th in tables" />
+    <MESSAGE value="ADD - basic layouts for controllers&#10;ADD - default layout&#10;ADD - fields to CrawlJob&#10;ADD - HeritrixService&#10;ADD - WaHarvesterException" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1063,16 +1067,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="168" column="14" selection-start="2876" selection-end="2876" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/2col.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="46" selection-start="701" selection-end="701" vertical-scroll-proportion="0.58232045" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/cz/webarchiv/wah/DashboardController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="6" selection-start="32" selection-end="32" vertical-scroll-proportion="0.03868032" />
@@ -1143,7 +1137,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJob.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="64" selection-start="1329" selection-end="1329" vertical-scroll-proportion="-13.304348">
+        <state line="68" column="64" selection-start="1325" selection-end="1325" vertical-scroll-proportion="-13.304348">
           <folding />
         </state>
       </provider>
@@ -1153,7 +1147,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/unit/resources/order-v1.14.4.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="27" selection-start="4655" selection-end="4655" vertical-scroll-proportion="0.0">
+        <state line="86" column="27" selection-start="4964" selection-end="4964" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1167,9 +1161,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/services/cz/webarchiv/wah/ImportJobService.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="580" selection-end="580" vertical-scroll-proportion="0.26714286">
+        <state line="14" column="34" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/cz/webarchiv/wah/CrawlJobStatsTests.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/cz/webarchiv/wah/CrawlJobStats.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="32" selection-end="32" vertical-scroll-proportion="0.061818182">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
       </provider>
     </entry>
   </component>
