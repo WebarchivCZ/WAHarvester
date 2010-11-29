@@ -1,0 +1,55 @@
+Processors report - 201003110851
+  Job being crawled:    Serials-2010-02
+  Number of Processors: 17
+  NOTE: Some processors may not return a report!
+
+Processor: org.archive.crawler.fetcher.FetchHTTP
+  Function:          Fetch HTTP URIs
+  CrawlURIs handled: 18990807
+  Recovery retries:   0
+
+Processor: org.archive.crawler.extractor.TrapSuppressExtractor
+  Function:             Suppress extraction on likely traps
+  CrawlURIs handled:    19212645
+  CrawlURIs suppressed: 100712
+
+Processor: org.archive.crawler.extractor.ExtractorHTTP
+  Function:          Extracts URIs from HTTP response headers
+  CrawlURIs handled: 18487106
+  Links extracted:   1249953
+
+Processor: org.archive.crawler.extractor.ExtractorHTML
+  Function:          Link extraction on HTML documents
+  CrawlURIs handled: 9430011
+  Links extracted:   943141390
+
+Processor: org.archive.crawler.extractor.ExtractorCSS
+  Function:          Link extraction on Cascading Style Sheets (.css)
+  CrawlURIs handled: 69754
+  Links extracted:   781550
+
+Processor: org.archive.crawler.extractor.ExtractorJS
+  Function:          Link extraction on JavaScript code
+  CrawlURIs handled: 79034
+  Links extracted:   507962
+
+Processor: org.archive.crawler.extractor.ExtractorSWF
+  Function:          Link extraction on Shockwave Flash documents (.swf)
+  CrawlURIs handled: 40048
+  Links extracted:   90939
+
+Processor: org.archive.crawler.extractor.ExtractorXML
+  Function:          Link extraction on XML/RSS
+  CrawlURIs handled: 148303
+  Links extracted:   4002332
+
+Processor: org.archive.crawler.extractor.ExtractorPDF
+  Function:          Link extraction on PDF documents
+  CrawlURIs handled: 157815
+  Links extracted:   691368
+
+Processor: org.archive.crawler.extractor.ExtractorURI
+  Function:          Extracts links inside other URIs
+  CrawlURIs handled: 19212423
+  Links extracted:   5609375
+

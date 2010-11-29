@@ -1,0 +1,12 @@
+Crawl Name: Serials-2010-02
+Crawl Status: Finished - Ended by operator
+Duration Time: 13d23h39m10s578ms
+Total Seeds Crawled: 2022
+Total Seeds not Crawled: 7
+Total Hosts Crawled: 204790
+Total Documents Crawled: 18719872
+Processed docs/sec: 15.48
+Bandwidth in Kbytes/sec: 991
+Total Raw Data Size in Bytes: 1226573387843 (1.1 TB) 
+Novel Bytes: 1226573385193 (1.1 TB) 
+Not-modified Bytes: 2650 (2.6 KB) 
