@@ -71,7 +71,7 @@
             <div class="padding box">
 
                 <!-- Logo (Max. width = 200px) -->
-                <p id="logo"><a href="#"><img src="${resource(dir: 'design', file: 'logo.png')}" alt="WA Harvester logo" title="Visit Site"/></a></p>
+                <p id="logo"><a href="#"><img src="${resource(dir: 'design', file: 'logo.png')}" alt="WA Harvester logo" title="WA Harvester"/></a></p>
 
                 <!-- Search -->
                 <form action="#" method="get" id="search">
@@ -100,18 +100,7 @@
 
             </div> <!-- /padding -->
 
-            <ul class="box">
-                <li id="submenu-active"><a href="#">Sklizně seriálů</a></li>
-                <ul>
-                    <li><a href="#">Seznam</a></li>
-                    <li><a href="#">Statistiky</a></li>
-                    <li><a href="#">Vytvořit profil</a></li>
-                </ul>
-                <li><a href="#">Sklizně seriálů bez smlouvy</a></li>
-                <li><a href="#">Testovací sklizně</a></li>
-                <li><a href="#">QA sklizně</a></li>
-                <li><a href="#">Zaarchivovat stránku</a></li>
-            </ul>
+        <g:applyLayout name="leftMenu"/>
 
             <p>&nbsp;&nbsp;<a href="javascript:toggle('application-status');" class="ico-drop">Status aplikace</a></p>
 
@@ -151,7 +140,16 @@
 
         <!-- Content (Right Column) -->
         <div id="content" class="box">
+            <g:if test="${flash.error != null}">
+                <p class="msg error">${flash.error}</p>
+            </g:if>
+            <g:if test="${flash.message != null}">
+                <p class="msg info">${flash.message}</p>
+            </g:if>
             <g:layoutBody/>
+            <g:if test="${flash.info != null}">
+                <p class="msg info">${flash.info}</p>
+            </g:if>
         </div>
 
     </div> <!-- /cols -->

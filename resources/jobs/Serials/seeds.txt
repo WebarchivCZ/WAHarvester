@@ -1,2 +1,0 @@
-http://webarchiv.cz/
-http://localhost/

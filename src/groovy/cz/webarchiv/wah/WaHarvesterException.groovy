@@ -5,4 +5,8 @@ package cz.webarchiv.wah
  * @version 26.11.2010
  */
 class WaHarvesterException extends Exception {
+    public WaHarvesterException(String message) {
+        // TODO logging
+        super(message)
+    }
 }

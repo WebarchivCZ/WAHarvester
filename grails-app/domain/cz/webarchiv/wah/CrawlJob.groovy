@@ -31,19 +31,26 @@ class CrawlJob {
      * description of job (in order.xml)
      */
     String description
-
-    Integer downloadedURI
-    Integer queuedURI
     /**
      * max budget for queue
      */
     Integer totalBudget
+    /**
+     * directory name
+     */
+    String directoryName
+    /**
+     * job has one seedlist
+     */
+    Seedlist seedlist
+    /**
+     * crawl report
+     */
+    CrawlJobReport report
 
     String comments
 
     Integer launchCount
-    String configFiles
-    String elapsed
 
     Date dateStarted
     Date dateFinished
@@ -51,10 +58,6 @@ class CrawlJob {
     // Auto generated columns by grails
     Date dateCreated
     Date lastUpdated
-
-    // Job has many seedlists
-    static hasMany = [seedlists: Seedlist]
-    static belongsTo = []
 
     public CrawlJob() {
         super()
@@ -68,6 +71,7 @@ class CrawlJob {
     static constraints = {
         name(blank: false, nullable: false, unique: 'dateStarted')
         priority(range: 1..3)
+        directoryName(unique: true)
     }
 
     /**
@@ -92,28 +96,28 @@ class CrawlJob {
  * Based on Heritrix org.archive.crawler.framework.CrawlStatus
  */
 enum CrawlStatus {
-    /** Inital value. May not be ready to run/incomplete.         */
+    /** Inital value. May not be ready to run/incomplete.           */
     CREATED("Created"),
 
-    /** Job has been successfully submitted to a CrawlJobHandler.         */
+    /** Job has been successfully submitted to a CrawlJobHandler.           */
     PENDING("Pending"),
 
-    /** Job is being crawled.         */
+    /** Job is being crawled.           */
     RUNNING("Running"),
 
-    /** Job was deleted by user, will not be displayed in UI.         */
+    /** Job was deleted by user, will not be displayed in UI.           */
     DELETED("Deleted"),
 
-    /** Job was terminted by user input while crawling.         */
+    /** Job was terminted by user input while crawling.           */
     ABORTED("Finished - Ended by operator"),
 
-    /** Something went very wrong.         */
+    /** Something went very wrong.           */
     FINISHED_ABNORMAL("Finished - Abnormal exit from crawling"),
 
-    /** Job finished normally having completed its crawl.         */
+    /** Job finished normally having completed its crawl.           */
     FINISHED("Finished"),
 
-    /** Job finished normally when the specified timelimit was hit.         */
+    /** Job finished normally when the specified timelimit was hit.           */
     FINISHED_TIME_LIMIT("Finished - Timelimit hit"),
 
     /**
@@ -135,7 +139,7 @@ enum CrawlStatus {
      */
     WAITING_FOR_PAUSE("Pausing - Waiting for threads to finish"),
 
-    /** Job was temporarly stopped. State is kept so it can be resumed         */
+    /** Job was temporarly stopped. State is kept so it can be resumed           */
     PAUSED("Paused"),
 
     /**
@@ -145,13 +149,13 @@ enum CrawlStatus {
      */
     CHECKPOINTING("Checkpointing"),
 
-    /** Job could not be launced due to an InitializationException         */
+    /** Job could not be launced due to an InitializationException           */
     MISCONFIGURED("Could not launch job - Fatal InitializationException"),
 
-    /** Job is actually a profile         */
+    /** Job is actually a profile           */
     PROFILE("Profile"),
 
-    /** Prepared.         */
+    /** Prepared.           */
     PREPARING("Preparing");
 
     public String description

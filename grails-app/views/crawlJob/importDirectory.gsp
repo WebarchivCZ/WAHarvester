@@ -2,7 +2,9 @@
 <html>
 <head><title>Přidat existující adresář</title></head>
 <body>
-<g:form action="addExisting">
+<h1>Přidat existující adresář s dokončenými sklizněmi</h1>
+<p>Adresar muze obsahovat nekolik podadresaru s joby (maximalne do urovne jedna)</p>
+<g:form action="importDirectory">
     <label for="jobPath">Zadejte cestu</label>
     <g:textField name="jobPath"/>
     <g:submitButton name="loadExistingJob" value="Načíst"/>
