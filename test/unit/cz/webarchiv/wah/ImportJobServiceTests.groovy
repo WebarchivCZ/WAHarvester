@@ -41,7 +41,6 @@ class ImportJobServiceTests extends GrailsUnitTestCase
     @Test
     void testParseOrderXML()
     {
-        //File orderXML = new File(getClass().getResource('/resources/order-v1.14.4.xml').getFile())
         File orderXML = new File(getClass().getResource(DIR_JOB_HERITRIX_1 + 'order.xml').getFile())
         CrawlJob job = service.parseOrderXML(orderXML)
 
