@@ -1,6 +1,7 @@
 package cz.webarchiv.wadmin
 
-class Resource {
+class Resource
+{
     String title
     String url
     Boolean important
@@ -18,5 +19,10 @@ class Resource {
 
     static belongsTo = [creator: Curator]
     static hasMany = [seeds: Seed]
+
+    String toString()
+    {
+        return title
+    }
 
 }

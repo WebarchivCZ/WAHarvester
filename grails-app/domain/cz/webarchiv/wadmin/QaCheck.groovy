@@ -3,14 +3,15 @@ package cz.webarchiv.wadmin
 /**
  * Domain class for Quality Assurance checks done by curators
  */
-class QaCheck {
+class QaCheck
+{
     Resource resource
     Curator curator
     Date dateChecked
     Date dateCrawled
     Integer solution
     Date solutionDate
-    //Curator solutionUser
+    Curator solutionUser
     String proxyProblems
     String comments
     Integer ticketNo
@@ -24,5 +25,6 @@ class QaCheck {
     }
 
     static constraints = {
+        resource()
     }
 }

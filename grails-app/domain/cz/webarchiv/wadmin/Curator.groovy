@@ -1,6 +1,7 @@
 package cz.webarchiv.wadmin
 
-class Curator {
+class Curator
+{
     String username
     String password
     String vocative
@@ -22,4 +23,9 @@ class Curator {
     }
 
     static hasMany = [resources: Resource]
+
+    public String toString()
+    {
+        return firstname
+    }
 }

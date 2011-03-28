@@ -9,7 +9,7 @@
     <h2 class="tit">Upozornění</h2>
     <p class="msg warning">Je čas spustit výběrovou sklizeň (leden 2011)</p>
 
-    <p class="msg done">Sklizeň - Test-nkp.cz-01 - je dokončena</p>
+    <p class="msg done">Sklizeň - Selective-2010-12-00 - je dokončena</p>
 
     <p class="msg error">Heritrix - testovaci - neodpovídá</p>
 </div>
@@ -36,7 +36,10 @@
         <p>Lorem ipsum dolor sit amet, consectetumr adipiscing elit.</p>
     </div>
     <div id="tab02">
-        <p>Lorem ipsum dolor sit amet, consecthetur adipiscing elit.</p>
+        <table style="margin: 1em;">
+            <tr><th>Název</th><th>Typ</th><th>Status</th><th>Ukončeno</th><th># dokumentů</th><th>velikost</th><th>Operátor</th><th>Komentář</th></tr>
+            <tr><td>Selective-2010-12-00</td><td>Výběrová sklizeň</td><td>Ukončeno</td><td>25.12.2010</td><td>35 452 154</td><td>398 GB</td><td>Adam</td><td>Úmyslně vypnutý DeDuplicator</td></tr>
+        </table>
     </div>
     <div id="tab03">
         <p>Lorem ipsum dolor sit amet, consecteotur adipiscing elit.</p>

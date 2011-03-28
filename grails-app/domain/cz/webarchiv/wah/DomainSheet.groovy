@@ -1,6 +1,12 @@
 package cz.webarchiv.wah
 
-class DomainSheet {
+class DomainSheet
+{
+    String orderXML
+    String comments
+    String name
+    String description
+
     static constraints = {
     }
 

@@ -1,6 +1,7 @@
 package cz.webarchiv.wah
 
-class Seedlist {
+class Seedlist
+{
     /**
      * list of seeds
      */
@@ -10,6 +11,8 @@ class Seedlist {
      */
     String fileLocation
     static constraints = {
+        fileLocation(nullable: true)
+        seeds(maxSize: 10000000)
     }
 
     static mappings = {
@@ -18,13 +21,15 @@ class Seedlist {
 
     static belongsTo = CrawlJob
 
-    public boolean contains(String url) {
+    public boolean contains(String url)
+    {
         if (seeds.contains(url)) {
             return true
         } else {return false}
     }
 
-    public String toString() {
+    public String toString()
+    {
         return seeds.toString()
     }
 }

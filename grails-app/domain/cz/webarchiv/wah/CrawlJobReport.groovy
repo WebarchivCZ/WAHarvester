@@ -1,6 +1,7 @@
 package cz.webarchiv.wah
 
-class CrawlJobReport {
+class CrawlJobReport
+{
     /**
      * how long does the job takes
      */
@@ -40,5 +41,8 @@ class CrawlJobReport {
 
     static belongsTo = [job: CrawlJob]
     static constraints = {
+        downloadedURI(nullable: true)
+        journal(nullable: true)
+        queuedURI(nullable: true)
     }
 }

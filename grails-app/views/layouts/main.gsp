@@ -43,7 +43,16 @@
 
         </p>
 
-        <p class="f-right">Uživatel: <strong><a href="#">Administrator</a></strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="#" id="logout">Odhlásit</a></strong></p>
+        <p class="f-right">
+            <sec:ifNotLoggedIn>
+                <strong><g:link controller="login" action="auth">Login</g:link></strong>
+            </sec:ifNotLoggedIn>
+            <sec:ifAllGranted roles="ROLE_USER">
+                <strong><g:link controller="dashboard"><sec:username/></g:link></strong>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong><g:link controller="logout">Odhlásit</g:link></strong>
+            </sec:ifAllGranted>
+        </p>
 
     </div> <!--  /tray -->
 
@@ -79,7 +88,7 @@
                         <legend>Vyhledat</legend>
 
                         <p><input type="text" size="17" name="" class="input-text"/>&nbsp;<input type="submit" value="OK" class="input-submit-02"/><br/>
-                            <a href="javascript:toggle('search-options');" class="ico-drop">Advanced search</a></p>
+                            <a href="javascript:toggle('search-options');" class="ico-drop">Omezit hledání</a></p>
 
                         <!-- Advanced search -->
                         <div id="search-options" style="display:none;">

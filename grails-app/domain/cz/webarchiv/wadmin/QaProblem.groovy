@@ -1,6 +1,12 @@
 package cz.webarchiv.wadmin
 
-class QaProblem {
+class QaProblem
+{
+    String problem
+    String descriptions
+    String question
+    String comments
+
     static hasMany = [qaChecks: QaCheck]
 
     static mapping = {

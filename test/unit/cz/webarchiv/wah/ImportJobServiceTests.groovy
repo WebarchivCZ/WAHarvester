@@ -3,23 +3,31 @@ package cz.webarchiv.wah
 import grails.test.*
 import org.junit.Test
 
-class ImportJobServiceTests extends GrailsUnitTestCase {
-    def jobDirHeritrix1 = '/resources/jobDirectoryHeritrix1/'
+class ImportJobServiceTests extends GrailsUnitTestCase
+{
+    static final String DIR_JOB_HERITRIX_1 = '/resources/jobDirectoryHeritrix1/'
 
-    protected void setUp() {
+    def ImportJobService service;
+
+    protected void setUp()
+    {
         super.setUp()
+        mockLogging ImportJobService.class
+        mockDomain(CrawlJob)
+        mockDomain(CrawlJobReport)
+        mockDomain(Seedlist)
+        service = new ImportJobService()
     }
 
-    protected void tearDown() {
+    protected void tearDown()
+    {
         super.tearDown()
     }
 
     @Test
-    void testImportDirectory() {
-        mockLogging ImportJobService.class
-
-        ImportJobService service = new ImportJobService()
-        CrawlJob[] jobs = service.importDirectory(getClass().getResource('/resources/jobDirectoryHeritrix1').getPath())
+    void testImportDirectory()
+    {
+        CrawlJob[] jobs = service.importDirectory(getClass().getResource(DIR_JOB_HERITRIX_1).getPath())
 
         assertEquals 'Serials-2010-02', jobs[0].name
         assertEquals 'jobDirectoryHeritrix1', jobs[0].directoryName
@@ -31,10 +39,10 @@ class ImportJobServiceTests extends GrailsUnitTestCase {
     }
 
     @Test
-    void testParseOrderXML() {
+    void testParseOrderXML()
+    {
         //File orderXML = new File(getClass().getResource('/resources/order-v1.14.4.xml').getFile())
-        File orderXML = new File(getClass().getResource(jobDirHeritrix1 + 'order.xml').getFile())
-        ImportJobService service = new ImportJobService()
+        File orderXML = new File(getClass().getResource(DIR_JOB_HERITRIX_1 + 'order.xml').getFile())
         CrawlJob job = service.parseOrderXML(orderXML)
 
         assertEquals orderXML.getText(), job.orderXml
@@ -45,25 +53,9 @@ class ImportJobServiceTests extends GrailsUnitTestCase {
     }
 
     @Test
-    void testParseCrawlReport() {
-        /**
-         * Crawl Name: Serials-2010-02
-         Crawl Status: Finished - Ended by operator
-         Duration Time: 13d23h39m10s578ms
-         Total Seeds Crawled: 2022
-         Total Seeds not Crawled: 7
-         Total Hosts Crawled: 204790
-         Total Documents Crawled: 18719872
-         Processed docs/sec: 15.48
-         Bandwidth in Kbytes/sec: 991
-         Total Raw Data Size in Bytes: 1226573387843 (1.1 TB)
-         Novel Bytes: 1226573385193 (1.1 TB)
-         Not-modified Bytes: 2650 (2.6 KB)
-
-         */
-
-        File crawReport = new File(getClass().getResource(jobDirHeritrix1 + 'crawl-report.txt').getFile())
-        ImportJobService service = new ImportJobService()
+    void testParseCrawlReport()
+    {
+        File crawReport = new File(getClass().getResource(DIR_JOB_HERITRIX_1 + 'crawl-report.txt').getFile())
         CrawlJobReport report = service.parseCrawlReport(crawReport)
         assertEquals 1226573387843, report.crawlSize
         assertEquals '13d23h39m10s578ms', report.duration
@@ -73,11 +65,14 @@ class ImportJobServiceTests extends GrailsUnitTestCase {
     }
 
     @Test
-    void testParseSeedList() {
-        File seedTxt = new File(getClass().getResource(jobDirHeritrix1 + 'seeds.txt').getFile())
+    void testParseSeedList()
+    {
+        File seedTxt = new File(getClass().getResource(DIR_JOB_HERITRIX_1 + 'seeds.txt').getFile())
         ImportJobService service = new ImportJobService()
         Seedlist seedlist = service.parseSeedList(seedTxt)
 
         assertTrue seedlist.contains('http://www.fi.muni.cz/~qprokes')
     }
+
+
 }

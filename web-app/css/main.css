@@ -41,6 +41,7 @@ h1, h2, h3, h4, h5, h6, address, blockquote, dl, fieldset, ol, p, table, ul {
 #content table {
     margin: 0;
     border-collapse: collapse;
+    font-size: 1em;
 }
 
 #content table.width100 {

@@ -7,7 +7,7 @@ datasources = {
         username("waTest")
         password("test")
         domainClasses([cz.webarchiv.wadmin.Curator, cz.webarchiv.wadmin.Publisher, cz.webarchiv.wadmin.Resource,
-                cz.webarchiv.wadmin.Seed, cz.webarchiv.wadmin.SeedStatus, cz.webarchiv.wadmin.QaProblem, cz.webarchiv.wadmin.QaCheck])
+                      cz.webarchiv.wadmin.Seed, cz.webarchiv.wadmin.SeedStatus, cz.webarchiv.wadmin.QaProblem, cz.webarchiv.wadmin.QaCheck])
         dialect(org.hibernate.dialect.MySQL5InnoDBDialect)
         pooled(true)
         environments(['development'])

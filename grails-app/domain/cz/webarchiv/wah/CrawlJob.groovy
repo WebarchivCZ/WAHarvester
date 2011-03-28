@@ -1,12 +1,15 @@
 package cz.webarchiv.wah
 
+import cz.webarchiv.wah.heritrix.Heritrix
+
 /**
  * CrawlJob class, every crawling job has one record in database
  * Based on Heritrix class CrawlJob
  * @author nanux
  */
 
-class CrawlJob {
+class CrawlJob
+{
     /**
      * short name of the job
      */
@@ -47,6 +50,11 @@ class CrawlJob {
      * crawl report
      */
     CrawlJobReport report
+    /**
+     * heritrix used for crawling
+     */
+    Heritrix heritrix
+
 
     String comments
 
@@ -59,11 +67,13 @@ class CrawlJob {
     Date dateCreated
     Date lastUpdated
 
-    public CrawlJob() {
+    public CrawlJob()
+    {
         super()
     }
 
-    public CrawlJob(String name) {
+    public CrawlJob(String name)
+    {
         super()
         this.name = name
     }
@@ -71,7 +81,18 @@ class CrawlJob {
     static constraints = {
         name(blank: false, nullable: false, unique: 'dateStarted')
         priority(range: 1..3)
-        directoryName(unique: true)
+        directoryName(unique: true, nullable: true)
+        orderXml(maxSize: 100000)
+        heritrix(nullable: true)
+        priority(nullable: true)
+        operator(nullable: true)
+        description(nullable: true)
+        comments(nullable: true)
+        launchCount(nullable: true)
+        report(nullable: true)
+        seedlist(nullable: true)
+        dateStarted(nullable: true)
+        dateFinished(nullable: true)
     }
 
     /**
@@ -80,44 +101,34 @@ class CrawlJob {
     static mappings = {
         orderXml type: 'text'
     }
-
-    static addExisting(String path) {
-        File d = new File(path)
-        println d.toString()
-        if (d.exists()) {
-            d.eachFileRecurse {println it}
-        } else {
-            throw new IOException('Cannot open directory path')
-        }
-    }
 }
 /**
  * Enum with values assignable to CrawlJob.status
  * Based on Heritrix org.archive.crawler.framework.CrawlStatus
  */
 enum CrawlStatus {
-    /** Inital value. May not be ready to run/incomplete.           */
+    /** Inital value. May not be ready to run/incomplete.            */
     CREATED("Created"),
 
-    /** Job has been successfully submitted to a CrawlJobHandler.           */
+    /** Job has been successfully submitted to a CrawlJobHandler.            */
     PENDING("Pending"),
 
-    /** Job is being crawled.           */
+    /** Job is being crawled.            */
     RUNNING("Running"),
 
-    /** Job was deleted by user, will not be displayed in UI.           */
+    /** Job was deleted by user, will not be displayed in UI.            */
     DELETED("Deleted"),
 
-    /** Job was terminted by user input while crawling.           */
+    /** Job was terminted by user input while crawling.            */
     ABORTED("Finished - Ended by operator"),
 
-    /** Something went very wrong.           */
+    /** Something went very wrong.            */
     FINISHED_ABNORMAL("Finished - Abnormal exit from crawling"),
 
-    /** Job finished normally having completed its crawl.           */
+    /** Job finished normally having completed its crawl.            */
     FINISHED("Finished"),
 
-    /** Job finished normally when the specified timelimit was hit.           */
+    /** Job finished normally when the specified timelimit was hit.            */
     FINISHED_TIME_LIMIT("Finished - Timelimit hit"),
 
     /**
@@ -139,7 +150,7 @@ enum CrawlStatus {
      */
     WAITING_FOR_PAUSE("Pausing - Waiting for threads to finish"),
 
-    /** Job was temporarly stopped. State is kept so it can be resumed           */
+    /** Job was temporarly stopped. State is kept so it can be resumed            */
     PAUSED("Paused"),
 
     /**
@@ -149,13 +160,13 @@ enum CrawlStatus {
      */
     CHECKPOINTING("Checkpointing"),
 
-    /** Job could not be launced due to an InitializationException           */
+    /** Job could not be launced due to an InitializationException            */
     MISCONFIGURED("Could not launch job - Fatal InitializationException"),
 
-    /** Job is actually a profile           */
+    /** Job is actually a profile            */
     PROFILE("Profile"),
 
-    /** Prepared.           */
+    /** Prepared.            */
     PREPARING("Preparing");
 
     public String description
@@ -164,14 +175,16 @@ enum CrawlStatus {
      * @param status name of status
      * @return new CrawlStatus instance
      */
-    CrawlStatus(String description) {
+    CrawlStatus(String description)
+    {
         this.description = description
     }
 
     /**
      * @return lis of available CrawlJob statuses
      */
-    static list() {
+    static list()
+    {
         [CREATED]
     }
 
