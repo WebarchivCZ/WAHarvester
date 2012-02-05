@@ -1,0 +1,379 @@
+Toe threads report - 201011131039
+ Job being crawled: basic
+ Number of toe threads in pool: 25 (0 active)
+
+[ToeThread #1
+ -no CrawlURI- 
+    WAITING for 1m36s146ms
+    step: ABOUT_TO_GET_URI for 1m36s136ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #2
+ -no CrawlURI- 
+    WAITING for 1m36s201ms
+    step: ABOUT_TO_GET_URI for 1m36s201ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #3
+ -no CrawlURI- 
+    WAITING for 1m36s192ms
+    step: ABOUT_TO_GET_URI for 1m36s192ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #4
+ -no CrawlURI- 
+    WAITING for 1m36s192ms
+    step: ABOUT_TO_GET_URI for 1m36s172ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #5
+ -no CrawlURI- 
+    WAITING for 1m36s192ms
+    step: ABOUT_TO_GET_URI for 1m36s32ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #6
+ -no CrawlURI- 
+    WAITING for 1m36s192ms
+    step: ABOUT_TO_GET_URI for 1m36s172ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #7
+ -no CrawlURI- 
+    WAITING for 1m36s182ms
+    step: ABOUT_TO_GET_URI for 1m36s32ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #8
+ -no CrawlURI- 
+    WAITING for 1m36s172ms
+    step: ABOUT_TO_GET_URI for 1m36s32ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #9
+ -no CrawlURI- 
+    WAITING for 1m36s172ms
+    step: ABOUT_TO_GET_URI for 1m36s33ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #10
+ -no CrawlURI- 
+    WAITING for 1m36s173ms
+    step: ABOUT_TO_GET_URI for 1m36s33ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #11
+ -no CrawlURI- 
+    WAITING for 1m36s173ms
+    step: ABOUT_TO_GET_URI for 1m36s33ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #12
+ -no CrawlURI- 
+    WAITING for 1m36s173ms
+    step: ABOUT_TO_GET_URI for 1m36s33ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #13
+ -no CrawlURI- 
+    WAITING for 1m36s173ms
+    step: ABOUT_TO_GET_URI for 1m36s33ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #14
+ -no CrawlURI- 
+    WAITING for 1m36s173ms
+    step: ABOUT_TO_GET_URI for 1m36s33ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #15
+ -no CrawlURI- 
+    WAITING for 1m36s173ms
+    step: ABOUT_TO_GET_URI for 1m36s34ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #16
+ -no CrawlURI- 
+    WAITING for 1m36s174ms
+    step: ABOUT_TO_GET_URI for 1m36s34ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #17
+ -no CrawlURI- 
+    WAITING for 1m36s174ms
+    step: ABOUT_TO_GET_URI for 1m36s34ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #18
+ -no CrawlURI- 
+    WAITING for 1m36s174ms
+    step: ABOUT_TO_GET_URI for 1m36s34ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #19
+ -no CrawlURI- 
+    WAITING for 1m36s174ms
+    step: ABOUT_TO_GET_URI for 1m36s34ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #20
+ -no CrawlURI- 
+    WAITING for 1m36s34ms
+    step: ABOUT_TO_GET_URI for 1m36s14ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #21
+ -no CrawlURI- 
+    WAITING for 1m36s35ms
+    step: ABOUT_TO_GET_URI for 1m36s15ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #22
+ -no CrawlURI- 
+    WAITING for 1m36s35ms
+    step: ABOUT_TO_GET_URI for 1m36s15ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #23
+ -no CrawlURI- 
+    WAITING for 1m36s35ms
+    step: ABOUT_TO_GET_URI for 1m36s15ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #24
+ -no CrawlURI- 
+    WAITING for 1m36s35ms
+    step: ABOUT_TO_GET_URI for 1m36s15ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]
+[ToeThread #25
+ -no CrawlURI- 
+    WAITING for 1m36s25ms
+    step: ABOUT_TO_GET_URI for 1m36s15ms
+Java Thread State: WAITING
+Blocked/Waiting On: java.util.concurrent.locks.ReentrantReadWriteLock$FairSync@347b21ea which is owned by org.archive.crawler.frontier.BdbFrontier@7f81497d.managerThread(27)
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:969)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1281)
+    java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock.lockInterruptibly(ReentrantReadWriteLock.java:639)
+    org.archive.crawler.frontier.AbstractFrontier.next(AbstractFrontier.java:493)
+    org.archive.crawler.framework.ToeThread.run(ToeThread.java:133)
+]

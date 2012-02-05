@@ -20,20 +20,17 @@
 
 package cz.webarchiv.wah
 
-import grails.test.*
-import cz.webarchiv.linkextractor.LinkExtractor
+import grails.test.ControllerUnitTestCase
 
 class QualityAssuranceControllerTests extends ControllerUnitTestCase {
-    protected void setUp() {
-        super.setUp()
-    }
+  protected void setUp() {
+    super.setUp()
+  }
 
-    protected void tearDown() {
-        super.tearDown()
-    }
+  protected void tearDown() {
+    super.tearDown()
+  }
 
-    void testSomething() {
-        LinkExtractor le = new LinkExtractor()
-        le.extractLinks('http://brokes.net').each {log.severe it}
-    }
+  void testSomething() {
+  }
 }

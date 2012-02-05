@@ -1,28 +1,27 @@
 package cz.webarchiv.wadmin
 
-class Resource
-{
-    String title
-    String url
-    Boolean important
-    String comments
-    Date date
-    Publisher publisher
+class Resource {
+  String title
+  String url
+  Boolean important
+  String comments
+  Date date
+  Publisher publisher
 
-    static constraints = {
-        url(url: true)
-    }
+  static constraints = {
+    url(url: true)
+  }
 
-    static mapping = {
-        table 'resources'
-    }
+  static mapping = {
+    datasource('wadmin')
+    table 'resources'
+  }
 
-    static belongsTo = [creator: Curator]
-    static hasMany = [seeds: Seed]
+  static belongsTo = [creator: Curator]
+  static hasMany = [seeds: Seed]
 
-    String toString()
-    {
-        return title
-    }
+  String toString() {
+    return title
+  }
 
 }

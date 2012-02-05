@@ -1,0 +1,71 @@
+Frontier report - 201011131038
+ Job being crawled: basic
+
+ -----===== STATS =====-----
+ Discovered:    1
+ Queued:        1
+ Finished:      0
+  Successfully: 0
+  Failed:       0
+  Disregarded:  0
+
+ -----===== QUEUES =====-----
+ Already included size:     1
+               pending:     0
+
+ All class queues map size: 1
+             Active queues: 0
+                    In-process: 0
+                         Ready: 0
+                       Snoozed: 0
+           Inactive queues: 1 (p3: 1)
+            Retired queues: 0
+          Exhausted queues: 0
+
+ -----===== MANAGER THREAD =====-----
+Java Thread State: WAITING
+Blocked/Waiting On: NONE
+    sun.misc.Unsafe.park(Native Method)
+    java.util.concurrent.locks.LockSupport.park(LockSupport.java:158)
+    java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1987)
+    java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:317)
+    org.archive.crawler.frontier.AbstractFrontier.managementTasks(AbstractFrontier.java:390)
+    org.archive.crawler.frontier.AbstractFrontier$2.run(AbstractFrontier.java:317)
+
+ -----===== 1 LONGEST QUEUES =====-----
+LONGEST#0:
+Queue example,example, (p3)
+  1 items
+    last enqueued: http://example.example/example
+      last peeked: null
+   total expended: 0 (total budget: -1)
+   active balance: 3000
+   last(avg) cost: 0(?)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses
+   1 0 0 0 0 0 0 0 0
+   SimplePrecedenceProvider
+   3
+
+
+ -----===== IN-PROCESS QUEUES =====-----
+
+ -----===== READY QUEUES =====-----
+
+ -----===== SNOOZED QUEUES =====-----
+
+ -----===== INACTIVE QUEUES =====-----
+INACTIVE-p3#0:
+Queue example,example, (p3)
+  1 items
+    last enqueued: http://example.example/example
+      last peeked: null
+   total expended: 0 (total budget: -1)
+   active balance: 3000
+   last(avg) cost: 0(?)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses
+   1 0 0 0 0 0 0 0 0
+   SimplePrecedenceProvider
+   3
+
+
+ -----===== RETIRED QUEUES =====-----

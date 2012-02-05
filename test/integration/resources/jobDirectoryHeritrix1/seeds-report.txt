@@ -1,0 +1,2030 @@
+[code] [status] [seed] [redirect]
+-2 NOTCRAWLED http://coena.edunix.cz/
+-2 NOTCRAWLED http://www.video.az4u.info/
+-2 NOTCRAWLED http://zenyaveda.cz/
+-6 NOTCRAWLED http://cvns.cz/
+-6 NOTCRAWLED http://jansokol.cz/
+-6 NOTCRAWLED http://juristic.cz/
+-6 NOTCRAWLED http://trikralovasbirka.cz/
+500 CRAWLED http://automatizace.hw.cz/
+404 CRAWLED http://cineblog.cinepur.cz/
+404 CRAWLED http://kix.fsv.cvut.cz/win/rkz/
+404 CRAWLED http://portal.mpsv.cz/servlet/page/MPSV
+404 CRAWLED http://www.autorevue.cz/default.asp
+404 CRAWLED http://www.finexpert.cz/default.asp
+404 CRAWLED http://www.ped.muni.cz/wpsy/stud_materialy/slovnik.htm
+404 CRAWLED http://www2.ntm.cz/projekty/csd
+403 CRAWLED http://estopar.cs-info.cz/
+403 CRAWLED http://mdg.vsb.cz/jdolezal/StudOpory/
+403 CRAWLED http://stopar.cs-info.cz/
+403 CRAWLED http://www.akvarista.cz/
+403 CRAWLED http://www.wildprehistory.org/
+400 CRAWLED http://www.botanicka.cz/
+307 CRAWLED http://www.zeleni.cz/
+303 CRAWLED http://www.hucot.cz/
+302 CRAWLED http://147.231.53.91/ http://147.231.53.91/src/index.php
+302 CRAWLED http://abicko.avcr.cz/ http://abicko.avcr.cz/cs/index.html
+302 CRAWLED http://abicko.avcr.cz/cs/index.html http://abicko.avcr.cz/cs/2010/02/index.html
+302 CRAWLED http://aerofilms.cz/ http://www.aerofilms.cz/
+302 CRAWLED http://afrikaonline.cz/ http://www.afrikaonline.cz/
+302 CRAWLED http://aktuality.firstnet.cz/ http://aktuality.firstnet.cz/news/
+302 CRAWLED http://anlet.cz/ http://anlet.cz/cs/
+302 CRAWLED http://antropologie.zcu.cz/ http://antropologie.zcu.cz/clanek/nastenka
+302 CRAWLED http://aranearium.cz/ http://aranearium.cz/cz/
+302 CRAWLED http://archiv.festival.cz/ http://www.festival.cz/
+302 CRAWLED http://blog.rvp.cz/ http://blogy.rvp.cz/
+302 CRAWLED http://bonipueri.cz/ http://bonipueri.cz/web/cz/
+302 CRAWLED http://brouzdej.cz/ http://www.brouzdej.cz/blog
+302 CRAWLED http://cb.cz/ http://cb.cz/main/cs/home
+302 CRAWLED http://cepin.cz/ http://cepin.cz/en/index.php
+302 CRAWLED http://chf.cz/ http://chf.cz/index.html
+302 CRAWLED http://cicpraha.org/ http://www.cicpraha.org/
+302 CRAWLED http://drogovaporadna.cz/ http://www.drogovaporadna.cz/
+302 CRAWLED http://drogy.net/ http://www.drogy.net/
+302 CRAWLED http://dum.rvp.cz/ http://dum.rvp.cz/index.html
+302 CRAWLED http://emauzy.cz/ http://emauzy.cz/cz/index.php
+302 CRAWLED http://emise.eps.cz/ http://emise.eps.cz/index.php?page=aktuality
+302 CRAWLED http://entrancegallery.com/ http://entrancegallery.com/index.php?action=news&lang=cs
+302 CRAWLED http://eurovolby.zeleni.cz/ http://www.zeleni.cz/
+302 CRAWLED http://evarcha.cz/ http://evarcha.cz/doku.php
+302 CRAWLED http://festival.cz/ http://www.festival.cz/
+302 CRAWLED http://gentlemensingers.cz/ http://gentlemensingers.cz/new/en/home
+302 CRAWLED http://ispo.fss.muni.cz/ http://ispo.fss.muni.cz/vstupni-stranka
+302 CRAWLED http://jarodic.cz/ http://www.jarodic.cz/cz/
+302 CRAWLED http://katastrofy.com/ http://katastrofy.com/scripts/index.php
+302 CRAWLED http://koncentracni-tabory.estranky.cz/ http://www.koncentracni-tabory.estranky.cz/
+302 CRAWLED http://kritickemysleni.cz/ http://kritickemysleni.cz/aktuality.php
+302 CRAWLED http://ksicht.natur.cuni.cz/ http://ksicht.natur.cuni.cz/o-ksichtu
+302 CRAWLED http://kuks.estranky.cz/ http://www.kuks.estranky.cz/
+302 CRAWLED http://liberalove.cz/ http://liberalove.cz/show.php
+302 CRAWLED http://liberalove.cz/show.php http://liberalove.cz/uvod.php
+302 CRAWLED http://livres.cz/ http://www.iliteratura.cz/sekce.asp?sekceID=1521
+302 CRAWLED http://magazin.svet-zen.cz/ http://www.svet-zen.cz/
+302 CRAWLED http://marianskysloup.cz/ http://www.marianskysloup.cz/
+302 CRAWLED http://milada.org/ http://milada.org/zpravodajstvi/
+302 CRAWLED http://natur.cuni.cz/cho/index.php http://web.natur.cuni.cz/cho/index.php
+302 CRAWLED http://natura2000.cz/ http://www.nature.cz/natura2000-design3/hp.php
+302 CRAWLED http://pohadkyprodeti.cz/ http://www.pohadkyprodeti.diafilm.cz/
+302 CRAWLED http://portal.gov.cz/ http://portal.gov.cz/wps/portal/_s.155/6966/place
+302 CRAWLED http://profil.muni.cz/index.php http://www.phil.muni.cz/~macha/profil/index.php/profil/
+302 CRAWLED http://severskaspolecnost.cz/ http://severskaspolecnost.cz/spol/hlavni.htm
+302 CRAWLED http://sreview.soc.cas.cz/ http://sreview.soc.cas.cz/cs/page/10-test
+302 CRAWLED http://sreview.soc.cas.cz/cs/page/10-test http://sreview.soc.cas.cz/cs/page/10-o-titulu
+302 CRAWLED http://svatyaugustin.estranky.cz/ http://www.svatyaugustin.estranky.cz/
+302 CRAWLED http://ukacko.cz/ http://www.ukacko.cz/
+302 CRAWLED http://vcelarstvi.cz/ http://www.vcelarstvi.cz/
+302 CRAWLED http://virtually.cz/ http://virtually.cz/journal
+302 CRAWLED http://web.pedf.cuni.cz/paideia/index.php?pg=1 http://userweb.pedf.cuni.cz/paideia
+302 CRAWLED http://woodcraft.cz/ http://www.woodcraft.cz/
+302 CRAWLED http://www.ac-olomouc.cz/ http://www.ac-olomouc.cz/page/0/
+302 CRAWLED http://www.adiktologie.cz/ http://www.adiktologie.cz/?acc=enb
+302 CRAWLED http://www.adra.cz/ http://www.adra.cz/adra/cz/
+302 CRAWLED http://www.alfredvedvore.cz/ http://www.alfredvedvore.cz/cs/
+302 CRAWLED http://www.archaiabrno.org/ http://www.archaiabrno.org/home_cs/
+302 CRAWLED http://www.bkb.cz/ http://www.bkb.cz/index.php
+302 CRAWLED http://www.bratri-masinove.cz/ http://www.bratri-masinove.cz/odboj/showpage.php?name=uvod
+302 CRAWLED http://www.businessinfo.cz/ http://www.businessinfo.cz/cz/
+302 CRAWLED http://www.cak.cz/ http://www.cak.cz/pages/index_nosound.html
+302 CRAWLED http://www.cald.cz/ http://www.cald.cz/caldWeb/
+302 CRAWLED http://www.cejpp.eu/ http://www.cejpp.eu/index.php/ojs
+302 CRAWLED http://www.cspap.cz/ http://www.cspap.cz/defaultEN.asp
+302 CRAWLED http://www.csr-online.cz/ http://www.csr-online.cz/Page.aspx?home
+302 CRAWLED http://www.czechcentres.cz/scc/index.asp http://www.czechcentres.cz/scc/novinky.asp
+302 CRAWLED http://www.divokevino.cz/ http://www.divokevino.cz/4510/index.php
+302 CRAWLED http://www.e-sport.cz/ http://www.e-sport.cz/rs/
+302 CRAWLED http://www.ekamarad.cz/ http://www.ekamarad.cz/magazin
+302 CRAWLED http://www.encyklopedie.brna.cz/ http://www.encyklopedie.brna.cz/home-mmb/
+302 CRAWLED http://www.evropskemesto.cz/ http://www.evropskemesto.cz/cms/
+302 CRAWLED http://www.fantasyplanet.cz/lotr/ http://www.fantasyplanet.cz/lotr/index.asp
+302 CRAWLED http://www.febiofest.cz/ http://www.febiofest.cz/cs/
+302 CRAWLED http://www.finarbitr.cz/ http://www.finarbitr.cz/cs/
+302 CRAWLED http://www.gaav.cz/ http://www.gaav.cz/cs/index.html
+302 CRAWLED http://www.geofond.cz/ http://www.geofond.cz/cz/domu
+302 CRAWLED http://www.geology.cz/servlet/page/TOPLEVELSITE/errrorpage2 http://www.geology.cz/portal/page/portal/TOPLEVELSITE/errrorpage2
+302 CRAWLED http://www.geology.cz/servlet/page/extranet http://www.geology.cz/portal/page/portal/TOPLEVELSITE/errrorpage2
+302 CRAWLED http://www.gestor.cz/ http://www.gestor.cz/cs/
+302 CRAWLED http://www.getsemany.cz/ http://www.getsemany.cz/node/2654
+302 CRAWLED http://www.gymnica.upol.cz/ http://www.gymnica.upol.cz/index.php/gymnica
+302 CRAWLED http://www.harekrsna.cz/ http://www.harekrsna.cz/cvs/
+302 CRAWLED http://www.humanistinarovinu.cz/ http://www.humanistinarovinu.cz/adopce.php?id=1&typ=a
+302 CRAWLED http://www.internetporadna.cz/ http://iporadna.cz/
+302 CRAWLED http://www.iopavsko.cz/ http://www.iopavsko.cz/page/sindex.php?lang=1&menu_id=15&submenu_id=0
+302 CRAWLED http://www.jedensvetnaskolach.cz/ http://www.jedensvetnaskolach.cz/index2.php?id=2
+302 CRAWLED http://www.jh-inst.cas.cz/ http://www.jh-inst.cas.cz/www
+302 CRAWLED http://www.jtpunion.org/ http://www.jtpunion.org/spip/
+302 CRAWLED http://www.karmapa.cz/ http://www.karmapa.cz/uvod/
+302 CRAWLED http://www.kolportaz.cz/ http://www.kolportaz.cz/index.html
+302 CRAWLED http://www.kudyznudy.cz/ http://www.kudyznudy.cz/cs/index.html
+302 CRAWLED http://www.lesnictvi.cz/ http://www.lesnictvi.cz/index.php?SESID=acec4859a5f13473fbb7932f031aa67b
+302 CRAWLED http://www.linkabezpeci.cz/ http://www.linkabezpeci.cz/webmagazine/home.asp?idk=393
+302 CRAWLED http://www.llp.cz/ http://www.llp.cz/cz/
+302 CRAWLED http://www.lorm.cz/ http://www.lorm.cz/cs/
+302 CRAWLED http://www.lorm.cz/cs/ http://www.lorm.cz/cs/lorm/
+302 CRAWLED http://www.lorm.cz/cs/lorm/ http://www.lorm.cz/cs/lorm/aktuality.php
+302 CRAWLED http://www.martinu.cz/ http://www.martinu.cz/novinky.php
+302 CRAWLED http://www.mdcr.cz/cs/ http://www.mdcr.cz/cs/default.htm
+302 CRAWLED http://www.mdcr.cz/cs/default.htm http://www.mdcr.cz/cs/default.htm
+302 CRAWLED http://www.mediadeskcz.eu/cz http://www.mediadeskcz.eu/cz/
+302 CRAWLED http://www.militaria.cz/ http://www.militaria.cz/cz
+302 CRAWLED http://www.muzeumtgm.cz/ http://www.muzeumtgm.cz/cz
+302 CRAWLED http://www.mzv.cz/ http://www.mzv.cz/jnp/
+302 CRAWLED http://www.nature.cz/ http://www.ochranaprirody.cz/
+302 CRAWLED http://www.nssoud.cz/ http://www.nssoud.cz/default.aspx
+302 CRAWLED http://www.pamatnik-terezin.cz/ http://www.pamatnik-terezin.cz/showdoc.do?docid=73
+302 CRAWLED http://www.pamatnik-terezin.cz/pamatnik http://www.pamatnik-terezin.cz/showdoc.do?docid=4
+302 CRAWLED http://www.pamatnik-terezin.cz/showdoc.do?docid=73 http://www.pamatnik-terezin.cz/pamatnik
+302 CRAWLED http://www.pehe.cz/ http://www.pehe.cz/zapisnik/zapisnik_view
+302 CRAWLED http://www.peopleinneed.cz/ http://www.clovekvtisni.cz/indexen.php
+302 CRAWLED http://www.pfcr.cz/ http://www.pfcr.cz/pfcr/page.aspx
+302 CRAWLED http://www.prijemne-hranice.cz/ http://prijemne-hranice.sweb.cz/
+302 CRAWLED http://www.projektpunk.cz/ http://www.projektpunk.cz/www.projektpunk.cz/index/index.php
+302 CRAWLED http://www.projektpunk.cz/www.projektpunk.cz/index/index.php http://www.projektpunk.cz/index/index.php
+302 CRAWLED http://www.psychoanalyza.cz/ http://www.psychoanalyza.cz/defaultEN.asp
+302 CRAWLED http://www.quido.cz/ http://www.quido.cz/641/default.asp
+302 CRAWLED http://www.rentgen.cz/ http://www.rentgen.eu/
+302 CRAWLED http://www.rezonance.cz/ http://www.rezonance.cz/wp/index.php
+302 CRAWLED http://www.rrtv.cz/ http://www.rrtv.cz/cz
+302 CRAWLED http://www.schp.cz/ http://www.schp.cz/html/
+302 CRAWLED http://www.selskebaroko.cz/ http://www.selskebaroko.cz/selskebaroko/index.htm
+302 CRAWLED http://www.severskelisty.cz/ http://www.severskelisty.cz/tydenik/tyd0904.htm
+302 CRAWLED http://www.sneznik.cz/ http://www.sneznik.cz/cz/vitejte/
+302 CRAWLED http://www.stavbaroku.cz/ http://www.stavbaroku.cz/printSites.do?Dispatch=ShowWelcome
+302 CRAWLED http://www.stavebni-forum.cz/ http://www.stavebni-forum.cz/cs/
+302 CRAWLED http://www.telesnakultura.upol.cz/ http://www.telesnakultura.upol.cz/index.php/telesnakultura
+302 CRAWLED http://www.tichy-typ.cz/ http://tichy-typ.sweb.cz/
+302 CRAWLED http://www.tocnik.com/ http://www.tocnik.com/entry.php
+302 CRAWLED http://www.ucps.cz/ http://www.ucps.cz/portal/cz/index.php
+302 CRAWLED http://www.unmz.cz/ http://www.unmz.cz/urad/unmz
+302 CRAWLED http://www.uoou.cz/ http://www.uoou.cz/Start.aspx
+302 CRAWLED http://www.uoou.cz/Start.aspx http://www.uoou.cz/uoou.aspx
+302 CRAWLED http://www.upv.cz/ http://www.upv.cz/cs.html
+302 CRAWLED http://www.uzis.cz/ http://www.uzis.cz/news.php?mnu_id=1100
+302 CRAWLED http://www.zlate-mince.cz/ http://zlate-mince.inext.cz/uvodni_stranka.php3
+302 CRAWLED http://www.zob.cz/ http://www.zob.cz//?q=cs/
+302 CRAWLED http://www.zoopraha.cz/ http://www.zoopraha.cz/cs/
+302 CRAWLED http://zkusit.cz/ http://www.zkusit.cz/
+302 CRAWLED http://zlate-mince.inext.cz/uvodni_stranka.php3 http://www.zlate-mince.cz/S15_Mince_Velke_Britanie.htm
+302 CRAWLED http://znakovka.cz/ http://www.ticho.cz/
+301 CRAWLED http://abclinuxu.cz/ http://www.abclinuxu.cz/
+301 CRAWLED http://ado.cz/poutni http://ado.cz/poutni/
+301 CRAWLED http://apo-logia.blogspot.com/ http://www.apologia.cz/
+301 CRAWLED http://arnika.org/ http://www.arnika.org/
+301 CRAWLED http://astronomie.cz/ http://www.astronomie.cz/
+301 CRAWLED http://auto-mat.cz/ http://www.auto-mat.cz/
+301 CRAWLED http://beedol.cz/ http://www.beedol.cz/
+301 CRAWLED http://bezjedu.arnika.org/ http://www.bezjedu.arnika.org/
+301 CRAWLED http://bezkorupce.cz/samosprava http://bezkorupce.cz/samosprava/
+301 CRAWLED http://bibliohelp.cz/ http://www.bibliohelp.cz/
+301 CRAWLED http://biodiverzita.arnika.org/ http://www.biodiverzita.arnika.org/
+301 CRAWLED http://biol.lf1.cuni.cz/ucebnice http://biol.lf1.cuni.cz/ucebnice/
+301 CRAWLED http://bloc.cz/ http://www.bloc.cz/
+301 CRAWLED http://botany.cz/cs http://botany.cz/cs/
+301 CRAWLED http://cact.cz/noviny http://cact.cz/noviny/
+301 CRAWLED http://cestanahoru.org/ http://www.cestanahoru.org/
+301 CRAWLED http://charita.cz/ http://www.charita.cz/
+301 CRAWLED http://chemievjidle.cz/ http://www.chemievjidle.cz/
+301 CRAWLED http://cirkevnimajetek.cz/ http://www.cirkevnimajetek.cz/
+301 CRAWLED http://class.pedf.cuni.cz/NewSUMA http://class.pedf.cuni.cz/NewSUMA/
+301 CRAWLED http://coelho.cz/ http://www.coelho.cz/
+301 CRAWLED http://ctesyrad.cz/ http://www.ctesyrad.cz/
+301 CRAWLED http://danbrown.cz/ http://www.danbrown.cz/
+301 CRAWLED http://darwiniana.cz/chramst/ http://www.darwiniana.cz/chramst/
+301 CRAWLED http://dataplan.info/ http://dataplan.info/cz/home
+301 CRAWLED http://davar.cz/badatelna http://davar.cz/badatelna/
+301 CRAWLED http://designcabinet.cz/ http://www.designcabinet.cz/
+301 CRAWLED http://dobrapraxe.cz/ http://dobrapraxe.cz/index.shtml
+301 CRAWLED http://domov-trampu.home.comcast.net/ http://domov-trampu.home.comcast.net/~domov-trampu/
+301 CRAWLED http://elaw.cz/ http://www.elaw.cz/index.php
+301 CRAWLED http://emis.muni.cz/journals/AM http://emis.muni.cz/journals/AM/
+301 CRAWLED http://emulgatory.cz/ http://www.emulgatory.cz/
+301 CRAWLED http://exoplanety.cz/ http://www.exoplanety.cz/
+301 CRAWLED http://fb1.cz/ http://www.fb1.cz/
+301 CRAWLED http://fikus.omska.cz/~bojkovsm/termodynamika http://fikus.omska.cz/~bojkovsm/termodynamika/
+301 CRAWLED http://gelenius.blogspot.com/ http://www.gelenius.cz/
+301 CRAWLED http://grecner.cz/astro http://grecner.cz/astro/
+301 CRAWLED http://hafbezobav.cz/ http://www.hafbezobav.cz/
+301 CRAWLED http://home.tiscali.cz/bovepul http://home.tiscali.cz/bovepul/
+301 CRAWLED http://homen.vsb.cz/~ada70/Nitrogen/cz http://homen.vsb.cz/~ada70/Nitrogen/cz/
+301 CRAWLED http://i-divadlo.cz/ http://www.i-divadlo.cz/
+301 CRAWLED http://inovace.cz/ http://www.inovace.cz/
+301 CRAWLED http://ipen.arnika.org/ http://www.ipen.arnika.org/
+301 CRAWLED http://iporadna.cz/ http://iporadna.cz/index.php
+301 CRAWLED http://isidorus.net/ http://www.isidorus.net/
+301 CRAWLED http://iuridictum.pecina.cz/ http://iuridictum.pecina.cz/w/Hlavn%C3%AD_strana
+301 CRAWLED http://k-r-o-n-i-k-a.net/sleglov http://k-r-o-n-i-k-a.net/sleglov/
+301 CRAWLED http://karmapa.cz/ http://www.karmapa.cz/
+301 CRAWLED http://knc.czu.cz/~vachm http://knc.czu.cz/~vachm/
+301 CRAWLED http://kolorektum.cz/ http://www.kolorektum.cz/
+301 CRAWLED http://komunistickepravo.cz/ http://www.komunistickepravo.cz/
+301 CRAWLED http://krusnohorsky.cz/ http://www.krusnohorsky.cz/
+301 CRAWLED http://ktiml.mff.cuni.cz/~bartak/constraints http://ktiml.mff.cuni.cz/~bartak/constraints/
+301 CRAWLED http://ktiml.mff.cuni.cz/~bartak/prolog http://ktiml.mff.cuni.cz/~bartak/prolog/
+301 CRAWLED http://ktiml.mff.cuni.cz/~bartak/prolog.old http://ktiml.mff.cuni.cz/~bartak/prolog.old/
+301 CRAWLED http://latrine.cz/ http://www.latrine.cz/
+301 CRAWLED http://legie.info/ http://www.legie.info/
+301 CRAWLED http://mammahelp.cz/ http://www.mammahelp.cz/
+301 CRAWLED http://mamo.cz/ http://www.mamo.cz/
+301 CRAWLED http://martin.hason.sweb.cz/krajina2001 http://martin.hason.sweb.cz/krajina2001/
+301 CRAWLED http://mdg.vsb.cz/jdolezal/StudOpory http://mdg.vsb.cz/jdolezal/StudOpory/
+301 CRAWLED http://mebio.cz/ http://www.mebio.cz/
+301 CRAWLED http://mediadeskcz.eu/cz http://www.mediadeskcz.eu/cz
+301 CRAWLED http://members.chello.at/hoskovec http://members.chello.at/hoskovec/
+301 CRAWLED http://mensa.cz/ http://www.mensa.cz/
+301 CRAWLED http://mestaprozivot.arnika.org/ http://www.mestaprozivot.arnika.org/
+301 CRAWLED http://milos-urban.cz/ http://www.milos-urban.cz/
+301 CRAWLED http://misantrop.info/ http://www.misantrop.info/
+301 CRAWLED http://muzeumhk.cz/ http://www.muzeumhk.cz/
+301 CRAWLED http://namastenepal.cz/ http://namastenepal.cz/cz/
+301 CRAWLED http://namastenepal.cz/cz/ http://namastenepal.cz/cz/menu
+301 CRAWLED http://namastenepal.cz/cz/menu http://namastenepal.cz/cz/menu/
+301 CRAWLED http://netbookportal.cz/ http://www.netbookportal.cz/
+301 CRAWLED http://neviditelnypes.cz/ http://neviditelnypes.lidovky.cz/
+301 CRAWLED http://newmusic.cz/ http://www.newmusic.cz/
+301 CRAWLED http://nszm.cz/ http://nszm.cz/index.shtml
+301 CRAWLED http://nusl.techlib.cz/ http://nusl.techlib.cz/index.php/Hlavn%C3%AD_strana
+301 CRAWLED http://obcan.arnika.org/ http://www.obcan.arnika.org/
+301 CRAWLED http://odpady.arnika.org/ http://www.odpady.arnika.org/
+301 CRAWLED http://old.festival.cz/ http://old.festival.cz/rubrika76e9.html
+301 CRAWLED http://openoffice.cz/ http://www.openoffice.cz/
+301 CRAWLED http://osnoviny.cz/ http://www.osnoviny.cz/
+301 CRAWLED http://ovzdusi.arnika.org/ http://www.ovzdusi.arnika.org/
+301 CRAWLED http://panto-graph.net/favouritesounds http://panto-graph.net/favouritesounds/
+301 CRAWLED http://paragraphos.blogspot.com/ http://paragraphos.pecina.cz/
+301 CRAWLED http://pes.eunet.cz/ http://neviditelnypes.lidovky.cz/
+301 CRAWLED http://phil.muni.cz/stylistika/ http://www.phil.muni.cz/stylistika/
+301 CRAWLED http://phoenix.inf.upol.cz/esf http://phoenix.inf.upol.cz/esf/
+301 CRAWLED http://physics.muni.cz/astrodidaktika http://physics.muni.cz/astrodidaktika/
+301 CRAWLED http://physics.muni.cz/astrohistorie http://physics.muni.cz/astrohistorie/
+301 CRAWLED http://politologove.cz/ http://www.politologove.cz/
+301 CRAWLED http://poradna.arnika.org/ http://www.poradna.arnika.org/
+301 CRAWLED http://prahounakole.cz/ http://www.prahounakole.cz/
+301 CRAWLED http://projekty.astro.cz/adict http://projekty.astro.cz/adict/
+301 CRAWLED http://pvc.arnika.org/ http://www.pvc.arnika.org/
+301 CRAWLED http://rosa-os.cz/ http://www.rosa-os.cz/
+301 CRAWLED http://salon.cz/ http://www.salon.cz/
+301 CRAWLED http://samohlaska.cz/ http://www.samohlaska.cz/
+301 CRAWLED http://sdb.cz/ http://www.sdb.cz/
+301 CRAWLED http://senftenberg.cz/ http://www.senftenberg.cz/
+301 CRAWLED http://sfinx.skaut.org/cislo http://sfinx.skaut.org/cislo/
+301 CRAWLED http://spotrebitelskyudel.cz/ http://www.spotrebitelskyudel.cz/
+301 CRAWLED http://straznici.com/ http://www.straznici.com/
+301 CRAWLED http://stromy.arnika.org/ http://www.stromy.arnika.org/
+301 CRAWLED http://svobodazvirat.cz/ http://www.svobodazvirat.cz/
+301 CRAWLED http://techmania.cz/edutorium http://techmania.cz/edutorium/
+301 CRAWLED http://tomasvana.cz/ http://www.tomasvana.cz/
+301 CRAWLED http://tompecina.blogspot.com/ http://slepeckahul.pecina.cz/
+301 CRAWLED http://toxickelatky.arnika.org/ http://www.toxickelatky.arnika.org/
+301 CRAWLED http://toxik.arnika.org/ http://www.toxik.arnika.org/
+301 CRAWLED http://tretiruka.cz/ http://www.tretiruka.cz/
+301 CRAWLED http://ucastverejnosti.arnika.org/ http://www.ucastverejnosti.arnika.org/
+301 CRAWLED http://userweb.pedf.cuni.cz/paideia http://userweb.pedf.cuni.cz/paideia/
+301 CRAWLED http://usvitvcechach.cz/ http://www.usvitvcechach.cz/
+301 CRAWLED http://var.astro.cz/oejv http://var.astro.cz/oejv/
+301 CRAWLED http://vaseliteratura.cz/ http://www.vaseliteratura.cz/
+301 CRAWLED http://virtually.cz/journal http://virtually.cz/journal/
+301 CRAWLED http://voda.arnika.org/ http://www.voda.arnika.org/
+301 CRAWLED http://vojensko.cz/ http://www.vojensko.cz/
+301 CRAWLED http://vuppraha.cz/ http://www.vuppraha.cz//
+301 CRAWLED http://wellnessnoviny.cz/ http://www.wellnessnoviny.cz/
+301 CRAWLED http://www.akvamalawi.com/ http://www.akvamalawi.com/phpBB/portal.php
+301 CRAWLED http://www.anima.cz/forbina http://www.anima.cz/forbina/
+301 CRAWLED http://www.ao.cz/ http://www.ao.cz/amaterska-obrazarna.html
+301 CRAWLED http://www.army.cz/ http://www.army.cz/scripts/detail.php?pgid=1
+301 CRAWLED http://www.astronom.cz/deavi http://www.astronom.cz/deavi/
+301 CRAWLED http://www.astronom.cz/procyon http://www.astronom.cz/procyon/
+301 CRAWLED http://www.biotox.cz/drogy/ http://www.biotox.cz/enpsyro/
+301 CRAWLED http://www.brouzdej.cz/blog http://brouzdej.cz/blog/
+301 CRAWLED http://www.cz-museums.cz/ http://www.cz-museums.cz/amg/faces/web/amg/titulni
+301 CRAWLED http://www.czlit.cz/ http://www.czechlit.cz/
+301 CRAWLED http://www.darwiniana.cz/chramst http://darwiniana.cz/chramst/
+301 CRAWLED http://www.docuinter.net/cz http://docuinter.net/cz/
+301 CRAWLED http://www.econ.muni.cz/centra-a-strediska/centrum-vyzkumu-konkurencni-schopnosti-ceske-ekonomiky/publikacni-cinnost-a-vysledky/242-working-papers-cvks-esf-mu http://www.econ.muni.cz/centra-a-strediska/centrum-vyzkumu-konkurencni-schopnosti-ceske-ekonomiky/publikacni-cinnost-a-vysledky/242-working-papers-cvks-esf-mu/
+301 CRAWLED http://www.econ.muni.cz/centra-a-strediska/centrum-vyzkumu-konkurencni-schopnosti-ceske-ekonomiky/publikacni-cinnost-a-vysledky/242-working-papers-cvks-esf-mu/ http://www.econ.muni.cz/centrum-vyzkumu-konkurencni-schopnosti-ceske-ekonomiky/publikacni-cinnost-a-vysledky/working-papers-cvks-esf-mu/
+301 CRAWLED http://www.ekamarad.cz/magazin http://www.ekamarad.cz/magazin/
+301 CRAWLED http://www.enviwiki.cz/ http://www.enviwiki.cz/wiki/Hlavn%C3%AD_strana
+301 CRAWLED http://www.equalcr.cz/ http://www.equalcr.cz/clanek.php?lg=1&id=1
+301 CRAWLED http://www.eufapa.upol.cz/ http://www.eufapa.upol.cz/www
+301 CRAWLED http://www.eufapa.upol.cz/www http://www.eufapa.upol.cz/www/
+301 CRAWLED http://www.fast.vsb.cz/cssi/ http://fast10.vsb.cz/cssi/
+301 CRAWLED http://www.fbh.cz/ http://www.fbh.cz/cz/
+301 CRAWLED http://www.fch.vutbr.cz/home/richtera http://www.fch.vutbr.cz/home/richtera/
+301 CRAWLED http://www.fi.muni.cz/usr/prokes http://www.fi.muni.cz/~qprokes
+301 CRAWLED http://www.fi.muni.cz/~qprokes http://www.fi.muni.cz/~qprokes/
+301 CRAWLED http://www.fmmi.vsb.cz/639/magazin.htm http://katedry.fmmi.vsb.cz/639/magazin.htm
+301 CRAWLED http://www.gasbag.wz.cz/tema http://www.gasbag.wz.cz/tema/
+301 CRAWLED http://www.geo-cz.com/online http://www.geo-cz.com/online/
+301 CRAWLED http://www.geogr.muni.cz/ucebnice/dejiny http://www.geogr.muni.cz/ucebnice/dejiny/
+301 CRAWLED http://www.geogr.muni.cz/ucebnice/kartografie http://www.geogr.muni.cz/ucebnice/kartografie/
+301 CRAWLED http://www.gestalt.cz/ http://www.gestalt.cz/cs/
+301 CRAWLED http://www.ics.muni.cz/zpravodaj http://www.ics.muni.cz/zpravodaj/
+301 CRAWLED http://www.iips.cz/ http://www.iips.cz/cs/aktuality/novinky-a-publikace/
+301 CRAWLED http://www.inforum.cz/ http://www.inforum.cz/cs/
+301 CRAWLED http://www.inventura.org/ http://inventura.org/
+301 CRAWLED http://www.jedensvet.cz/ http://www.jedensvet.cz/2010/
+301 CRAWLED http://www.jh-inst.cas.cz/3nastroje http://www.jh-inst.cas.cz/3nastroje/
+301 CRAWLED http://www.jh-inst.cas.cz/www http://www.jh-inst.cas.cz/www/
+301 CRAWLED http://www.jmsieber.cz/muzeum http://www.jmsieber.cz/muzeum/
+301 CRAWLED http://www.klic.cz/remesla http://www.klic.cz/remesla/
+301 CRAWLED http://www.konzervativnilisty.cz/ http://konzervativnilisty.cz/
+301 CRAWLED http://www.kpufo.cz/oblasti/psy/shc http://www.kpufo.cz/oblasti/psy/shc/
+301 CRAWLED http://www.krimi-servis.cz.gds66.active24.cz/ http://www.krimi-servis.cz/
+301 CRAWLED http://www.math.muni.cz/~rvmo http://www.math.muni.cz/~rvmo/
+301 CRAWLED http://www.medo.cz/jaromir/kniha_snar http://www.medo.cz/jaromir/kniha_snar/
+301 CRAWLED http://www.medo.cz/jaromir/kniha_trn_2v http://www.medo.cz/jaromir/kniha_trn_2v/
+301 CRAWLED http://www.militaria.cz/cz http://www.militaria.cz/cz/
+301 CRAWLED http://www.museum.mineral.cz/ http://muzeum.mineral.cz/
+301 CRAWLED http://www.muzikus.cz/ http://www.muzikus.cz/homepage/
+301 CRAWLED http://www.nasipolitici.cz/ http://www.nasipolitici.cz/cs
+301 CRAWLED http://www.nbu.cz/ http://www.nbu.cz/cs/
+301 CRAWLED http://www.obecpohori.cz/prezentace/kronika http://www.obecpohori.cz/prezentace/kronika/
+301 CRAWLED http://www.oneworld.cz/ http://www.oneworld.cz/2010/
+301 CRAWLED http://www.padesatprocent.cz/ http://padesatprocent.cz/
+301 CRAWLED http://www.panna.cz/ http://www.panna.cz/panna/
+301 CRAWLED http://www.petr-fabian.cz/antologie http://www.petr-fabian.cz/antologie/
+301 CRAWLED http://www.phil.muni.cz/fil/scf/komplet http://www.phil.muni.cz/fil/scf/komplet/
+301 CRAWLED http://www.pohadkyprodeti.diafilm.cz/ http://pohadkyprodeti.diafilm.cz/
+301 CRAWLED http://www.poslepu.cz/ http://poslepu.blogspot.com/
+301 CRAWLED http://www.postreh.com/phprs http://www.postreh.com/phprs/
+301 CRAWLED http://www.pozitivni-noviny.cz/ http://www.pozitivni-noviny.cz/cz
+301 CRAWLED http://www.pozitivni-noviny.cz/cz http://www.pozitivni-noviny.cz/cz/
+301 CRAWLED http://www.rezonance.cz/wp/index.php http://www.rezonance.cz/wp/
+301 CRAWLED http://www.richtera.cz/numismatics http://www.richtera.cz/numismatics/
+301 CRAWLED http://www.scenicky-tanec.cz/ http://www.scenicky-tanec.cz/scenicky-tanec-pohybove-divadlo/aktuality/
+301 CRAWLED http://www.simopt.cz/energyweb http://www.simopt.cz/energyweb/
+301 CRAWLED http://www.skolavafrice.cz/ http://skolavafrice.cz/
+301 CRAWLED http://www.smircikrize.cz/ http://www.smircikrize.cz/krize/krize.htm
+301 CRAWLED http://www.sporty-cz.cz/ http://www.sporty-cz.cz/cz/uvod.html
+301 CRAWLED http://www.stuz.cz/rs http://www.stuz.cz/rs/
+301 CRAWLED http://www.svu2000.org/ http://www.svu2000.org/svu
+301 CRAWLED http://www.svu2000.org/svu http://www.svu2000.org/svu/
+301 CRAWLED http://www.typomil.com/typofilos http://www.typomil.com/typofilos/
+301 CRAWLED http://www.ujc.cas.cz/poradna http://www.ujc.cas.cz/poradna/
+301 CRAWLED http://www.vejr.cz/julis http://www.vejr.cz/julis/
+301 CRAWLED http://www.vejr.cz/regiz http://www.vejr.cz/regiz/
+301 CRAWLED http://www.vejr.cz/vesely http://www.vejr.cz/vesely/
+301 CRAWLED http://www.vkol.cz/ http://www.vkol.cz/cs/
+301 CRAWLED http://www.volny.cz/berkut/Zapisky http://www.volny.cz/berkut/Zapisky/
+301 CRAWLED http://www.volny.cz/pjenicek/radio http://www.volny.cz/pjenicek/radio/
+301 CRAWLED http://www.volny.cz/vesely.marek http://www.volny.cz/vesely.marek/
+301 CRAWLED http://www.zacinej.cz/ http://zacinej.cz/clanky/
+301 CRAWLED http://www.zh.cz/bible http://www.zh.cz/bible/
+301 CRAWLED http://www.znojmuz.cz/digitalizace/obrazy http://www.znojmuz.cz/digitalizace/obrazy/
+301 CRAWLED http://www1.osu.cz/~r03447 http://www1.osu.cz/~r03447/
+301 CRAWLED http://www2.ntm.cz/projekty/fototechniky http://www2.ntm.cz/projekty/fototechniky/
+301 CRAWLED http://www2.ntm.cz/projekty/muzejni-pedagogika http://www2.ntm.cz/projekty/muzejni-pedagogika/
+301 CRAWLED http://wz.cz/ http://www.webzdarma.cz/
+301 CRAWLED http://zmenpolitiku.cz/ http://www.zmenpolitiku.cz/
+301 CRAWLED http://zmizelakutnahora.cz/ http://www.zmizelakutnahora.cz/
+301 CRAWLED http://znkr.cz/ http://www.znkr.cz/
+301 CRAWLED https://squat.net/praha https://squat.net/praha/
+200 CRAWLED http://147.228.94.30/
+200 CRAWLED http://abicko.avcr.cz/cs/2010/02/index.html
+200 CRAWLED http://access.feld.cvut.cz/
+200 CRAWLED http://aces.safarikovi.org/
+200 CRAWLED http://acta.musicologica.cz/
+200 CRAWLED http://aids-hiv.cz/
+200 CRAWLED http://aktuality.firstnet.cz/news/
+200 CRAWLED http://akvaportal.cz/
+200 CRAWLED http://alenaprokopova.blogspot.com/
+200 CRAWLED http://alien-mastermynd.com/
+200 CRAWLED http://analne.excees.info/
+200 CRAWLED http://anthropology.cz/
+200 CRAWLED http://anthropology.cz/index.htm
+200 CRAWLED http://antonin-dvorak.cz/
+200 CRAWLED http://antropologie.zcu.cz/clanek/nastenka
+200 CRAWLED http://ao-institut.cz/
+200 CRAWLED http://apk.ffa.vutbr.cz/index.php
+200 CRAWLED http://aplikace.mvcr.cz/archiv2008/micr/default.htm
+200 CRAWLED http://aquatab.net/
+200 CRAWLED http://aranearium.cz/cz/
+200 CRAWLED http://archiv.kvalitne.cz/
+200 CRAWLED http://archiv.soc.cas.cz/
+200 CRAWLED http://archivnictvi.ic.cz/
+200 CRAWLED http://astro.mff.cuni.cz/mira/sh/sh.php
+200 CRAWLED http://astro.sci.muni.cz/
+200 CRAWLED http://astrolot.cz/
+200 CRAWLED http://astronomia.zcu.cz/
+200 CRAWLED http://astronomie2009.cz/
+200 CRAWLED http://astronuklfyzika.cz/
+200 CRAWLED http://astropis.cz/
+200 CRAWLED http://atlas.horniny.sci.muni.cz/
+200 CRAWLED http://babicka.cz/
+200 CRAWLED http://banat.cz/
+200 CRAWLED http://bardon.cz/
+200 CRAWLED http://bdc.cz/
+200 CRAWLED http://bengales.cz/
+200 CRAWLED http://bezpecnostni-sbory.wbs.cz/
+200 CRAWLED http://bible21.cz/
+200 CRAWLED http://bimba.cz/
+200 CRAWLED http://biom.cz/
+200 CRAWLED http://biotrin.cz/czpages/index.htm
+200 CRAWLED http://blog.fantomfilm.cz/
+200 CRAWLED http://blog.filosof.biz/
+200 CRAWLED http://blog.maly.cz/
+200 CRAWLED http://blog.nic.cz/
+200 CRAWLED http://blog.novydomov.com/
+200 CRAWLED http://blog.respekt.cz/
+200 CRAWLED http://bohuslavbrouk.wordpress.com/
+200 CRAWLED http://bonipueri.cz/web/cz/
+200 CRAWLED http://botanika.wendys.cz/
+200 CRAWLED http://botany.cz/
+200 CRAWLED http://botany.cz/cs/
+200 CRAWLED http://bovepul.blog.cz/
+200 CRAWLED http://bozenanemcova.cz/
+200 CRAWLED http://bpp.iure.cz/
+200 CRAWLED http://braunoviny.bbraun.cz/
+200 CRAWLED http://brno.tucnacek.cz/
+200 CRAWLED http://bulletin-am.cz/
+200 CRAWLED http://bunkry.cz/
+200 CRAWLED http://burianzdenek.cz/
+200 CRAWLED http://buzzmag.cz/
+200 CRAWLED http://caat.cz/
+200 CRAWLED http://canov.jergym.cz/
+200 CRAWLED http://cantica.kh.cz/
+200 CRAWLED http://cb.cz/main/cs/home
+200 CRAWLED http://cca.fcca.cz/
+200 CRAWLED http://cccc.uochb.cas.cz/
+200 CRAWLED http://ccsh.cz/
+200 CRAWLED http://cds.mfcr.cz/cps/rde/xchg/cds/
+200 CRAWLED http://cea.livinghistory.cz/
+200 CRAWLED http://cechoaustralan.com/
+200 CRAWLED http://celiak.cz/
+200 CRAWLED http://cenadalnic.oziveni.cz/
+200 CRAWLED http://cepin.cz/en/index.php
+200 CRAWLED http://cepl.eu/
+200 CRAWLED http://ceses.cuni.cz/
+200 CRAWLED http://cesi.sk/
+200 CRAWLED http://ceskaghetta.cz/
+200 CRAWLED http://ceskasibir.cz/
+200 CRAWLED http://cestina.upol.cz/
+200 CRAWLED http://cestyapamatky.cz/
+200 CRAWLED http://chameleoncharlie.cz/
+200 CRAWLED http://chceteho.cz/
+200 CRAWLED http://chemie.jiriurban.cz/
+200 CRAWLED http://chemie.utb.cz/
+200 CRAWLED http://chm.nature.cz/
+200 CRAWLED http://chodime.cz/
+200 CRAWLED http://choreahistorica.cz/
+200 CRAWLED http://christabel.bloguje.cz/
+200 CRAWLED http://chucpe.bloguje.cz/
+200 CRAWLED http://cirkev.wordpress.com/
+200 CRAWLED http://cis.cesarch.cz/
+200 CRAWLED http://clovek.ff.cuni.cz/
+200 CRAWLED http://cmps.ecn.cz/
+200 CRAWLED http://cms.pribor.cz/www/cl-350/29-kontakt
+200 CRAWLED http://cnspb.wz.cz/
+200 CRAWLED http://codyprint.cz/
+200 CRAWLED http://crypto-world.info/
+200 CRAWLED http://cs-letci.com/
+200 CRAWLED http://cs-magazin.com/hucin/
+200 CRAWLED http://csla.cz/
+200 CRAWLED http://csla.cz/index.htm
+200 CRAWLED http://curiavitkov.cz/
+200 CRAWLED http://cz-raf.hyperlink.cz/
+200 CRAWLED http://czechfreepress.cz/
+200 CRAWLED http://dataplan.info/cz/home
+200 CRAWLED http://davar.cz/badatelna/
+200 CRAWLED http://denikreferendum.cz/
+200 CRAWLED http://depersonalizace.info/
+200 CRAWLED http://designeast.eu/
+200 CRAWLED http://designportal.cz/
+200 CRAWLED http://diabetacek.cz/
+200 CRAWLED http://diasvet.cz/
+200 CRAWLED http://didactylos.bloguje.cz/
+200 CRAWLED http://dieceze.misto.cz/
+200 CRAWLED http://digineff.cz/
+200 CRAWLED http://disparity.vsb.cz/
+200 CRAWLED http://divadelnihry.sweb.cz/
+200 CRAWLED http://divadloschod.cz/val.atheny/?id=uvod
+200 CRAWLED http://dobrapraxe.cz/index.shtml
+200 CRAWLED http://dobry-spanek.cz/
+200 CRAWLED http://docuinter.net/cz/
+200 CRAWLED http://domavcr.cz/
+200 CRAWLED http://dostojevskij.cz/
+200 CRAWLED http://dostojevskij.cz/index.htm
+200 CRAWLED http://ds.fox1.cz/
+200 CRAWLED http://dslr-astrophotography.cz/
+200 CRAWLED http://dul-dukla.webgarden.cz/
+200 CRAWLED http://dyskalkulie.webgarden.cz/
+200 CRAWLED http://e-logos.vse.cz/
+200 CRAWLED http://e-psycholog.eu/
+200 CRAWLED http://earchiv.cz/
+200 CRAWLED http://ebondy.sweb.cz/
+200 CRAWLED http://ei.czechian.net/
+200 CRAWLED http://ekoblog.cz/
+200 CRAWLED http://ekobrana.cz/
+200 CRAWLED http://ekodomov.cz/
+200 CRAWLED http://ekopolitika.cz/
+200 CRAWLED http://ekosaty.cz/
+200 CRAWLED http://ekozahrady.com/
+200 CRAWLED http://ekumakad.cz/
+200 CRAWLED http://eldar.cz/archeoas/index.html
+200 CRAWLED http://eldum.phil.muni.cz/
+200 CRAWLED http://emauzy.cz/cz/index.php
+200 CRAWLED http://emise.eps.cz/index.php?page=aktuality
+200 CRAWLED http://entrancegallery.com/index.php?action=news&
+200 CRAWLED http://entrancegallery.com/index.php?action=news&lang=cs
+200 CRAWLED http://envigogika.cuni.cz/
+200 CRAWLED http://epolis.cz/
+200 CRAWLED http://eportal.cz/
+200 CRAWLED http://euportal.cz/
+200 CRAWLED http://eur-lex.europa.eu/cs/index.htm
+200 CRAWLED http://eurabia.cz/
+200 CRAWLED http://evalabusova.cz/
+200 CRAWLED http://evarcha.cz/doku.php
+200 CRAWLED http://evropamladymaocima.cz/
+200 CRAWLED http://expedice.rps.cz/
+200 CRAWLED http://expo-net.blogspot.com/
+200 CRAWLED http://fast10.vsb.cz/cssi/
+200 CRAWLED http://faust.fpf.slu.cz/skolakweb/
+200 CRAWLED http://fca.fcca.cz/
+200 CRAWLED http://fch.upol.cz/
+200 CRAWLED http://fffilm.fuxoft.cz/
+200 CRAWLED http://fikus.omska.cz/~bojkovsm/termodynamika/
+200 CRAWLED http://filatelie.fsr.cz/index.php
+200 CRAWLED http://filosofiednes.ff.uhk.cz/
+200 CRAWLED http://fjfi.cce.cz/af.html
+200 CRAWLED http://forum.valka.cz/
+200 CRAWLED http://fotoroman.cz/
+200 CRAWLED http://fotoroman.cz/index.htm
+200 CRAWLED http://futuraproject.cz/
+200 CRAWLED http://fyzika.jreichl.com/
+200 CRAWLED http://fyzweb.cuni.cz/piskac/
+200 CRAWLED http://galerie.melies.cz/
+200 CRAWLED http://galerie.valka.cz/
+200 CRAWLED http://garabandal.cz/
+200 CRAWLED http://gaugg.astronomy.cz/
+200 CRAWLED http://gchmin.ic.cz/
+200 CRAWLED http://genetika.wz.cz/
+200 CRAWLED http://gentlemensingers.cz/new/en/home
+200 CRAWLED http://geo.ujep.cz/
+200 CRAWLED http://geologie.vsb.cz/
+200 CRAWLED http://geologie.vsb.cz/index.htm
+200 CRAWLED http://geologie.vsb.cz/loziska/loziska/
+200 CRAWLED http://geologie.vsb.cz/loziska/loziska/index.html
+200 CRAWLED http://gkch.wordpress.com/
+200 CRAWLED http://glosy.animace.com/
+200 CRAWLED http://havirov-historie.cz/
+200 CRAWLED http://havran.pefr.net/
+200 CRAWLED http://highland-cattle.eu/
+200 CRAWLED http://hledampraci.cz/pracovni-pravo/
+200 CRAWLED http://hloubkari.bloguje.cz/
+200 CRAWLED http://hluk.eps.cz/
+200 CRAWLED http://hoax.cz/cze/
+200 CRAWLED http://hojeni-ran.cz/
+200 CRAWLED http://home.tiscali.cz/bovepul/
+200 CRAWLED http://homen.vsb.cz/~kol70/algoritmy/
+200 CRAWLED http://homen.vsb.cz/~oti73/cdpast1/
+200 CRAWLED http://homosexualita.cz/
+200 CRAWLED http://horice.safarikovi.org/
+200 CRAWLED http://hrady.hyperlink.cz/
+200 CRAWLED http://hrady.hyperlink.cz/index.html
+200 CRAWLED http://humanistickehnuti.cz/
+200 CRAWLED http://humanitasafrika.cz/
+200 CRAWLED http://huptych.cz/
+200 CRAWLED http://hvezdarna.cz/
+200 CRAWLED http://hw.cz/
+200 CRAWLED http://hyper.cz/
+200 CRAWLED http://hyper.cz/new/index.php
+200 CRAWLED http://ibabylon.cz/
+200 CRAWLED http://iel.vscht.cz/
+200 CRAWLED http://iel.vscht.cz/index.html
+200 CRAWLED http://ifolk.cz/
+200 CRAWLED http://iliteratura.cz/
+200 CRAWLED http://info.muni.cz/
+200 CRAWLED http://infoamerika.cz/
+200 CRAWLED http://inventura.org/
+200 CRAWLED http://iom.cz/
+200 CRAWLED http://irafm.osu.cz/
+200 CRAWLED http://is.muni.cz/el/1433/test/s_zakazky/ode/053-Jancar/index.html
+200 CRAWLED http://is.muni.cz/elportal/
+200 CRAWLED http://ispo.fss.muni.cz/vstupni-stranka
+200 CRAWLED http://iss.astronomy.cz/
+200 CRAWLED http://issar.cenia.cz/
+200 CRAWLED http://iuridictum.pecina.cz/w/Hlavn%C3%AD_strana
+200 CRAWLED http://ivan-stampach.bloger.cz/
+200 CRAWLED http://ivdmr.fss.muni.cz/
+200 CRAWLED http://ivris.fss.muni.cz/
+200 CRAWLED http://jablickar.cz/
+200 CRAWLED http://jachting.info/
+200 CRAWLED http://jaro.krivohlavy.cz/
+200 CRAWLED http://javicka.blogspot.com/
+200 CRAWLED http://jaweta.sweb.cz/
+200 CRAWLED http://jeskyne.unas.cz/
+200 CRAWLED http://jinepravo.blogspot.com/
+200 CRAWLED http://jirilouzensky.txt.cz/
+200 CRAWLED http://jtie.upol.cz/
+200 CRAWLED http://justicetv.eu/
+200 CRAWLED http://k-r-o-n-i-k-a.net/sleglov/
+200 CRAWLED http://kappo.cz/
+200 CRAWLED http://kardiochirurgie.cz/
+200 CRAWLED http://karel-may.majerco.net/
+200 CRAWLED http://katastrofy.com/scripts/index.php
+200 CRAWLED http://katedry.fmmi.vsb.cz/639/magazin.htm
+200 CRAWLED http://keltoman.sweb.cz/
+200 CRAWLED http://klaster-sazava.cz/
+200 CRAWLED http://klubhz.blogspot.com/
+200 CRAWLED http://knez.cz/
+200 CRAWLED http://kohovolit.eu/
+200 CRAWLED http://konference.osu.cz/khv/
+200 CRAWLED http://konzervativnilisty.cz/
+200 CRAWLED http://kosmo.cz/
+200 CRAWLED http://koste.unas.cz/
+200 CRAWLED http://krajpodhradem.txt.cz/
+200 CRAWLED http://kratkyfilm.cz/
+200 CRAWLED http://kreacionismus.cz/
+200 CRAWLED http://krestanstvi.eu/
+200 CRAWLED http://kritickemysleni.cz/aktuality.php
+200 CRAWLED http://krovak.webpark.cz/
+200 CRAWLED http://ksicht.natur.cuni.cz/o-ksichtu
+200 CRAWLED http://ksp.mff.cuni.cz/
+200 CRAWLED http://kti.mff.cuni.cz/~bartak/clp/
+200 CRAWLED http://ktiml.mff.cuni.cz/~bartak/prolog.old/
+200 CRAWLED http://kvetena.cz/
+200 CRAWLED http://kynologie.cz/
+200 CRAWLED http://kynologie.cz/Index.htm
+200 CRAWLED http://kzp.cz/
+200 CRAWLED http://kzv.kkvysociny.cz/
+200 CRAWLED http://langweil.info/
+200 CRAWLED http://latrine.dgx.cz/
+200 CRAWLED http://ld.johanesville.net/
+200 CRAWLED http://liben.evangnet.cz/
+200 CRAWLED http://libinst.cz/
+200 CRAWLED http://libinst.cz/novinky.php
+200 CRAWLED http://library20.webnode.cz/
+200 CRAWLED http://lightgarden.cz/magazine
+200 CRAWLED http://litvinov.sator.eu/
+200 CRAWLED http://loko.goo.cz/
+200 CRAWLED http://lokomotivy.euweb.cz/index.php
+200 CRAWLED http://mag.repro.cz/
+200 CRAWLED http://maly.blog.sme.sk/
+200 CRAWLED http://mam.mff.cuni.cz/
+200 CRAWLED http://mandaly.filosof.biz/
+200 CRAWLED http://martin.hason.sweb.cz/krajina2001/
+200 CRAWLED http://martin.typomil.com/
+200 CRAWLED http://martinminarik.cz/
+200 CRAWLED http://math.muni.cz/
+200 CRAWLED http://mathonline.fme.vutbr.cz/
+200 CRAWLED http://maths.cz/
+200 CRAWLED http://matlab.feld.cvut.cz/
+200 CRAWLED http://mdg.vsb.cz/
+200 CRAWLED http://mdg.vsb.cz/jdolezal/StudOpory/Uvod.html
+200 CRAWLED http://medard.soc.cas.cz/
+200 CRAWLED http://mediradce.wgz.cz/
+200 CRAWLED http://mek.kosmo.cz/
+200 CRAWLED http://mesic.astronomie.cz/
+200 CRAWLED http://mesic.hvezdarna.cz/
+200 CRAWLED http://mezinabozensky-dialog.wz.cz/
+200 CRAWLED http://michalkubicek.cz/
+200 CRAWLED http://mineralogie.sci.muni.cz/
+200 CRAWLED http://mishaphotos.cz/
+200 CRAWLED http://mista.unas.cz/
+200 CRAWLED http://mks.mff.cuni.cz/
+200 CRAWLED http://mluveny.panacek.com/
+200 CRAWLED http://musicserver.cz/
+200 CRAWLED http://muzeum.krnov.cz/
+200 CRAWLED http://muzeum.mineral.cz/
+200 CRAWLED http://muzeumbn.cz/
+200 CRAWLED http://muzeumusti.cz/
+200 CRAWLED http://myty.info/
+200 CRAWLED http://nacr.cz/
+200 CRAWLED http://najbrt.cz/
+200 CRAWLED http://napoleonska-spolecnost.cz/
+200 CRAWLED http://narodni-knihovna.cz/
+200 CRAWLED http://nasehistorie.cz/
+200 CRAWLED http://navarova.cz/
+200 CRAWLED http://navolnenoze.cz/
+200 CRAWLED http://nb.vse.cz/kfil/elogos/
+200 CRAWLED http://nesehnuti.cz/
+200 CRAWLED http://netdubacek.euweb.cz/
+200 CRAWLED http://nett.aid.cz/
+200 CRAWLED http://neviditelnypes.lidovky.cz/
+200 CRAWLED http://nevimajan.protokol.cz/
+200 CRAWLED http://neziskovky.cz/
+200 CRAWLED http://normalniporod.cz/
+200 CRAWLED http://notebook.cz/
+200 CRAWLED http://nszm.cz/index.shtml
+200 CRAWLED http://nusl.techlib.cz/index.php/Hlavn%C3%AD_strana
+200 CRAWLED http://obcanskeporadny.cz/
+200 CRAWLED http://objekty2008cma.webnode.cz/
+200 CRAWLED http://obrazar.web2.cz/obrazar/
+200 CRAWLED http://obsupice.cz/
+200 CRAWLED http://obsupice.cz/new/index.php
+200 CRAWLED http://odchazim.cz/
+200 CRAWLED http://ofm.cz/
+200 CRAWLED http://ografologii.blogspot.com/
+200 CRAWLED http://ohar.webpark.cz/
+200 CRAWLED http://olam.cz/
+200 CRAWLED http://old.festival.cz/rubrika76e9.html
+200 CRAWLED http://op.cz/
+200 CRAWLED http://opus159.webnode.cz/
+200 CRAWLED http://ostramvaje.ic.cz/
+200 CRAWLED http://ostravskenoviny.cz/
+200 CRAWLED http://p-numismatika.cz/
+200 CRAWLED http://pacifikem.cz/
+200 CRAWLED http://padesatprocent.cz/
+200 CRAWLED http://palic.ho-vsetin.com/
+200 CRAWLED http://pameti.webnode.cz/
+200 CRAWLED http://pandatron.cz/
+200 CRAWLED http://panto-graph.net/favouritesounds/
+200 CRAWLED http://paragraphos.pecina.cz/
+200 CRAWLED http://pen.cz/
+200 CRAWLED http://pernerscontacts.upce.cz/index.htm
+200 CRAWLED http://perseus.cenia.cz/
+200 CRAWLED http://petrik.bigbloger.lidovky.cz/
+200 CRAWLED http://petrmach.cz/cze/rubrika.php?ID=4
+200 CRAWLED http://philologica.net/
+200 CRAWLED http://phpfashion.com/
+200 CRAWLED http://physics.muni.cz/astrodidaktika/
+200 CRAWLED http://pikomat.mff.cuni.cz/
+200 CRAWLED http://pivni.info/
+200 CRAWLED http://planetky.astro.cz/
+200 CRAWLED http://pohadkyprodeti.diafilm.cz/
+200 CRAWLED http://policie.cz/
+200 CRAWLED http://portal.cenia.cz/
+200 CRAWLED http://portal.gov.cz/wps/portal/_s.155/6966/place
+200 CRAWLED http://portal.justice.cz/
+200 CRAWLED http://portal.justice.cz/Default.htm
+200 CRAWLED http://portal.justice.cz/justice2/uvod/uvod.aspx
+200 CRAWLED http://portal.med.muni.cz/
+200 CRAWLED http://portal.mpsv.cz/
+200 CRAWLED http://poslepu.blogspot.com/
+200 CRAWLED http://potravinova-alergie.info/
+200 CRAWLED http://poust.cz/
+200 CRAWLED http://povrchari.cz/
+200 CRAWLED http://pragjesu.info/
+200 CRAWLED http://pragjesu.info/index.htm
+200 CRAWLED http://praha.muzejninoc.cz/
+200 CRAWLED http://press.honzaskranka.cz/
+200 CRAWLED http://prijemne-hranice.sweb.cz/
+200 CRAWLED http://prijemne-hranice.sweb.cz/noviny/clene.htm
+200 CRAWLED http://primarniprevence.cz/
+200 CRAWLED http://prirodakarlovarska.cz/
+200 CRAWLED http://prirucka.ujc.cas.cz/
+200 CRAWLED http://profil.muni.cz/
+200 CRAWLED http://prohlizece.info/
+200 CRAWLED http://projektalfa.ic.cz/
+200 CRAWLED http://prolife.cz/
+200 CRAWLED http://pruvodce.geol.cechy.sci.muni.cz/
+200 CRAWLED http://pruvodce.geol.morava.sci.muni.cz/
+200 CRAWLED http://psych.lf1.cuni.cz/bp/default.htm
+200 CRAWLED http://psych.lf1.cuni.cz/fluorescence/Default.htm
+200 CRAWLED http://psychoanalyza.sblog.cz/
+200 CRAWLED http://ptaci-chripka.cz/
+200 CRAWLED http://publication.fsv.cuni.cz/
+200 CRAWLED http://pur.eps.cz/
+200 CRAWLED http://pvsps.cz/
+200 CRAWLED http://raketky.via.cz/
+200 CRAWLED http://realitka.squat.net/
+200 CRAWLED http://rehabilitovani-vojaci.ic.cz/
+200 CRAWLED http://revue.theofil.cz/
+200 CRAWLED http://revuepolitika.cz/
+200 CRAWLED http://revuetrivium.cz/
+200 CRAWLED http://rezervace.npu.cz/
+200 CRAWLED http://richard-1.com/
+200 CRAWLED http://rodovystatek.cz/
+200 CRAWLED http://romea.cz/
+200 CRAWLED http://rozhledyav.blogspot.com/
+200 CRAWLED http://rozmalka.webnode.cz/
+200 CRAWLED http://rtime.felk.cvut.cz/helicopter/
+200 CRAWLED http://ruce.cz/
+200 CRAWLED http://rudolfkohoutek.blog.cz/
+200 CRAWLED http://ruze.wi.cz/
+200 CRAWLED http://rvp.cz/
+200 CRAWLED http://rybicky.net/
+200 CRAWLED http://scb.wdr.cz/
+200 CRAWLED http://schroedinger13.blogspot.com/
+200 CRAWLED http://scifibaze.wz.cz/
+200 CRAWLED http://sechtl-vosecek.ucw.cz/
+200 CRAWLED http://sekai.cz/
+200 CRAWLED http://server.juristic.cz/
+200 CRAWLED http://severskaspolecnost.cz/spol/hlavni.htm
+200 CRAWLED http://sexualni.zneuzivani.cz/
+200 CRAWLED http://skip.nkp.cz/
+200 CRAWLED http://sklenenykostel.net/
+200 CRAWLED http://sklenenykostel.net/j15/
+200 CRAWLED http://skoda.daves.cz/
+200 CRAWLED http://skokan.kvalitne.cz/
+200 CRAWLED http://skolavafrice.cz/
+200 CRAWLED http://slepeckahul.pecina.cz/
+200 CRAWLED http://slezskadiakonie.cz/
+200 CRAWLED http://slovanstvo.wz.cz/
+200 CRAWLED http://slovnikceskeliteratury.cz/
+200 CRAWLED http://slunecnihodiny.wz.cz/
+200 CRAWLED http://smetanovalitomysl.cz/
+200 CRAWLED http://smircikrize.euweb.cz/
+200 CRAWLED http://soc.nidm.cz/archiv
+200 CRAWLED http://sommerova.cz/
+200 CRAWLED http://souvislosti.cz/
+200 CRAWLED http://spcp.prf.cuni.cz/
+200 CRAWLED http://spektroskopie.cz/
+200 CRAWLED http://spimajim.nazory.eu/
+200 CRAWLED http://spimajim.sux.cz/
+200 CRAWLED http://sreview.soc.cas.cz/cs/page/10-o-titulu
+200 CRAWLED http://stanislav-vavra.cz/
+200 CRAWLED http://stopnasili.cz/
+200 CRAWLED http://stopnasilinadetech.cz/
+200 CRAWLED http://strach.cz/
+200 CRAWLED http://struznice-jezve.cz/
+200 CRAWLED http://studie.soc.cas.cz/
+200 CRAWLED http://sumavskecyklotrasy.euweb.cz/
+200 CRAWLED http://superapple.cz/
+200 CRAWLED http://svatypavel.paulinky.cz/
+200 CRAWLED http://svetloprosvet.cz/
+200 CRAWLED http://svetovypochod.cz/
+200 CRAWLED http://svobodavolby.cz/
+200 CRAWLED http://synagogy.euweb.cz/
+200 CRAWLED http://syndikat-novinaru.cz/
+200 CRAWLED http://sysifos.cz/
+200 CRAWLED http://tajemstvi.webnode.cz/
+200 CRAWLED http://tanecniaktuality.cz/
+200 CRAWLED http://tanecnizona.cz/
+200 CRAWLED http://techmania.cz/
+200 CRAWLED http://teorie-grafu.elfineer.cz/
+200 CRAWLED http://textmining.zcu.cz/
+200 CRAWLED http://ticho.cz/
+200 CRAWLED http://tichy-typ.sweb.cz/
+200 CRAWLED http://tippelt.wordpress.com/
+200 CRAWLED http://tisicileti.cz/
+200 CRAWLED http://tisk.cirkev.cz/
+200 CRAWLED http://tisnov.safarikovi.org/
+200 CRAWLED http://tramvaje.ic.cz/
+200 CRAWLED http://tvorba-webu.zdarek.com/
+200 CRAWLED http://ukazy.astro.cz/
+200 CRAWLED http://umlaufoviny.com/
+200 CRAWLED http://uprchlik.ecn.cz/
+200 CRAWLED http://userweb.pedf.cuni.cz/kpsp/etnografie/
+200 CRAWLED http://userweb.pedf.cuni.cz/paideia/
+200 CRAWLED http://vaclavhavel-knihovna.org/
+200 CRAWLED http://vaclavhavel.cz/
+200 CRAWLED http://valach.net/
+200 CRAWLED http://varhany.varhanici.info/
+200 CRAWLED http://vcely.euweb.cz/
+200 CRAWLED http://vcm.cz/
+200 CRAWLED http://vcpd.cvut.cz/
+200 CRAWLED http://venkovskyden.blogspot.com/
+200 CRAWLED http://veritas.evangnet.cz/
+200 CRAWLED http://vetrnemlyny.unas.cz/
+200 CRAWLED http://virtually.cz/journal/
+200 CRAWLED http://vltava.logout.cz/
+200 CRAWLED http://vodik.czweb.org/
+200 CRAWLED http://volby.zeleni.cz/
+200 CRAWLED http://vozovna.cz/
+200 CRAWLED http://vupt.cz/
+200 CRAWLED http://vvp.avu.cz/
+200 CRAWLED http://vyrobci.foodnet.cz/
+200 CRAWLED http://vystavapsu.cz/
+200 CRAWLED http://web.natur.cuni.cz/cho/index.php
+200 CRAWLED http://webfyzika.fsv.cvut.cz/
+200 CRAWLED http://westerndesertflora.geolab.cz/
+200 CRAWLED http://wogastisburc.com/
+200 CRAWLED http://world.freemusic.cz/
+200 CRAWLED http://www.25fps.cz/
+200 CRAWLED http://www.3dh.cz/www/code.php
+200 CRAWLED http://www.4000.cz/
+200 CRAWLED http://www.4koridor.cz/
+200 CRAWLED http://www.abclinuxu.cz/
+200 CRAWLED http://www.abecedazahrady.cz/default.aspx
+200 CRAWLED http://www.ac-olomouc.cz/page/0/
+200 CRAWLED http://www.acfk.cz/
+200 CRAWLED http://www.acor.cz/
+200 CRAWLED http://www.acpo.cz/
+200 CRAWLED http://www.actualgyn.com/
+200 CRAWLED http://www.adam.cz/
+200 CRAWLED http://www.adiktologie.cz/?acc=enb
+200 CRAWLED http://www.adrspach.com/
+200 CRAWLED http://www.adrspach.cz/
+200 CRAWLED http://www.aerofilms.cz/
+200 CRAWLED http://www.agrocr.cz/
+200 CRAWLED http://www.agroenvi.cz/
+200 CRAWLED http://www.agromanual.cz/
+200 CRAWLED http://www.agronavigator.cz/
+200 CRAWLED http://www.agroporadenstvi.cz/
+200 CRAWLED http://www.ahasweb.cz/
+200 CRAWLED http://www.aip.cz/
+200 CRAWLED http://www.airforce.cz/
+200 CRAWLED http://www.akademon.cz/
+200 CRAWLED http://www.akromegalie.cz/
+200 CRAWLED http://www.akutne.cz/
+200 CRAWLED http://www.akvamalawi.com/phpBB/portal.php
+200 CRAWLED http://www.alfredvedvore.cz/cs/
+200 CRAWLED http://www.algoritmy.net/
+200 CRAWLED http://www.almanachwagon.cz/
+200 CRAWLED http://www.alpy.net/
+200 CRAWLED http://www.aluze.cz/
+200 CRAWLED http://www.am.vsb.cz/
+200 CRAWLED http://www.amnesty.cz/
+200 CRAWLED http://www.amo.cz/
+200 CRAWLED http://www.amrp.cz/joomla/index.php
+200 CRAWLED http://www.anabell.cz/
+200 CRAWLED http://www.anima.cz/forbina/
+200 CRAWLED http://www.antidoping.cz/
+200 CRAWLED http://www.antidoping.cz/aktuality.php
+200 CRAWLED http://www.antifa.cz/
+200 CRAWLED http://www.antikomplex.cz/
+200 CRAWLED http://www.antropologie.zcu.cz/webzin
+200 CRAWLED http://www.ao.cz/amaterska-obrazarna.html
+200 CRAWLED http://www.apatykar.info/
+200 CRAWLED http://www.aperio.cz/
+200 CRAWLED http://www.apic-ak.cz/
+200 CRAWLED http://www.apologia.cz/
+200 CRAWLED http://www.arcana.cz/
+200 CRAWLED http://www.archaia.cz/
+200 CRAWLED http://www.archeologied47.cz/
+200 CRAWLED http://www.archeologied47.cz/index.htm
+200 CRAWLED http://www.archiweb.cz/
+200 CRAWLED http://www.artlist.cz/
+200 CRAWLED http://www.artmagazin.eu/
+200 CRAWLED http://www.asociace.org/
+200 CRAWLED http://www.asociacekraju.cz/
+200 CRAWLED http://www.astro.cz/
+200 CRAWLED http://www.astronom.cz/procyon/
+200 CRAWLED http://www.astrovm.cz/
+200 CRAWLED http://www.asz.cz/
+200 CRAWLED http://www.ateam.zcu.cz/
+200 CRAWLED http://www.atemporevue.cz/
+200 CRAWLED http://www.auta5p.eu/
+200 CRAWLED http://www.autismus.cz/
+200 CRAWLED http://www.auto-mat.cz/
+200 CRAWLED http://www.autobusovenoviny.cz/
+200 CRAWLED http://www.autosap.cz/
+200 CRAWLED http://www.babybox.cz/
+200 CRAWLED http://www.babyonline.cz/
+200 CRAWLED http://www.babyweb.cz/
+200 CRAWLED http://www.bankova.cz/
+200 CRAWLED http://www.bankovnipoplatky.com/
+200 CRAWLED http://www.baraka.cz/
+200 CRAWLED http://www.barancicova.cz/
+200 CRAWLED http://www.barrister.cz/strat/
+200 CRAWLED http://www.barrister.cz/strat/bulletin/bulletin.html
+200 CRAWLED http://www.baseball.cz/
+200 CRAWLED http://www.bbc.co.uk/czech/
+200 CRAWLED http://www.beekeeping.cz/
+200 CRAWLED http://www.beekeeping.cz/index.html
+200 CRAWLED http://www.beerresearch.cz/
+200 CRAWLED http://www.behej.com/
+200 CRAWLED http://www.bezdomovci.estranky.cz/
+200 CRAWLED http://www.bezjedu.arnika.org/
+200 CRAWLED http://www.bezlepkovadieta.cz/
+200 CRAWLED http://www.bezpapiru.cz/
+200 CRAWLED http://www.bezpecnostpotravin.cz/
+200 CRAWLED http://www.bigbrotherawards.cz/
+200 CRAWLED http://www.bio-life.cz/
+200 CRAWLED http://www.biolib.cz/
+200 CRAWLED http://www.biosance.cz/
+200 CRAWLED http://www.biotox.cz/
+200 CRAWLED http://www.biotox.cz/enpsyro/
+200 CRAWLED http://www.biotox.cz/toxikon/
+200 CRAWLED http://www.birdlife.cz/index.php
+200 CRAWLED http://www.blf.cz/
+200 CRAWLED http://www.bloc.cz/
+200 CRAWLED http://www.blognoviny.cz/
+200 CRAWLED http://www.bobosikova.cz/
+200 CRAWLED http://www.bohmischleipa.cz/
+200 CRAWLED http://www.bohousek.cz/
+200 CRAWLED http://www.boiohaemum.cz/
+200 CRAWLED http://www.bozpinfo.cz/
+200 CRAWLED http://www.bpk.cz/
+200 CRAWLED http://www.bratri-masinove.cz/odboj/showpage.php?name=uvod
+200 CRAWLED http://www.brdy.org/
+200 CRAWLED http://www.brezen.cz/
+200 CRAWLED http://www.brnopolis.eu/
+200 CRAWLED http://www.browsery.cz/
+200 CRAWLED http://www.bryle.cz/
+200 CRAWLED http://www.buchtyaloutky.cz/
+200 CRAWLED http://www.budoucnostprofesi.cz/
+200 CRAWLED http://www.businessinfo.cz/cz/
+200 CRAWLED http://www.butbn.cas.cz/
+200 CRAWLED http://www.bway.cz/
+200 CRAWLED http://www.cak.cz/pages/index_nosound.html
+200 CRAWLED http://www.calla.cz/
+200 CRAWLED http://www.capz.cz/
+200 CRAWLED http://www.castles.cz/
+200 CRAWLED http://www.caus.cz/
+200 CRAWLED http://www.cazv.cz/
+200 CRAWLED http://www.ccmag.cz/
+200 CRAWLED http://www.cdk.cz/
+200 CRAWLED http://www.cdrail.cz/VTS/
+200 CRAWLED http://www.cdrail.cz/VTS/Default.htm
+200 CRAWLED http://www.cefres.cz/
+200 CRAWLED http://www.cejpp.eu/index.php/ojs
+200 CRAWLED http://www.celeceskoctedetem.cz/
+200 CRAWLED http://www.celnisprava.cz/cz/Stranky/default.aspx
+200 CRAWLED http://www.celostnimedicina.cz/
+200 CRAWLED http://www.celticeurope.cz/
+200 CRAWLED http://www.cenia.cz/__C12571B20041F1F4.nsf/index.html
+200 CRAWLED http://www.centrum.usd.cas.cz/
+200 CRAWLED http://www.cepsr.com/
+200 CRAWLED http://www.cerge-ei.cz/default.asp
+200 CRAWLED http://www.cernasanitka.cz/
+200 CRAWLED http://www.certodej.cz/
+200 CRAWLED http://www.cervix.cz/
+200 CRAWLED http://www.cesarch.cz/
+200 CRAWLED http://www.ceska-apatyka.cz/
+200 CRAWLED http://www.ceskapomoc.cz/
+200 CRAWLED http://www.ceske-tradice.cz/
+200 CRAWLED http://www.ceskedrahy.cz/tiskove-centrum/magaziny-a-periodika/vedeckotechnicky-sbornik-cd/-1893/
+200 CRAWLED http://www.ceskehory.cz/
+200 CRAWLED http://www.ceskestredohori.cz/
+200 CRAWLED http://www.ceskesvycarsko.cz/
+200 CRAWLED http://www.cesky-raj.cz/
+200 CRAWLED http://www.cesky-raj.info/
+200 CRAWLED http://www.ceskysvazcyklistiky.cz/
+200 CRAWLED http://www.cesnet.cz/doc/datagram/
+200 CRAWLED http://www.cesnet.cz/doc/techzpravy/
+200 CRAWLED http://www.cestadomu.cz/
+200 CRAWLED http://www.cestynasever.cz/
+200 CRAWLED http://www.chilliorg.cz/
+200 CRAWLED http://www.chirurgie.cz/
+200 CRAWLED http://www.chlum1866.cz/
+200 CRAWLED http://www.cho.cz/
+200 CRAWLED http://www.chocen-litomysl.cz/
+200 CRAWLED http://www.choir.cz/
+200 CRAWLED http://www.chorvatske.cz/
+200 CRAWLED http://www.chovani.eu/
+200 CRAWLED http://www.chripka.cz/
+200 CRAWLED http://www.chytej.cz/
+200 CRAWLED http://www.chytrazaba.cz/
+200 CRAWLED http://www.cilena-lecba.cz/
+200 CRAWLED http://www.cirkev.cz/
+200 CRAWLED http://www.citem.cz/
+200 CRAWLED http://www.cizp.cz/
+200 CRAWLED http://www.cka.cc/
+200 CRAWLED http://www.clovekvtisni.cz/
+200 CRAWLED http://www.cmkos.cz/
+200 CRAWLED http://www.cms-kh.cz/
+200 CRAWLED http://www.cmvu.cz/
+200 CRAWLED http://www.collegium.cz/
+200 CRAWLED http://www.compet.cz/
+200 CRAWLED http://www.cs-kaktusy.cz/
+200 CRAWLED http://www.cs-magazin.com/
+200 CRAWLED http://www.cskb.cz/
+200 CRAWLED http://www.cso.cz/
+200 CRAWLED http://www.csop.cz/
+200 CRAWLED http://www.cstv.cz/
+200 CRAWLED http://www.ctpp.cz/
+200 CRAWLED http://www.ctsa.cz/
+200 CRAWLED http://www.ctu.cz/
+200 CRAWLED http://www.cubalog.eu/
+200 CRAWLED http://www.cuketka.cz/
+200 CRAWLED http://www.cvvm.cas.cz/
+200 CRAWLED http://www.cyberpsychology.eu/
+200 CRAWLED http://www.cyberpsychology.eu/index.php
+200 CRAWLED http://www.cz-museums.cz/amg/faces/web/amg/titulni
+200 CRAWLED http://www.czech.cz/
+200 CRAWLED http://www.czechcemetery.com/
+200 CRAWLED http://www.czechcentres.cz/
+200 CRAWLED http://www.czechcentres.cz/Default.htm
+200 CRAWLED http://www.czechdesign.cz/
+200 CRAWLED http://www.czechinvest.org/
+200 CRAWLED http://www.czechkid.cz/
+200 CRAWLED http://www.czechlit.cz/
+200 CRAWLED http://www.czechrtd.info/
+200 CRAWLED http://www.czefrica.com/
+200 CRAWLED http://www.czelo.cz/
+200 CRAWLED http://www.czrso.cz/
+200 CRAWLED http://www.czso.cz/
+200 CRAWLED http://www.dalky.cz/
+200 CRAWLED http://www.darwiniana.cz/
+200 CRAWLED http://www.darwiniana.cz/chramst/
+200 CRAWLED http://www.dataspectrum.cz/excelmag/excelmagmain.htm
+200 CRAWLED http://www.david-zbiral.cz/
+200 CRAWLED http://www.dcery.cz/
+200 CRAWLED http://www.dejepis.com/
+200 CRAWLED http://www.dejvickedivadlo.cz/
+200 CRAWLED http://www.delnicka-strana.cz/
+200 CRAWLED http://www.dendrochronologie.cz/
+200 CRAWLED http://www.dendrologickazahrada.cz/
+200 CRAWLED http://www.deskriptivnigeometrie.ic.cz/
+200 CRAWLED http://www.detiaknihy.cz/
+200 CRAWLED http://www.detizeme.cz/
+200 CRAWLED http://www.detskaprava.cz/
+200 CRAWLED http://www.diit.cz/
+200 CRAWLED http://www.divokevino.cz/4510/index.php
+200 CRAWLED http://www.dnoviny.cz/
+200 CRAWLED http://www.dobraadresa.cz/
+200 CRAWLED http://www.dobromysl.cz/
+200 CRAWLED http://www.dobromysl.cz/Default.htm
+200 CRAWLED http://www.dobrovolnik.cz/
+200 CRAWLED http://www.domacinasili.cz/
+200 CRAWLED http://www.doprirody.com/
+200 CRAWLED http://www.drama.cz/
+200 CRAWLED http://www.drbna.cz/
+200 CRAWLED http://www.drogovaporadna.cz/
+200 CRAWLED http://www.drogy-info.cz/
+200 CRAWLED http://www.drogy.net/
+200 CRAWLED http://www.dusecz.com/
+200 CRAWLED http://www.dzeno.cz/
+200 CRAWLED http://www.dzeno.cz/?r_id=32
+200 CRAWLED http://www.e-architekt.cz/
+200 CRAWLED http://www.e-sondy.cz/
+200 CRAWLED http://www.e-sport.cz/rs/
+200 CRAWLED http://www.e-stredovek.cz/
+200 CRAWLED http://www.e-voda.cz/odborny-casopis
+200 CRAWLED http://www.e15.cz/
+200 CRAWLED http://www.earch.cz/
+200 CRAWLED http://www.ecesty.cz/
+200 CRAWLED http://www.ecesty.cz/Default.htm
+200 CRAWLED http://www.econ.muni.cz/centrum-vyzkumu-konkurencni-schopnosti-ceske-ekonomiky/publikacni-cinnost-a-vysledky/working-papers-cvks-esf-mu/
+200 CRAWLED http://www.economix.cz/
+200 CRAWLED http://www.eds2009.cz/
+200 CRAWLED http://www.edukafarm.cz/
+200 CRAWLED http://www.ei.cas.cz/
+200 CRAWLED http://www.ei.cas.cz/index.htm
+200 CRAWLED http://www.ekobydleni.eu/
+200 CRAWLED http://www.ekospotrebitel.cz/
+200 CRAWLED http://www.elaw.cz/index.php
+200 CRAWLED http://www.elektrorevue.cz/
+200 CRAWLED http://www.emuzeum.cz/
+200 CRAWLED http://www.en-k.net/
+200 CRAWLED http://www.encyklopedie.brna.cz/home-mmb/
+200 CRAWLED http://www.endokrinni-system.cz/
+200 CRAWLED http://www.enviwiki.cz/wiki/Hlavn%C3%AD_strana
+200 CRAWLED http://www.epravo.cz/
+200 CRAWLED http://www.eprofil.cz/
+200 CRAWLED http://www.eps.cz/
+200 CRAWLED http://www.eps.cz/via/
+200 CRAWLED http://www.equalcr.cz/clanek.php?lg=1&id=1
+200 CRAWLED http://www.eriesjournal.com/
+200 CRAWLED http://www.esfcr.cz/
+200 CRAWLED http://www.esoterika.cz/
+200 CRAWLED http://www.essentia.cz/
+200 CRAWLED http://www.estat.cz/
+200 CRAWLED http://www.eu2009.cz/
+200 CRAWLED http://www.eu2009.cz/default.htm
+200 CRAWLED http://www.eufapa.upol.cz/www/
+200 CRAWLED http://www.eufapa.upol.cz/www/index.php?option=com_content&task=blogcategory&id=65&Itemid=86
+200 CRAWLED http://www.euractiv.cz/
+200 CRAWLED http://www.eurodesk.cz/
+200 CRAWLED http://www.euroduel.cz/
+200 CRAWLED http://www.europeum.org/
+200 CRAWLED http://www.euroskop.cz/
+200 CRAWLED http://www.evropskemesto.cz/cms/
+200 CRAWLED http://www.evropsky-parlament.cz/
+200 CRAWLED http://www.exportdosrn.cz/
+200 CRAWLED http://www.fabriky.cz/
+200 CRAWLED http://www.fairtrade.cz/
+200 CRAWLED http://www.fantasyplanet.cz/
+200 CRAWLED http://www.fantasyplanet.cz/lotr/index.asp
+200 CRAWLED http://www.fantomfilm.cz/
+200 CRAWLED http://www.febiofest.cz/cs/
+200 CRAWLED http://www.feminismus.cz/
+200 CRAWLED http://www.ferovanemocnice.cz/
+200 CRAWLED http://www.fi.muni.cz/im6/
+200 CRAWLED http://www.fi.muni.cz/reports/
+200 CRAWLED http://www.fi.muni.cz/~qprokes/
+200 CRAWLED http://www.filmaskola.cz/
+200 CRAWLED http://www.filmovamista.cz/
+200 CRAWLED http://www.filmoveplatno.cz/
+200 CRAWLED http://www.filmy4you.info/
+200 CRAWLED http://www.finance.cz/
+200 CRAWLED http://www.financecr.cz/
+200 CRAWLED http://www.fismeister.eu/
+200 CRAWLED http://www.flu.cas.cz/Com/stcl/
+200 CRAWLED http://www.fod.cz/
+200 CRAWLED http://www.folklornisdruzeni.cz/
+200 CRAWLED http://www.fondholocaust.cz/
+200 CRAWLED http://www.foodlife.cz/
+200 CRAWLED http://www.foodnet.cz/
+200 CRAWLED http://www.fortifikace.net/
+200 CRAWLED http://www.fotodokument.cz/
+200 CRAWLED http://www.fotodoprava.com/
+200 CRAWLED http://www.fp.tul.cz/kch/sedlbauer/
+200 CRAWLED http://www.fp7.cz/
+200 CRAWLED http://www.fpp-sokolov.cz/
+200 CRAWLED http://www.fractals.webz.cz/
+200 CRAWLED http://www.frantisekbartos.cz/
+200 CRAWLED http://www.freemusic.cz/
+200 CRAWLED http://www.frisbee.cz/
+200 CRAWLED http://www.fysis.cz/
+200 CRAWLED http://www.fysis.cz/index.htm
+200 CRAWLED http://www.gaav.cz/cs/index.html
+200 CRAWLED http://www.gacr.cz/
+200 CRAWLED http://www.galerieholec.cz/
+200 CRAWLED http://www.galerieholec.cz/index.html
+200 CRAWLED http://www.galeriejeleni.cz/
+200 CRAWLED http://www.galeriemagda.cz/
+200 CRAWLED http://www.galeriemagda.cz/gmagda/vstup.php
+200 CRAWLED http://www.gallery.cz/
+200 CRAWLED http://www.gallery.cz/gallery/cz/jan-a-sara.html
+200 CRAWLED http://www.gasbag.wz.cz/tema/
+200 CRAWLED http://www.gelenius.cz/
+200 CRAWLED http://www.genderonline.cz/
+200 CRAWLED http://www.genderstudies.cz/
+200 CRAWLED http://www.geneze.info/
+200 CRAWLED http://www.gentleman.cz/
+200 CRAWLED http://www.geofond.cz/cz/domu
+200 CRAWLED http://www.geogr.muni.cz/ucebnice/dejiny/
+200 CRAWLED http://www.geogr.muni.cz/ucebnice/kartografie/
+200 CRAWLED http://www.geologickaspolecnost.cz/
+200 CRAWLED http://www.geology.cz/
+200 CRAWLED http://www.geology.cz/aplikace/encyklopedie/term.pl
+200 CRAWLED http://www.geology.cz/app/museum/m.pl
+200 CRAWLED http://www.geology.cz/extranet
+200 CRAWLED http://www.geology.cz/portal/page/portal/TOPLEVELSITE/errrorpage2
+200 CRAWLED http://www.geology.upol.cz/paleogeografie.html
+200 CRAWLED http://www.geoparkceskyraj.cz/
+200 CRAWLED http://www.geriatrie.cz/
+200 CRAWLED http://www.gestalt-dialog.cz/
+200 CRAWLED http://www.gestalt.cz/cs/
+200 CRAWLED http://www.getsemany.cz/node/2654
+200 CRAWLED http://www.gjp-me.cz/extra/zamat/zamat.html
+200 CRAWLED http://www.globehaz.estranky.cz/
+200 CRAWLED http://www.grafolog.cz/
+200 CRAWLED http://www.grapheion.cz/
+200 CRAWLED http://www.greaders.cz/
+200 CRAWLED http://www.gymnica.upol.cz/index.php/gymnica
+200 CRAWLED http://www.h-aluze.cz/
+200 CRAWLED http://www.hafbezobav.cz/
+200 CRAWLED http://www.handisport.cz/
+200 CRAWLED http://www.harekrsna.cz/cvs/
+200 CRAWLED http://www.hedvabnastezka.cz/
+200 CRAWLED http://www.hedvabnastezka.cz/spolecnost-pratel-afriky
+200 CRAWLED http://www.helcom.cz/
+200 CRAWLED http://www.helpnet.cz/
+200 CRAWLED http://www.historie.hranet.cz/
+200 CRAWLED http://www.historie.upol.cz/19/
+200 CRAWLED http://www.hkcr.cz/
+200 CRAWLED http://www.hladik.euweb.cz/
+200 CRAWLED http://www.hlina.info/
+200 CRAWLED http://www.hnutiduha.cz/
+200 CRAWLED http://www.hornibojanovice.cz/
+200 CRAWLED http://www.hornibojanovice.cz/hbsunny/hbsunny.htm
+200 CRAWLED http://www.hornicky-klub.info/
+200 CRAWLED http://www.horyinfo.cz/
+200 CRAWLED http://www.hospice.cz/hospice1/index1.php
+200 CRAWLED http://www.hostyn.cz/
+200 CRAWLED http://www.hostyn.cz/home.htm
+200 CRAWLED http://www.hotel-kuba.cz/
+200 CRAWLED http://www.hplc.cz/
+200 CRAWLED http://www.hplc.cz/index.html
+200 CRAWLED http://www.hrad-krakovec.cz/
+200 CRAWLED http://www.hradkarlstejn.cz/
+200 CRAWLED http://www.hrobky.info/
+200 CRAWLED http://www.hucot.cz/cz/home/
+200 CRAWLED http://www.humanicus.org/
+200 CRAWLED http://www.humanicus.org/en-us/index.html
+200 CRAWLED http://www.hvezdarna-vsetin.cz/
+200 CRAWLED http://www.hvezdarna.cz/
+200 CRAWLED http://www.hybrid.cz/
+200 CRAWLED http://www.i-divadlo.cz/
+200 CRAWLED http://www.i-zuby.cz/
+200 CRAWLED http://www.iabrno.cz/agalerie/agalerie.htm
+200 CRAWLED http://www.iach.cz/
+200 CRAWLED http://www.iach.cz/index.htm
+200 CRAWLED http://www.iapsa.cz/
+200 CRAWLED http://www.iapsa.cz/index.html
+200 CRAWLED http://www.ibby.cz/
+200 CRAWLED http://www.ibesip.cz/
+200 CRAWLED http://www.ibot.cas.cz/
+200 CRAWLED http://www.ibp.cz/
+200 CRAWLED http://www.icdcprague.org/
+200 CRAWLED http://www.icm.cz/
+200 CRAWLED http://www.icmcr.cz/
+200 CRAWLED http://www.icpf.cas.cz/
+200 CRAWLED http://www.idealni.cz/
+200 CRAWLED http://www.iips.cz/cs/aktuality/novinky-a-publikace/
+200 CRAWLED http://www.ikaros.cz/
+200 CRAWLED http://www.ikvalita.cz/tools.php?ID=30
+200 CRAWLED http://www.inflow.cz/
+200 CRAWLED http://www.infoabsolvent.cz/
+200 CRAWLED http://www.infogram.cz/
+200 CRAWLED http://www.infopanel.cz/
+200 CRAWLED http://www.informace-scf.cz/
+200 CRAWLED http://www.inoboediens.estranky.cz/
+200 CRAWLED http://www.integracniprogramy.cz/
+200 CRAWLED http://www.inter-art.cz/
+200 CRAWLED http://www.iontosorb.cz/
+200 CRAWLED http://www.iopavsko.cz/page/sindex.php?lang=1&menu_id=15&submenu_id=0
+200 CRAWLED http://www.ipen.arnika.org/
+200 CRAWLED http://www.iphone-3gs.cz/
+200 CRAWLED http://www.irz.cz/
+200 CRAWLED http://www.isvs.cz/
+200 CRAWLED http://www.itbiz.cz/
+200 CRAWLED http://www.iustin.cz/
+200 CRAWLED http://www.ivanroubal.estranky.cz/
+200 CRAWLED http://www.izdoprava.cz/
+200 CRAWLED http://www.janske-kameny.cz/
+200 CRAWLED http://www.japhila.cz/
+200 CRAWLED http://www.japhila.cz/hof/exponet_menu.htm
+200 CRAWLED http://www.japhila.cz/index.htm
+200 CRAWLED http://www.jarodic.cz/cz/
+200 CRAWLED http://www.jaromirstetina.cz/
+200 CRAWLED http://www.jaroslav-soucek.snadno.eu/
+200 CRAWLED http://www.jedinak.cz/
+200 CRAWLED http://www.jesuit.cz/
+200 CRAWLED http://www.jewishmuseum.cz/
+200 CRAWLED http://www.jezisuvkostel.estranky.cz/
+200 CRAWLED http://www.jgeosci.org/
+200 CRAWLED http://www.jh-inst.cas.cz/www/
+200 CRAWLED http://www.jihoceskaliteratura.cz/
+200 CRAWLED http://www.jiri-cerny.wbs.cz/
+200 CRAWLED http://www.jirikajinek.cz/
+200 CRAWLED http://www.jiripokorny.net/
+200 CRAWLED http://www.jitrnizeme.cz/
+200 CRAWLED http://www.johannes-urzidil.cz/
+200 CRAWLED http://www.jolana.info/
+200 CRAWLED http://www.jolana.info/index.html
+200 CRAWLED http://www.jtpunion.org/spip/
+200 CRAWLED http://www.jung.sneznik.cz/
+200 CRAWLED http://www.juniorinternet.cz/
+200 CRAWLED http://www.justice2009.cz/
+200 CRAWLED http://www.k-report.net/
+200 CRAWLED http://www.kacr.cz/
+200 CRAWLED http://www.karelburian.cz/
+200 CRAWLED http://www.karelvasatko.cz/
+200 CRAWLED http://www.karlin.mff.cuni.cz/katedry/kdm/
+200 CRAWLED http://www.karmel.cz/
+200 CRAWLED http://www.karpaty.net/
+200 CRAWLED http://www.katyd.cz/
+200 CRAWLED http://www.kdpcr.cz/
+200 CRAWLED http://www.kftp.cz/
+200 CRAWLED http://www.khamoro.cz/
+200 CRAWLED http://www.khlpro.cz/
+200 CRAWLED http://www.kinesiotherapy.sportpsy.cz/
+200 CRAWLED http://www.kis-stredocesky.cz/
+200 CRAWLED http://www.kladnominule.cz/
+200 CRAWLED http://www.klarinetweb.wz.cz/
+200 CRAWLED http://www.kleio.cz/
+200 CRAWLED http://www.klic-css.cz/
+200 CRAWLED http://www.klinikazdravi.cz/
+200 CRAWLED http://www.klucov.cz/
+200 CRAWLED http://www.kma.zcu.cz/
+200 CRAWLED http://www.knez.cz/ptacek/
+200 CRAWLED http://www.knife.cz/
+200 CRAWLED http://www.knihovnice.cz/
+200 CRAWLED http://www.knihovny.cz/
+200 CRAWLED http://www.kochlear.cz/
+200 CRAWLED http://www.kohoutikriz.org/
+200 CRAWLED http://www.kolorektalni-karcinom.cz/
+200 CRAWLED http://www.kolportaz.cz/index.html
+200 CRAWLED http://www.koment.cz/
+200 CRAWLED http://www.komety.cz/
+200 CRAWLED http://www.komora.cz/
+200 CRAWLED http://www.komorasns.cz/
+200 CRAWLED http://www.kompas.estranky.cz/
+200 CRAWLED http://www.komunistickepravo.cz/
+200 CRAWLED http://www.koncentracni-tabory.estranky.cz/
+200 CRAWLED http://www.konopijelek.cz/
+200 CRAWLED http://www.konzervativniklub.cz/
+200 CRAWLED http://www.konzument.cz/
+200 CRAWLED http://www.kornatice.cz/
+200 CRAWLED http://www.kostelyunas.net/
+200 CRAWLED http://www.kostym.cz/
+200 CRAWLED http://www.kouzlodopravy.cz/
+200 CRAWLED http://www.kpp.iipardubice.cz/
+200 CRAWLED http://www.kpufo.cz/
+200 CRAWLED http://www.krasec.cz/
+200 CRAWLED http://www.krimi-servis.cz/
+200 CRAWLED http://www.kristofkintera.com/
+200 CRAWLED http://www.kristofkintera.com/index.htm
+200 CRAWLED http://www.krivoklat.cz/
+200 CRAWLED http://www.krnap.cz/
+200 CRAWLED http://www.kronikar.estranky.cz/
+200 CRAWLED http://www.krumlov-net.cz/
+200 CRAWLED http://www.krusnohorsky.cz/
+200 CRAWLED http://www.kshk.cz/
+200 CRAWLED http://www.kudyznudy.cz/cs/index.html
+200 CRAWLED http://www.kulicky.com/
+200 CRAWLED http://www.kulicky.eu/
+200 CRAWLED http://www.kulturajinak.com/
+200 CRAWLED http://www.kutnahora.cz/
+200 CRAWLED http://www.kvantovapsychologie.cz/
+200 CRAWLED http://www.kviff.com/
+200 CRAWLED http://www.kynolog.cz/
+200 CRAWLED http://www.langweil.cz/
+200 CRAWLED http://www.latrine.cz/
+200 CRAWLED http://www.lceproject.org/
+200 CRAWLED http://www.leblog.cz/
+200 CRAWLED http://www.lecba-bolesti.cz/
+200 CRAWLED http://www.lecba-rakoviny.cz/
+200 CRAWLED http://www.lesnictvi.cz/index.php?SESID=719532b14f5a60cf624a6cc58440e76c
+200 CRAWLED http://www.letistecr.cz/
+200 CRAWLED http://www.lexforum.cz/
+200 CRAWLED http://www.lezaky-memorial.cz/
+200 CRAWLED http://www.lf2.cuni.cz/Projekty/prusa-dna/
+200 CRAWLED http://www.lfs.cz/
+200 CRAWLED http://www.lhotse.xf.cz/
+200 CRAWLED http://www.liberec2009.com/
+200 CRAWLED http://www.lidice-memorial.cz/
+200 CRAWLED http://www.lidova-architektura.cz/
+200 CRAWLED http://www.lidovakultura.cz/
+200 CRAWLED http://www.linkabezpeci.cz/webmagazine/home.asp?idk=393
+200 CRAWLED http://www.linuxexpres.cz/
+200 CRAWLED http://www.lirtaps.cz/psychosomatika/archiv.htm
+200 CRAWLED http://www.listy.cz/
+200 CRAWLED http://www.litenky.cz/
+200 CRAWLED http://www.literarky.cz/
+200 CRAWLED http://www.lorm.cz/cs/lorm/aktuality.php
+200 CRAWLED http://www.loschmidt.cz/
+200 CRAWLED http://www.lt.fd.cvut.cz/its/
+200 CRAWLED http://www.ludvikcerny.estranky.cz/
+200 CRAWLED http://www.ludviksalvator.cz/
+200 CRAWLED http://www.ludvikvaculik.cz/
+200 CRAWLED http://www.luhacovice.cz/
+200 CRAWLED http://www.luzicke-hory.cz/
+200 CRAWLED http://www.m-journal.cz/cs/
+200 CRAWLED http://www.mamo.cz/
+200 CRAWLED http://www.mandrivalinux.cz/
+200 CRAWLED http://www.manga.cz/
+200 CRAWLED http://www.marianskolazensko.cz/
+200 CRAWLED http://www.martinadamek.cz/
+200 CRAWLED http://www.martinreiner.cz/
+200 CRAWLED http://www.martinu.cz/novinky.php
+200 CRAWLED http://www.maskil.cz/
+200 CRAWLED http://www.materska-nadeje.cz/
+200 CRAWLED http://www.math.muni.cz/~sisma/dthb/
+200 CRAWLED http://www.mc-galerie.cz/
+200 CRAWLED http://www.mdvv-lidice.cz/
+200 CRAWLED http://www.media4u.cz/
+200 CRAWLED http://www.mediainfo.cz/
+200 CRAWLED http://www.medmicro.info/
+200 CRAWLED http://www.memento.junweb.cz/
+200 CRAWLED http://www.mensa.cz/
+200 CRAWLED http://www.merkurklubplzen.cz/
+200 CRAWLED http://www.mestaprozivot.arnika.org/
+200 CRAWLED http://www.metroweb.cz/
+200 CRAWLED http://www.mezikulturnidialog.cz/
+200 CRAWLED http://www.mezinami.cz/
+200 CRAWLED http://www.mfcr.cz/cps/rde/xchg/
+200 CRAWLED http://www.mhdfoto.cz/
+200 CRAWLED http://www.michalsiroky.com/airflow/index.html
+200 CRAWLED http://www.migraceonline.cz/
+200 CRAWLED http://www.migrationonline.cz/
+200 CRAWLED http://www.mikrofotobanky.cz/
+200 CRAWLED http://www.mineral.cz/
+200 CRAWLED http://www.mineral.estranky.cz/
+200 CRAWLED http://www.minimalizacesikany.cz/
+200 CRAWLED http://www.mint.cz/
+200 CRAWLED http://www.mint.cz/files/Katalog_minci_a_medaili.pdf
+200 CRAWLED http://www.mitvsehotovo.cz/
+200 CRAWLED http://www.mjakub.cz/
+200 CRAWLED http://www.mlab.cz/
+200 CRAWLED http://www.mlab.cz/index.en.html
+200 CRAWLED http://www.mladezvakci.cz/
+200 CRAWLED http://www.mnichovo-hradiste.cz/
+200 CRAWLED http://www.moraviamagna.cz/
+200 CRAWLED http://www.moravskykras.net/
+200 CRAWLED http://www.moskyt.net/
+200 CRAWLED http://www.mountainbike.cz/
+200 CRAWLED http://www.mountainski.cz/
+200 CRAWLED http://www.mpsv.cz/cs/
+200 CRAWLED http://www.mpz.cz/
+200 CRAWLED http://www.msb-jablonec.cz/
+200 CRAWLED http://www.multikultura.cz/
+200 CRAWLED http://www.musical-opereta.cz/
+200 CRAWLED http://www.musicalnet.cz/
+200 CRAWLED http://www.musicasacra.cz/
+200 CRAWLED http://www.musicologica.cz/
+200 CRAWLED http://www.muzes.cz/
+200 CRAWLED http://www.muzeum-pribram.cz/
+200 CRAWLED http://www.muzeum.zlin.cz/
+200 CRAWLED http://www.muzeumtgm.cz/cz
+200 CRAWLED http://www.muzeumzatec.cz/
+200 CRAWLED http://www.mvcr.cz/
+200 CRAWLED http://www.mzk.cz/
+200 CRAWLED http://www.mzm.cz/
+200 CRAWLED http://www.mzp.cz/
+200 CRAWLED http://www.mzv.cz/eu
+200 CRAWLED http://www.mzv.cz/jnp/
+200 CRAWLED http://www.mzv.cz/representation_brussels
+200 CRAWLED http://www.nacerno.cz/
+200 CRAWLED http://www.nadacepartnerstvi.cz/
+200 CRAWLED http://www.nadanedeti.cz/
+200 CRAWLED http://www.nadanedite.cz/
+200 CRAWLED http://www.nama.cz/
+200 CRAWLED http://www.nanopin.cz/
+200 CRAWLED http://www.napalubu.cz/
+200 CRAWLED http://www.narmyslenka.cz/
+200 CRAWLED http://www.nasipolitici.cz/cs
+200 CRAWLED http://www.nasiptaci.cz/
+200 CRAWLED http://www.natoaktual.cz/
+200 CRAWLED http://www.naucnoustezkou.cz/
+200 CRAWLED http://www.navstevapapeze.cz/
+200 CRAWLED http://www.navychod.cz/
+200 CRAWLED http://www.nazabradli.cz/
+200 CRAWLED http://www.nazeleno.cz/
+200 CRAWLED http://www.nbu.cz/cs/
+200 CRAWLED http://www.nde.cz/
+200 CRAWLED http://www.nekultura.cz/
+200 CRAWLED http://www.nenasili.cz/
+200 CRAWLED http://www.net-mag.cz/
+200 CRAWLED http://www.neuhaus.cz/
+200 CRAWLED http://www.nezavirejteoci.cz/
+200 CRAWLED http://www.nezavislyzeleznicar.info/
+200 CRAWLED http://www.nezradime.cz/
+200 CRAWLED http://www.ngprague.cz/
+200 CRAWLED http://www.nhlpro.cz/
+200 CRAWLED http://www.nic.cz/
+200 CRAWLED http://www.nidm.cz/
+200 CRAWLED http://www.nkp.cz/
+200 CRAWLED http://www.nku.cz/
+200 CRAWLED http://www.nlk.cz/
+200 CRAWLED http://www.nm.cz/
+200 CRAWLED http://www.nmf.cz/
+200 CRAWLED http://www.noramb.cz/
+200 CRAWLED http://www.nostalghia.cz/
+200 CRAWLED http://www.novapravidla.cz/
+200 CRAWLED http://www.novezeny.eu/
+200 CRAWLED http://www.novohradky.info/
+200 CRAWLED http://www.novydomov.com/
+200 CRAWLED http://www.novydvur.cz/
+200 CRAWLED http://www.novyhrad.cz/
+200 CRAWLED http://www.npkk.cz/
+200 CRAWLED http://www.nsoud.cz/
+200 CRAWLED http://www.ntm.cz/
+200 CRAWLED http://www.nuclear-forum.cz/index.html
+200 CRAWLED http://www.nulk.cz/
+200 CRAWLED http://www.nuov.cz/
+200 CRAWLED http://www.nur.cz/
+200 CRAWLED http://www.nvf.cz/
+200 CRAWLED http://www.obcan.arnika.org/
+200 CRAWLED http://www.obetiahrdinove.cz/
+200 CRAWLED http://www.obozrevatel.cz/
+200 CRAWLED http://www.obrazar.com/
+200 CRAWLED http://www.obrazar.com/obrazar/
+200 CRAWLED http://www.ochranaprirody.cz/
+200 CRAWLED http://www.ochrance.cz/
+200 CRAWLED http://www.odonata.cz/
+200 CRAWLED http://www.odrogach.cz/
+200 CRAWLED http://www.odsouzeni.estranky.cz/
+200 CRAWLED http://www.odvykani-koureni.cz/
+200 CRAWLED http://www.ok.cz/iksp/
+200 CRAWLED http://www.oknavesmiru.cz/
+200 CRAWLED http://www.okpb.cz/okoo/
+200 CRAWLED http://www.okpb.cz/webit/index.php?set=dokument~cze~false&doc=medailony
+200 CRAWLED http://www.oldphoto.info/
+200 CRAWLED http://www.oldradio.cz/
+200 CRAWLED http://www.olmuart.cz/
+200 CRAWLED http://www.oneworld.cz/2010/
+200 CRAWLED http://www.openmagazin.cz/
+200 CRAWLED http://www.openoffice.cz/
+200 CRAWLED http://www.opera.cz/
+200 CRAWLED http://www.opolsku.info/
+200 CRAWLED http://www.origami.cz/
+200 CRAWLED http://www.orlicky.net/
+200 CRAWLED http://www.orthodoxa.cz/
+200 CRAWLED http://www.osa.cz/
+200 CRAWLED http://www.osel.cz/
+200 CRAWLED http://www.osn.cz/
+200 CRAWLED http://www.osteoporoza.cz/
+200 CRAWLED http://www.ostravaci.cz/
+200 CRAWLED http://www.otevrenaspolecnost.cz/
+200 CRAWLED http://www.otevrete.cz/
+200 CRAWLED http://www.outsidermedia.cz/
+200 CRAWLED http://www.ovocnarska-unie.cz/web/web-sispo/
+200 CRAWLED http://www.p-numis.ic.cz/
+200 CRAWLED http://www.paladix.cz/
+200 CRAWLED http://www.pamatky-kk.estranky.cz/
+200 CRAWLED http://www.pamatky.ceskalipa.org/
+200 CRAWLED http://www.pamatnestromy.cz/
+200 CRAWLED http://www.pamatnik-terezin.cz/showdoc.do?docid=4
+200 CRAWLED http://www.pandemie.cz/
+200 CRAWLED http://www.panna.cz/panna/
+200 CRAWLED http://www.paraple.cz/
+200 CRAWLED http://www.parostroj.net/
+200 CRAWLED http://www.patzelt-foto.cz/
+200 CRAWLED http://www.paulinky.cz/
+200 CRAWLED http://www.pdcap.cz/
+200 CRAWLED http://www.ped.muni.cz/wmus/studium/doktor/publ.htm
+200 CRAWLED http://www.pehe.cz/zapisnik/zapisnik_view
+200 CRAWLED http://www.periskop.cz/
+200 CRAWLED http://www.personalista.com/
+200 CRAWLED http://www.peru.cz/
+200 CRAWLED http://www.petr-fabian.cz/antologie/
+200 CRAWLED http://www.petr-fabian.cz/antologie/index.html
+200 CRAWLED http://www.phil.muni.cz/kapradi/
+200 CRAWLED http://www.phil.muni.cz/kivi/
+200 CRAWLED http://www.phil.muni.cz/linguistica/
+200 CRAWLED http://www.phil.muni.cz/linguistica/byauthor.html
+200 CRAWLED http://www.phil.muni.cz/linguistica/bytopic.html
+200 CRAWLED http://www.phil.muni.cz/linguistica/callforpapers.html
+200 CRAWLED http://www.phil.muni.cz/linguistica/issues.html
+200 CRAWLED http://www.phil.muni.cz/linguistica/links.html
+200 CRAWLED http://www.phil.muni.cz/linguistica/participants.html
+200 CRAWLED http://www.phil.muni.cz/stylistika/
+200 CRAWLED http://www.phil.muni.cz/~hump/Scenotest_Prolegomena_CZE/
+200 CRAWLED http://www.phil.muni.cz/~macha/profil/index.php/profil/
+200 CRAWLED http://www.pilsen2009.com/
+200 CRAWLED http://www.ping-pong.cz/
+200 CRAWLED http://www.pis.cz/
+200 CRAWLED http://www.pismakuvdenik.cz/
+200 CRAWLED http://www.pivovarska-skola.cz/
+200 CRAWLED http://www.pivovary.info/
+200 CRAWLED http://www.pkf.cz/
+200 CRAWLED http://www.plachteni.cz/
+200 CRAWLED http://www.planetky.cz/
+200 CRAWLED http://www.planetopia.cz/
+200 CRAWLED http://www.plzensketramvaje.cz/
+200 CRAWLED http://www.podnos.aid.cz/
+200 CRAWLED http://www.podzemi-cma.cz/
+200 CRAWLED http://www.poeta.cz/
+200 CRAWLED http://www.pojistenec.cz/
+200 CRAWLED http://www.politologove.cz/
+200 CRAWLED http://www.poslouchej.net/
+200 CRAWLED http://www.postreh.com/phprs/
+200 CRAWLED http://www.povrchovauprava.cz/casopis
+200 CRAWLED http://www.pozary.cz/
+200 CRAWLED http://www.pozemnihokej.cz/
+200 CRAWLED http://www.pozitivni-noviny.cz/cz/
+200 CRAWLED http://www.prader-willi.cz/
+200 CRAWLED http://www.praga2008.cz/
+200 CRAWLED http://www.pratelepiva.cz/
+200 CRAWLED http://www.pravnik.cz/
+200 CRAWLED http://www.pravodoskol.cz/
+200 CRAWLED http://www.pravoit.cz/
+200 CRAWLED http://www.prazskamuzejninoc.cz/
+200 CRAWLED http://www.prazskekasny.net/
+200 CRAWLED http://www.prazskestezky.cz/
+200 CRAWLED http://www.prazskestezky.cz/index.html
+200 CRAWLED http://www.prazsketramvaje.cz/
+200 CRAWLED http://www.predskolaci.cz/
+200 CRAWLED http://www.prezidentka.cz/
+200 CRAWLED http://www.prf.cuni.cz/1948/index.htm
+200 CRAWLED http://www.proart-festival.cz/
+200 CRAWLED http://www.proculture.cz/
+200 CRAWLED http://www.prodopravce.cz/
+200 CRAWLED http://www.proequality.cz/
+200 CRAWLED http://www.profem.cz/
+200 CRAWLED http://www.profimysl.cz/
+200 CRAWLED http://www.projektkacina.estranky.cz/
+200 CRAWLED http://www.prolaktin.cz/
+200 CRAWLED http://www.propast-macocha.cz/
+200 CRAWLED http://www.protibet.org/
+200 CRAWLED http://www.protiraketam.cz/
+200 CRAWLED http://www.prototypy.cz/
+200 CRAWLED http://www.proverenafakulta.cz/
+200 CRAWLED http://www.prvni-pomoc.com/
+200 CRAWLED http://www.pse.cz/
+200 CRAWLED http://www.psivino.cz/
+200 CRAWLED http://www.psychicke-zdravi.cz/
+200 CRAWLED http://www.psychodiagnostika.cz/
+200 CRAWLED http://www.psychohratky.com/
+200 CRAWLED http://www.psychotronika.cz/
+200 CRAWLED http://www.px.cz/
+200 CRAWLED http://www.quovadisfemina.cz/
+200 CRAWLED http://www.radioeng.cz/info/about_journal.php
+200 CRAWLED http://www.radioeng.cz/number.php?number=0&year=1992
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=1992
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=1993
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=1994
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=1995
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=1996
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=1997
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=1998
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=1999
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2000
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2001
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2002
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2003
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2004
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2005
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2006
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2007
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2008
+200 CRAWLED http://www.radioeng.cz/number.php?number=1&year=2009
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=1992
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=1993
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=1994
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=1995
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=1996
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=1997
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=1998
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=1999
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2000
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2001
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2002
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2003
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2004
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2005
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2006
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2007
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2008
+200 CRAWLED http://www.radioeng.cz/number.php?number=2&year=2009
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=1993
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=1994
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=1995
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=1996
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=1997
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=1998
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=1999
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2000
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2001
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2002
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2003
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2004
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2005
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2006
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2007
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2008
+200 CRAWLED http://www.radioeng.cz/number.php?number=3&year=2009
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=1993
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=1994
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=1995
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=1996
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=1997
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=1998
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=1999
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2000
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2001
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2002
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2003
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2004
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2005
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2006
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2007
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2008
+200 CRAWLED http://www.radioeng.cz/number.php?number=4&year=2009
+200 CRAWLED http://www.radiovaticana.cz/
+200 CRAWLED http://www.ragby.cz/
+200 CRAWLED http://www.refernet.cz/
+200 CRAWLED http://www.regenschori.com/
+200 CRAWLED http://www.rencin.cz/
+200 CRAWLED http://www.rentgen.eu/
+200 CRAWLED http://www.rentgen.eu/rentgen_intro.html
+200 CRAWLED http://www.republikani.com/
+200 CRAWLED http://www.rescue.cz/
+200 CRAWLED http://www.respektinstitut.cz/
+200 CRAWLED http://www.restauro.cz/
+200 CRAWLED http://www.revmaticke-nemoci.cz/
+200 CRAWLED http://www.rexter.cz/
+200 CRAWLED http://www.rezonance.cz/wp/
+200 CRAWLED http://www.richtera.cz/numismatics/
+200 CRAWLED http://www.rinceoiri.cz/
+200 CRAWLED http://www.risk-management.cz/
+200 CRAWLED http://www.rockhound.cz/main.php
+200 CRAWLED http://www.romanohangos.cekit.cz/
+200 CRAWLED http://www.rommuz.cz/
+200 CRAWLED http://www.roofs.cz/
+200 CRAWLED http://www.rosacb.cz/zelenabrana/
+200 CRAWLED http://www.rovneprilezitosti.cz/
+200 CRAWLED http://www.rozalio.cz/
+200 CRAWLED http://www.rozvojovka.cz/
+200 CRAWLED http://www.rppp.cz/
+200 CRAWLED http://www.ruskodnes.cz/
+200 CRAWLED http://www.rustovyhormon.cz/
+200 CRAWLED http://www.rychleby.cz/
+200 CRAWLED http://www.safebryo.cz/
+200 CRAWLED http://www.saferinternet.cz/
+200 CRAWLED http://www.safety-21.com/
+200 CRAWLED http://www.sallyx.org/
+200 CRAWLED http://www.salon.cz/
+200 CRAWLED http://www.samanskajurta.cz/
+200 CRAWLED http://www.sanami.cz/
+200 CRAWLED http://www.sas-army.com/
+200 CRAWLED http://www.sbor.cz/
+200 CRAWLED http://www.scenicky-tanec.cz/scenicky-tanec-pohybove-divadlo/aktuality/
+200 CRAWLED http://www.scheufler.cz/
+200 CRAWLED http://www.schnablova.net/www/Hrady/index.html
+200 CRAWLED http://www.schnablova.net/www/Prazske%20kostely/index.html
+200 CRAWLED http://www.schnablova.net/www/Prazske%20veze/index.html
+200 CRAWLED http://www.schp.cz/html/
+200 CRAWLED http://www.sci.muni.cz/~vavra/
+200 CRAWLED http://www.secondlife.cz/
+200 CRAWLED http://www.securityprinting.org/index.htm
+200 CRAWLED http://www.selskebaroko.cz/selskebaroko/index.htm
+200 CRAWLED http://www.senat.cz/
+200 CRAWLED http://www.senftenberg.cz/
+200 CRAWLED http://www.severskelisty.cz/tydenik/tyd0904.htm
+200 CRAWLED http://www.sexualne.cz/
+200 CRAWLED http://www.sexus.cz/
+200 CRAWLED http://www.sezimovousti.cz/
+200 CRAWLED http://www.shakuhachi.cz/
+200 CRAWLED http://www.shromazdovacipravo.cz/
+200 CRAWLED http://www.shscms.cz/
+200 CRAWLED http://www.sikana.org/
+200 CRAWLED http://www.skoda110r.com/
+200 CRAWLED http://www.skotskehry.cz/
+200 CRAWLED http://www.skutecnapomoc.cz/
+200 CRAWLED http://www.skutecnost.cz/
+200 CRAWLED http://www.slavnevily.cz/
+200 CRAWLED http://www.slea.cz/
+200 CRAWLED http://www.slovane.ic.cz/
+200 CRAWLED http://www.slovenske.cz/
+200 CRAWLED http://www.smirice.eu/
+200 CRAWLED http://www.smop.cz/
+200 CRAWLED http://www.sneznik.cz/cz/vitejte/
+200 CRAWLED http://www.snizekweb.cz/
+200 CRAWLED http://www.soc.cas.cz/
+200 CRAWLED http://www.socioweb.cz/
+200 CRAWLED http://www.socrealismus.info/
+200 CRAWLED http://www.socsol.cz/
+200 CRAWLED http://www.softball.cz/
+200 CRAWLED http://www.sokolmelbourne.com.au/
+200 CRAWLED http://www.soom.cz/
+200 CRAWLED http://www.spanelsko.info/
+200 CRAWLED http://www.spanelsko.info/index.htm
+200 CRAWLED http://www.spcr.cz/
+200 CRAWLED http://www.specnaz.cz/
+200 CRAWLED http://www.speedexpress.cz/
+200 CRAWLED http://www.speedwaya-z.cz/
+200 CRAWLED http://www.spoleksalamoun.com/
+200 CRAWLED http://www.sport-nevidomych.cz/
+200 CRAWLED http://www.sportovni.net/
+200 CRAWLED http://www.spotrebitel.cz/
+200 CRAWLED http://www.spvd.cz/
+200 CRAWLED http://www.srcce.cz/
+200 CRAWLED http://www.stampach.cz/
+200 CRAWLED http://www.stanislava-souckova.cz/
+200 CRAWLED http://www.stanislavgrof.com/
+200 CRAWLED http://www.starahut.com/
+200 CRAWLED http://www.starovekyegypt.net/
+200 CRAWLED http://www.stavebni-forum.cz/cs/
+200 CRAWLED http://www.steril.cz/casopis/
+200 CRAWLED http://www.stezky.info/
+200 CRAWLED http://www.stop-koureni.cz/
+200 CRAWLED http://www.stopdetskepraci.cz/
+200 CRAWLED http://www.stopstigmapsychiatrie.cz/
+200 CRAWLED http://www.stopstigmapsychiatrie.cz/index.php
+200 CRAWLED http://www.stranaos.cz/
+200 CRAWLED http://www.stranaprace.cz/
+200 CRAWLED http://www.stranypotapecske.cz/
+200 CRAWLED http://www.stratif.cz/
+200 CRAWLED http://www.stredovek.com/
+200 CRAWLED http://www.strevni-zanety.cz/
+200 CRAWLED http://www.studena.valka.cz/
+200 CRAWLED http://www.student.cvut.cz/
+200 CRAWLED http://www.stuz.cz/
+200 CRAWLED http://www.stuz.cz/rs/
+200 CRAWLED http://www.substitucni-lecba.cz/
+200 CRAWLED http://www.suburbanizace.cz/
+200 CRAWLED http://www.sujb.cz/
+200 CRAWLED http://www.sukl.cz/
+200 CRAWLED http://www.supersvet.cz/
+200 CRAWLED http://www.supraphon.cz/cs/umelci/
+200 CRAWLED http://www.surao.cz/
+200 CRAWLED http://www.surao.cz/index.html
+200 CRAWLED http://www.suverenita.cz/
+200 CRAWLED http://www.svata-helena.eu/
+200 CRAWLED http://www.svazmlynu.cz/
+200 CRAWLED http://www.sverak.cz/
+200 CRAWLED http://www.svet-piva.cz/
+200 CRAWLED http://www.svet-zen.cz/
+200 CRAWLED http://www.svetoutdooru.cz/
+200 CRAWLED http://www.svetsiti.cz/
+200 CRAWLED http://www.svkos.cz/
+200 CRAWLED http://www.svl.cz/default.aspx/cz/spol/svl/default/prednasky
+200 CRAWLED http://www.svobodazvirat.cz/
+200 CRAWLED http://www.synchrotron.cz/
+200 CRAWLED http://www.szpi.gov.cz/
+200 CRAWLED http://www.szu.cz/
+200 CRAWLED http://www.ta-gita.cz/
+200 CRAWLED http://www.talentum.cz/
+200 CRAWLED http://www.tamek.icok.cz/
+200 CRAWLED http://www.tanecnicentrum.cz/
+200 CRAWLED http://www.taxoft.cz/nemeton/
+200 CRAWLED http://www.tc.cz/
+200 CRAWLED http://www.technicalmuseum.cz/
+200 CRAWLED http://www.technickepamatky.cz/
+200 CRAWLED http://www.telesnakultura.upol.cz/index.php/telesnakultura
+200 CRAWLED http://www.tesnopis.cz/
+200 CRAWLED http://www.ticho.cz/
+200 CRAWLED http://www.titanicworld.cz/
+200 CRAWLED http://www.titanicworld.cz/index.html
+200 CRAWLED http://www.tlustec.cz/
+200 CRAWLED http://www.tomascerny.cz/
+200 CRAWLED http://www.top09.cz/
+200 CRAWLED http://www.totalita.cz/
+200 CRAWLED http://www.translide.cz/
+200 CRAWLED http://www.transparency.cz/
+200 CRAWLED http://www.trat087.info/
+200 CRAWLED http://www.treking.cz/
+200 CRAWLED http://www.trestni-rizeni.com/
+200 CRAWLED http://www.tretiruka.cz/
+200 CRAWLED http://www.trosky.cz/rajnet/web/
+200 CRAWLED http://www.tv-porady.cz/
+200 CRAWLED http://www.tvrz-nemile.estranky.cz/
+200 CRAWLED http://www.typo.cz/
+200 CRAWLED http://www.typomil.com/
+200 CRAWLED http://www.uappmost.cz/
+200 CRAWLED http://www.uappsc.cz/uappsc.html
+200 CRAWLED http://www.ucebnice.krynicky.cz/
+200 CRAWLED http://www.ucimse.cz/
+200 CRAWLED http://www.ucitelske-listy.cz/
+200 CRAWLED http://www.ucl.cz/
+200 CRAWLED http://www.ucps.cz/portal/cz/index.php
+200 CRAWLED http://www.udu.cas.cz/
+200 CRAWLED http://www.uhersko.com/
+200 CRAWLED http://www.uiv.cz/
+200 CRAWLED http://www.ukacko.cz/
+200 CRAWLED http://www.umirani.cz/
+200 CRAWLED http://www.unhcr.cz/
+200 CRAWLED http://www.upm.cz/
+200 CRAWLED http://www.usd.cas.cz/
+200 CRAWLED http://www.usti-aussig.net/
+200 CRAWLED http://www.utocna-vozba.estranky.cz/
+200 CRAWLED http://www.uur.cz/
+200 CRAWLED http://www.uvucr.cz/
+200 CRAWLED http://www.uzijsisoukromi.cz/
+200 CRAWLED http://www.uzis.cz/news.php?mnu_id=1100
+200 CRAWLED http://www.v-art.cz/
+200 CRAWLED http://www.v-praha.info/
+200 CRAWLED http://www.v-praha.info/index.htm
+200 CRAWLED http://www.vaclavchochola.cz/
+200 CRAWLED http://www.vaclavchochola.cz/index.htm
+200 CRAWLED http://www.vakciny.net/
+200 CRAWLED http://www.valka.cz/
+200 CRAWLED http://www.varhany.org/
+200 CRAWLED http://www.varianty.cz/
+200 CRAWLED http://www.vasedeti.cz/
+200 CRAWLED http://www.vaseliteratura.cz/
+200 CRAWLED http://www.vaspodpis.cz/
+200 CRAWLED http://www.vcelarskenoviny.cz/
+200 CRAWLED http://www.veda.cz/
+200 CRAWLED http://www.vedeme.cz/
+200 CRAWLED http://www.velebil.net/
+200 CRAWLED http://www.velehory.cz/
+200 CRAWLED http://www.veronica.cz/
+200 CRAWLED http://www.vets.estranky.cz/
+200 CRAWLED http://www.viaiuris.cz/
+200 CRAWLED http://www.viap.cz/
+200 CRAWLED http://www.viklicky.com/
+200 CRAWLED http://www.virova-hepatitida.cz/
+200 CRAWLED http://www.virusfreegeneration.eu/
+200 CRAWLED http://www.vkol.cz/cs/
+200 CRAWLED http://www.vlacky.com/
+200 CRAWLED http://www.vlada.cz/
+200 CRAWLED http://www.vlasy.cz/
+200 CRAWLED http://www.vmp.cz/
+200 CRAWLED http://www.voda.arnika.org/
+200 CRAWLED http://www.vojenstvi.cz/
+200 CRAWLED http://www.volby-2006.cz/
+200 CRAWLED http://www.volby.cz/
+200 CRAWLED http://www.volny.cz/berkut/Zapisky/
+200 CRAWLED http://www.volny.cz/pjenicek/radio/
+200 CRAWLED http://www.volny.cz/vesely.marek/
+200 CRAWLED http://www.volny.cz/zlaty.rez/
+200 CRAWLED http://www.vrcholky.cz/
+200 CRAWLED http://www.vseprozdravi.cz/
+200 CRAWLED http://www.vsfs.cz/
+200 CRAWLED http://www.vubhb.cz/
+200 CRAWLED http://www.vupp.cz/
+200 CRAWLED http://www.vupsv.cz/
+200 CRAWLED http://www.vurv.cz/
+200 CRAWLED http://www.vvpdedice.net/
+200 CRAWLED http://www.vybiramsi.eu/
+200 CRAWLED http://www.vychova-vzdelavani.cz/
+200 CRAWLED http://www.vychovakezdravi.cz/
+200 CRAWLED http://www.vyletnik.cz/
+200 CRAWLED http://www.vysokoskolak.cz/MainPage.aspx
+200 CRAWLED http://www.vyvojka.cz/
+200 CRAWLED http://www.vyzkum.cz/
+200 CRAWLED http://www.vzdelani.cz/
+200 CRAWLED http://www.vztahkprirode.cz/
+200 CRAWLED http://www.wasteforum.cz/
+200 CRAWLED http://www.watchdog.cz/
+200 CRAWLED http://www.webarchiv.cz/
+200 CRAWLED http://www.webzdarma.cz/
+200 CRAWLED http://www.wine-food-travel.com/
+200 CRAWLED http://www.ww2-memorials.com/
+200 CRAWLED http://www.ye.cz/
+200 CRAWLED http://www.youtube.com/user/mhdfotocz
+200 CRAWLED http://www.zabaci.cz/
+200 CRAWLED http://www.zabanaprameni.cz/
+200 CRAWLED http://www.zajatecke-tabory.estranky.cz/
+200 CRAWLED http://www.zamek-breznice.cz/
+200 CRAWLED http://www.zamek-horovice.cz/
+200 CRAWLED http://www.zamek-konopiste.cz/
+200 CRAWLED http://www.zamek-mnisek.cz/
+200 CRAWLED http://www.zamek-veltrusy.cz/
+200 CRAWLED http://www.zamek-zleby.cz/
+200 CRAWLED http://www.zamky-hrady.cz/
+200 CRAWLED http://www.zanikleobce.cz/
+200 CRAWLED http://www.zapomenutihrdinove.cz/
+200 CRAWLED http://www.zasvobodu.cz/
+200 CRAWLED http://www.zavedenieura.cz/cps/rde/xchg/euro/
+200 CRAWLED http://www.zbecno.cz/
+200 CRAWLED http://www.zdarskevrchy.cz/
+200 CRAWLED http://www.zdjc.cz/
+200 CRAWLED http://www.zdravi-az.cz/
+200 CRAWLED http://www.zeleny-zakal.cz/
+200 CRAWLED http://www.zemepis.com/
+200 CRAWLED http://www.zenska-neplodnost.cz/
+200 CRAWLED http://www.zeny.cz/
+200 CRAWLED http://www.zenyamedia.cz/
+200 CRAWLED http://www.zip-ops.cz/
+200 CRAWLED http://www.zivapamet.cz/
+200 CRAWLED http://www.zive.cz/
+200 CRAWLED http://www.zlatakoruna.info/
+200 CRAWLED http://www.zluticko.estranky.cz/
+200 CRAWLED http://www.zmenaklimatu.cz/
+200 CRAWLED http://www.zmizeli-sousede.cz/
+200 CRAWLED http://www.znalecvin.cz/
+200 CRAWLED http://www.znkr.cz/
+200 CRAWLED http://www.znojmuz.cz/digitalizace/index.php
+200 CRAWLED http://www.zob.cz//?q=cs/
+200 CRAWLED http://www2.ntm.cz/projekty/fototechniky/
+200 CRAWLED http://www3.fs.cvut.cz/web/index.php?id=934
+200 CRAWLED http://zacinej.cz/clanky/
+200 CRAWLED http://zbiejczuk.com/web20/
+200 CRAWLED http://zbiejczuk.com/web20/index.html
+200 CRAWLED http://zeleznice.wz.cz/
+200 CRAWLED http://zenskaprava.ecn.cz/
+200 CRAWLED http://zhola.com/BedrichHomola/
+200 CRAWLED http://zidovskaobecdecin.wz.cz/
+200 CRAWLED http://zidovskehrbitovy.wz.cz/
+200 CRAWLED http://zivotopisyonline.cz/
+200 CRAWLED http://zlin.cz/
+200 CRAWLED http://zpravodaj.feminismus.cz/
+200 CRAWLED http://zvony.varhanici.info/
+200 CRAWLED https://squat.net/praha/

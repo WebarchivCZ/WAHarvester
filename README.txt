@@ -1,6 +1,6 @@
 WA Harvester is tool for managing crawl jobs with Heritrix.
 
-It is just in beggining of the development.
+It is just in beginning of the development.
 
 LICENCE
 Copyright (c) 2011, WebArchiv.cz (http://webarchiv.cz)

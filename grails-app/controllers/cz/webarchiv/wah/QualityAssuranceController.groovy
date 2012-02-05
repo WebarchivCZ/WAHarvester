@@ -1,19 +1,17 @@
 package cz.webarchiv.wah
 
 import cz.webarchiv.linkextractor.LinkExtractor
-import cz.webarchiv.wadmin.QaCheck
 
 class QualityAssuranceController {
-    def scaffold = QaCheck
-    def index = { }
+  def index = {}
 
-    def extractLinks = {
+  def extractLinks = {
 
-    }
+  }
 
-    def showLinks = {
-        def le = new LinkExtractor()
+  def showLinks = {
+    def le = new LinkExtractor()
 
-        [links: le.extractLinks(params.url)]
-    }
+    [links: le.extractLinks(params.url)]
+  }
 }
